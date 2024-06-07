@@ -52,7 +52,7 @@ tracks: [
 { name: "09. Naagan            ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/honey_3_0/" },
 { name: "10. Habibti           ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/honey_3_0/" }
 ],
-label: ""
+label: "© 2023 Zee Music Company ℗ 2023 Zee Music Company"
 },
 
 // Album - ANIMAL (Original Motion Picture Soundtrack)
