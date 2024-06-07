@@ -1,0 +1,27 @@
+# Please Refer The Text Below To Add New Songs To The File "script.js" In The Repository More Efficiently!
+
+// - // - // - // - //  DO NOT EDIT BELOW THIS LINE // - // - // - // - //
+{
+// - // - // - // - //  DO NOT EDIT ABOVE THIS LINE // - // - // - // - //\
+
+name: "",
+albums: [
+
+// Album - Name
+{
+cover: "",
+name: "",
+artist: "",
+releaseDate: "",
+quality: "() -Bit/ kHz || (.flac)",
+tracks: [
+{ name: "", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/" },
+{ name: "", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/" }
+],
+label: ""
+},
+
+// - // - // - // - //  DO NOT EDIT BELOW THIS LINE // - // - // - // - //
+]
+},
+// - // - // - // - //  DO NOT EDIT ABOVE THIS LINE // - // - // - // - //
