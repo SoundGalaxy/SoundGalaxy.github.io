@@ -92,12 +92,12 @@ artist: "Pritam",
 releaseDate: "16-03-2023",
 quality: "(Hi-Res) 24-Bit/44.1 kHz || (.flac)",
 tracks: [
-{ name: "01. Tere Pyaar Mein         ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/tu_jhoothi_main_makkaar/" },
-{ name: "02. Pyaar Hota Kayi Baar Hai", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/tu_jhoothi_main_makkaar/" },
-{ name: "03. O Bedardeya             ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/tu_jhoothi_main_makkaar/" },
-{ name: "04. Show Me The Thumka      ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/tu_jhoothi_main_makkaar/" },
-{ name: "05. Jaadui                  ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/tu_jhoothi_main_makkaar/" },
-{ name: "06. Maine Pi Rakhi Hai      ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/tu_jhoothi_main_makkaar/" }
+{ name: "01. Tere Pyaar Mein         ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/tu_jhoothi_main_makkaar/01-tere_pyaar_mein.flac" },
+{ name: "02. Pyaar Hota Kayi Baar Hai", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/tu_jhoothi_main_makkaar/02-pyaar_hota_kayi_baar_hai.flac" },
+{ name: "03. O Bedardeya             ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/tu_jhoothi_main_makkaar/03-o_bedardeya.flac" },
+{ name: "04. Show Me The Thumka      ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/tu_jhoothi_main_makkaar/04-show_me_the_thumka.flac" },
+{ name: "05. Jaadui                  ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/tu_jhoothi_main_makkaar/05-jaadui.flac" },
+{ name: "06. Maine Pi Rakhi Hai      ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/tu_jhoothi_main_makkaar/06-maine_pi_rakhi_hai.flac" }
 ],
 label: " © 2023 Super Cassettes Industries Private Limited ℗ 2023 Super Cassettes Industries Private Limited"
 },
@@ -124,6 +124,48 @@ tracks: [
 label: "(P) 2018 Sony Music Entertainment India Pvt. Ltd."
 },
 
+// Album - Best Of Arijit Singh (2016)
+{
+cover: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/best_of_arijit_singh/00-album_cover.jpg",
+name: "Best Of Arijit Singh (2016)",
+artist: "Arijit Singh",
+releaseDate: "22-12-2016",
+quality: "(CD) 16-Bit/44.1 kHz || (.flac)",
+tracks: [
+{ name: "01. Tum Hi Ho (From 'Aashiqui 2')", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/best_of_arijit_singh/" },
+{ name: "", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/best_of_arijit_singh/" },
+{ name: "", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/best_of_arijit_singh/" },
+{ name: "", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/best_of_arijit_singh/" },
+{ name: "", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/best_of_arijit_singh/" },
+{ name: "", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/best_of_arijit_singh/" },
+{ name: "", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/best_of_arijit_singh/" },
+{ name: "", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/best_of_arijit_singh/" },
+{ name: "", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/best_of_arijit_singh/" },
+{ name: "", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/best_of_arijit_singh/" },
+{ name: "", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/best_of_arijit_singh/" },
+{ name: "", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/best_of_arijit_singh/" },
+{ name: "", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/best_of_arijit_singh/" },
+{ name: "", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/best_of_arijit_singh/" },
+{ name: "", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/best_of_arijit_singh/" },
+{ name: "", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/best_of_arijit_singh/" },
+{ name: "", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/best_of_arijit_singh/" },
+{ name: "", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/best_of_arijit_singh/" },
+{ name: "", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/best_of_arijit_singh/" },
+{ name: "", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/best_of_arijit_singh/" },
+{ name: "", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/best_of_arijit_singh/" },
+{ name: "", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/best_of_arijit_singh/" },
+{ name: "", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/best_of_arijit_singh/" },
+{ name: "", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/best_of_arijit_singh/" },
+{ name: "", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/best_of_arijit_singh/" },
+{ name: "", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/best_of_arijit_singh/" },
+{ name: "", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/best_of_arijit_singh/" },
+{ name: "", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/best_of_arijit_singh/" },
+{ name: "", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/best_of_arijit_singh/" },
+{ name: "", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/best_of_arijit_singh/" }
+],
+label: " © 2016 Super Cassettes Industries Private Limited ℗ 2016 Super Cassettes Industries Private Limited"
+},
+	
 // Album - Tum Bin 2
 {
 cover: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/tum_bin_2/00-album_cover.jpg",
