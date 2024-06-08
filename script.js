@@ -5,6 +5,45 @@ const artists = [
 name: "Bollywood - Hindi",
 albums: [
 
+// Album - Mr. And Mrs. Mahi (Original Motion Picture Soundtrack)
+{
+cover: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/mr_and_mrs_mahi/00-album_cover.jpg",
+name: "Mr. And Mrs. Mahi (Original Motion Picture Soundtrack)",
+artist: "Various Artists",
+releaseDate: "24-05-2024",
+quality: "(Hi-Res) 24-Bit/96 kHz || (.flac)",
+tracks: [
+{ name: "01. Dekhha Tenu												", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/mr_and_mrs_mahi/01-dekhha_tenu.flac" },
+{ name: "02. Agar Ho Tum												", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/mr_and_mrs_mahi/02-agar_ho_tum.flac" },
+{ name: "03. Roya Jab Tu												", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/mr_and_mrs_mahi/03-roya_jab_tu.flac" },
+{ name: "04. Tu Hain Toh												", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/mr_and_mrs_mahi/04-tu_hain_toh.flac" },
+{ name: "05. Junoon Hain												", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/mr_and_mrs_mahi/05-junoon_hain.flac" },
+{ name: "06. Ranjhana                           ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/mr_and_mrs_mahi/06-ranjhana.flac" },
+{ name: "07. Tu - Hain Toh - Neeti Mohan Version", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/mr_and_mrs_mahi/07-tu_hain_toh_neeti_mohan_version.flac" }
+],
+label: " ℗ 2024 Sony Music Entertainment India Pvt. Ltd."
+},
+	
+// Album - Crew (Original Motion Picture Soundtrack)
+{
+cover: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/crew/00-album_cover.jpg",
+name: "Crew (Original Motion Picture Soundtrack)",
+artist: "Various Artists",
+releaseDate: "28-03-2024",
+quality: "(Hi-Res) 24-Bit/96 kHz || (.flac)",
+tracks: [
+{ name: "01. Naina                        ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/crew/01-naina_from_crew.flac" },
+{ name: "02. Kiddan Zaalima               ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/crew/02-kiddan_zaalima.flac" },
+{ name: "03. Darbadar                     ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/crew/03-darbadar.flac" },
+{ name: "04. Khwabida                     ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/crew/04-khwabida.flac" },
+{ name: "05. Ghagra                       ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/crew/05-ghagra_from_crew.flac" },
+{ name: "06. Choli Ke Peeche              ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/crew/06-choli_ke_peeche_from_crew.flac" },
+{ name: "07. Sona Kitna Sona Hai          ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/crew/07-sona_kitna_sona_hai.flac" },
+{ name: "08. Sona Kitna Sona Hai (Reprise)", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/crew/08-sona_kitna_sona_hai_reprise.flac" }
+],
+label: " © 2024 Tips Industries Ltd. ℗ 2024 Tips Industries Ltd."
+},
+
 // Album - Ek Tha Raja
 {
 cover: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/ek_tha_raja/00-album_cover.jpg",
@@ -122,7 +161,26 @@ tracks: [
 ],
 label: " © 2022 Super Cassettes Industries Private Limited ℗ 2022 Super Cassettes Industries Private Limited"
 },
-	
+
+// Album - De De Pyaar De (Original Motion Picture Soundtrack)
+{
+cover: "",
+name: "De De Pyaar De (Original Motion Picture Soundtrack)",
+artist: "Various Artists",
+releaseDate: "15-05-2019",
+quality: "(CD) 16-Bit/44.1 kHz || (.flac)",
+tracks: [
+{ name: "01. Vaddi Sharaban            ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/" },
+{ name: "02. Tu Mila To Haina          ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/" },
+{ name: "03. Hauli Hauli               ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/" },
+{ name: "04. Chale Aana		       ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/" },
+{ name: "05. Mukhda Vekh Ke            ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/" },
+{ name: "06. Dil Royi Jaye             ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/" },
+{ name: "07. Vaddi Sharaban (Talli Mix)", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/" }
+],
+label: " © 2019 Super Cassettes Industries Private Limited ℗ 2019 Super Cassettes Industries Private Limited"
+},
+
 // Album - Jalebi (Original Motion Picture Soundtrack)
 {
 cover: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/jalebi/00-album_cover.jpg",
@@ -233,7 +291,23 @@ tracks: [
 ],
 label: " © 2016 Super Cassettes Industries Private Limited ℗ 2016 Super Cassettes Industries Private Limited"
 },
-	
+
+// Album - Hate Story 3
+{
+cover: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/hate_story_3/00-album_cover.jpg",
+name: "Hate Story 3",
+artist: "Various Artists",
+releaseDate: "04-11-2015",
+quality: "(CD) 16-Bit/44.1 kHz || (.flac)",
+tracks: [
+{ name: "01. Tumhe Apna Banane Ka    ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/hate_story_3/01-tumhe_apna_banane_ka.flac" },
+{ name: "02. Tu Isaq Mera            ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/hate_story_3/02-tu_isaq_mera.flac" },
+{ name: "03. Wajah Tum Ho            ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/hate_story_3/03-wajah_tum_ho.flac" },
+{ name: "04. Neendein Khul Jaati Hain", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/hate_story_3/04-neendein_khul_jaati_hain.flac" }
+],
+label: " © 2015 Super Cassettes Industries Private Limited ℗ 2015 Super Cassettes Industries Private Limited"
+},
+
 // Album - Aashiqui 2
 {
 cover: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/aashiqui_2/00-album_cover.png",
