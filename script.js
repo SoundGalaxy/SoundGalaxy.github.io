@@ -84,6 +84,66 @@ tracks: [
 label: " © 2024 Super Cassettes Industries Private Limited"
 },
 
+// Album - Tu Jhooti Main Makaar
+{
+cover: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/tu_jhoothi_main_makkaar/00-album_cover.jpg",
+name: "Tu Jhooti Main Makaar",
+artist: "Pritam",
+releaseDate: "16-03-2023",
+quality: "(Hi-Res) 24-Bit/44.1 kHz || (.flac)",
+tracks: [
+{ name: "01. Tere Pyaar Mein         ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/tu_jhoothi_main_makkaar/" },
+{ name: "02. Pyaar Hota Kayi Baar Hai", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/tu_jhoothi_main_makkaar/" },
+{ name: "03. O Bedardeya             ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/tu_jhoothi_main_makkaar/" },
+{ name: "04. Show Me The Thumka      ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/tu_jhoothi_main_makkaar/" },
+{ name: "05. Jaadui                  ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/tu_jhoothi_main_makkaar/" },
+{ name: "06. Maine Pi Rakhi Hai      ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/tu_jhoothi_main_makkaar/" }
+],
+label: " © 2023 Super Cassettes Industries Private Limited ℗ 2023 Super Cassettes Industries Private Limited"
+},
+	
+// Album - Jalebi (Original Motion Picture Soundtrack)
+{
+cover: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/jalebi/00-album_cover.jpg",
+name: "Jalebi (Original Motion Picture Soundtrack)",
+artist: "Samuel Shetty, Various Artists",
+releaseDate: "21-09-2018",
+quality: "(Hi-Res) 24-Bit/96 kHz || (.flac)",
+tracks: [
+{ name: "01. Tum Se                 ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/jalebi/01-tum_se.flac" },
+{ name: "02. Pal                    ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/jalebi/02-pal.flac" },
+{ name: "03. Mera Pyar Tera Pyar    ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/jalebi/03-mera_pyar_tera_pyar.flac" },
+{ name: "04. Mujhme                 ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/jalebi/04-mujhme.flac" },
+{ name: "05. Tera Mera Rishta       ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/jalebi/05-tera_mera_rishta.flac" },
+{ name: "06. Pal (Female)           ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/jalebi/06-pal_female.flac" },
+{ name: "07. Tera Mera Rishta (Male)", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/jalebi/07-tera_mera_rishta_male.flac" },
+{ name: "08. Pehle Ke Jaisa         ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/jalebi/08-pehle_ke_jaisa.flac" },
+{ name: "09. Tum Se Adlib           ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/jalebi/09-tum_se.flac" },
+{ name: "10. Tum Se Adlib (Female)  ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/jalebi/10-tum_se_female.flac" }
+],
+label: "(P) 2018 Sony Music Entertainment India Pvt. Ltd."
+},
+
+// Album - Tum Bin 2
+{
+cover: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/tum_bin_2/00-album_cover.jpg",
+name: "Tum Bin 2",
+artist: "",
+releaseDate: "20-08-2016",
+quality: "(CD) 16-Bit/44.1 kHz || (.flac)",
+tracks: [
+{ name: "01. Teri Fariyad                 ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/tum_bin_2/01-teri_fariyad.flac" },
+{ name: "02. Ishq Mubarak                 ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/tum_bin_2/02-ishq_mubarak.flac" },
+{ name: "03. Dekh Lena                    ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/tum_bin_2/03-dekh_lena.flac" },
+{ name: "04. Tum Bin                      ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/tum_bin_2/04-tum_bin.flac" },
+{ name: "05. Masta                        ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/tum_bin_2/05-masta.flac" },
+{ name: "06. Dil Nawaziyaan               ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/tum_bin_2/06-dil_nawaziyaan.flac" },
+{ name: "07. Jaegar Bomb                  ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/tum_bin_2/07-jaeger_bomb.flac" },
+{ name: "08. Teri Fariyad Extended Version", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/tum_bin_2/08-teri_fariyad_extended_version.flac" }
+],
+label: " © 2016 Super Cassettes Industries Private Limited ℗ 2016 Super Cassettes Industries Private Limited"
+},
+	
 // Album - Aashiqui 2
 {
 cover: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/aashiqui_2/00-album_cover.png",
