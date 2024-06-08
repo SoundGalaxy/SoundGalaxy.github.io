@@ -860,7 +860,33 @@ quality: "(CD) 16-Bit/44.1 kHz || (.flac)",
 tracks: [
 { name: "01. Dil Haareya", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/arijit_singh/dil_haareya/01-dil_haareya.flac" }
 ],
-label: ""
+label: "© 2023 Saregama India Ltd ℗ 2023 Saregama India Ltd"
+},
+
+// Album - Pal (From 'Monsoon Shooutout') - Single
+{
+cover: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/arijit_singh/monsoon_shootout/00-album_cover.jpg",
+name: "Pal (From 'Monsoon Shooutout')",
+artist: "Arijit Singh",
+releaseDate: "19-12-2017",
+quality: "(CD) 16-Bit/44.1 kHz || (.flac)",
+tracks: [
+{ name: "01. Pal", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/arijit_singh/monsoon_shootout/01-pal.flac" }
+],
+label: "© 2017 Saregama India Ltd ℗ 2017 Saregama India Ltd"
+},
+
+// Album - Pal Pal Dil Ke Paas
+{
+cover: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/arijit_singh/pal_pal_dil_ke_paas/00-album_cover.jpg",
+name: "Pal Pal Dil Ke Paas",
+artist: "Arijit Singh",
+releaseDate: "27-08-2019",
+quality: "(CD) 16-Bit/44.1 kHz || (.flac)",
+tracks: [
+{ name: "01. Pal Pal Dil Ke Paas - Title Track", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/arijit_singh/pal_pal_dil_ke_paas/01-pal_pal_dil_ke_paas.flac" }
+],
+label: "© 2019 Zee Music Company ℗ 2019 Zee Music Company"
 },
 	
 // - // - // - // - //  DO NOT EDIT BELOW THIS LINE // - // - // - // - //
