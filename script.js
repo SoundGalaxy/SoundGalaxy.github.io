@@ -686,7 +686,7 @@ label: ""
             const albumItem = document.createElement('div');
             albumItem.className = 'album';
             albumItem.innerHTML = `
-                <img src="${album.cover}" alt="AlbumCover">
+                <img src="${album.cover}" alt="">
                 <h3>${album.name}</h3>
                 <boldp>Artist:</boldp>
                 <p>${album.artist}</p>
