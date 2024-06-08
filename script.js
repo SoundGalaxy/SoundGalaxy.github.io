@@ -41,16 +41,16 @@ artist: "Yo Yo Honey Singh, Various Artists",
 releaseDate: "15-03-2024",
 quality: "(Hi-Res) 24-Bit/96 kHz || (.flac)",
 tracks: [
-{ name: "01. Vigdiyan Heeran   ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/honey_3_0/01_vigdiyan_heeran.flac" },
+{ name: "01. Vigdiyan Heeran   ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/honey_3_0/01-vigdiyan_heeran.flac" },
 { name: "02. Kalaastar         ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/honey_3_0/02-kalaastar.flac" },
 { name: "03. Kuley Kuley       ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/honey_3_0/03-kuley_kuley.flac" },
-{ name: "04. Tujh Pe Pyar      ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/honey_3_0/" },
-{ name: "05. Dheeth            ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/honey_3_0/" },
-{ name: "06. Savage            ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/honey_3_0/" },
-{ name: "07. Soul              ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/honey_3_0/" },
-{ name: "08. Let's Get It Party", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/honey_3_0/" },
-{ name: "09. Naagan            ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/honey_3_0/" },
-{ name: "10. Habibti           ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/honey_3_0/" }
+{ name: "04. Tujh Pe Pyar      ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/honey_3_0/04-tujh_pe_pyaar.flac" },
+{ name: "05. Dheeth            ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/honey_3_0/05-dheeth.flac" },
+{ name: "06. Savage            ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/honey_3_0/06-savage.flac" },
+{ name: "07. Soul              ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/honey_3_0/07-soul.flac" },
+{ name: "08. Let's Get It Party", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/honey_3_0/08-lets_get-it_party.flac" },
+{ name: "09. Naagan            ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/honey_3_0/09-naagan.flac" },
+{ name: "10. Habibti           ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/honey_3_0/10-habibti.flac" }
 ],
 label: "© 2023 Zee Music Company ℗ 2023 Zee Music Company"
 },
@@ -618,7 +618,31 @@ label: "© 2024 Shubh ℗ 2024 Shubh"
 // - // - // - // - //  DO NOT EDIT BELOW THIS LINE // - // - // - // - //
 ]
 },
-// - // - // - // - //  DO NOT EDIT ABOVE THIS LINE // - // - // - // - //	
+// - // - // - // - //  DO NOT EDIT ABOVE THIS LINE // - // - // - // - //
+
+
+
+{
+name: "Arijit Singh",
+albums: [
+
+// Album - Dil Haareya
+{
+cover: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/arijit_singh/dil_haareya/00-album_cover.jpg",
+name: "Dil Haareya",
+artist: "Arijit Singh",
+releaseDate: "07-12-2023",
+quality: "(CD) 16-Bit/44.1 kHz || (.flac)",
+tracks: [
+{ name: "01. Dil Haareya", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/arijit_singh/dil_haareya/01-dil_haareya.flac" }
+],
+label: ""
+},
+	
+// - // - // - // - //  DO NOT EDIT BELOW THIS LINE // - // - // - // - //
+]
+},
+// - // - // - // - //  DO NOT EDIT ABOVE THIS LINE // - // - // - // - //
 
 	
 // - // - // - // - //  DO NOT EDIT BELOW THIS LINE // - // - // - // - //
@@ -704,7 +728,7 @@ label: "© 2024 Shubh ℗ 2024 Shubh"
         audio.src = track.src;
         audio.play();
         isPlaying = true;
-        playPauseImg.src = 'https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/assets/pause.png';
+        playPauseImg.src = 'https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy.github.io/main/assets/pause.png';
     }
 
     audio.addEventListener('ended', () => {
@@ -724,10 +748,10 @@ label: "© 2024 Shubh ℗ 2024 Shubh"
     playPauseBtn.addEventListener('click', () => {
         if (isPlaying) {
             audio.pause();
-            playPauseImg.src = 'https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/assets/play.png';
+            playPauseImg.src = 'https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy.github.io/main/assets/play.png';
         } else {
             audio.play();
-            playPauseImg.src = 'https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/assets/pause.png';
+            playPauseImg.src = 'https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy.github.io/main/assets/pause.png';
         }
         isPlaying = !isPlaying;
     });
