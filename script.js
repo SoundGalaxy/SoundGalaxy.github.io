@@ -101,6 +101,27 @@ tracks: [
 ],
 label: " © 2023 Super Cassettes Industries Private Limited ℗ 2023 Super Cassettes Industries Private Limited"
 },
+
+// Album - Bhool Bhulaiyaa 2 (Original Motion Picture Soundtrack)
+{
+cover: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/bhool_bhulaiyaa_2/00-album_cover.jpg",
+name: "Bhool Bhulaiyaa 2 (Original Motion Picture Soundtrack)",
+artist: "Pritam, Various Artists",
+releaseDate: "01-06-2022",
+quality: "(Hi-Res) 24-Bit/48 kHz || (.flac)",
+tracks: [
+{ name: "01. Bhool Bhulaiyaa 2 Title Track      ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/bhool_bhulaiyaa_2/01-bhool_bhulaiyaa_2_title_track.flac" },
+{ name: "02. Hum Nashe Mein Toh Nahin           ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/bhool_bhulaiyaa_2/02-hum_nashe_mein_toh_nahin.flac" },
+{ name: "03. De Taali                           ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/bhool_bhulaiyaa_2/03-de_taali.flac" },
+{ name: "04. Mere Dholna (Arijit Version)       ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/bhool_bhulaiyaa_2/04-mere_dholna_arijit_version.flac" },
+{ name: "05. Ami Je Tomar Tandav                ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/bhool_bhulaiyaa_2/05-ami_je_tomar_tandav.flac" },
+{ name: "06. Ami Je Tomar Tandav (Film Version) ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/bhool_bhulaiyaa_2/06-ami_je_tomar_tandav_film_version.flac" },
+{ name: "07. Ami Je Tomar Tandav (Kiara's Scare)", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/bhool_bhulaiyaa_2/07-ami_je_tomar_Kiaras_scare.flac" },
+{ name: "08. Mere Dholna (The Sisters)          ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/bhool_bhulaiyaa_2/08-mere_dholna_the_sisters.flac" },
+{ name: "09. Mere Dholna Revisited              ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/bhool_bhulaiyaa_2/09-mere_dholna_revisited.flac" }
+],
+label: " © 2022 Super Cassettes Industries Private Limited ℗ 2022 Super Cassettes Industries Private Limited"
+},
 	
 // Album - Jalebi (Original Motion Picture Soundtrack)
 {
@@ -124,6 +145,33 @@ tracks: [
 label: "(P) 2018 Sony Music Entertainment India Pvt. Ltd."
 },
 
+// Album - Bollywood Romantic Songs With Armaan Malik
+{
+cover: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/bollywood_romantic_songs_with_armaan_malik/00-album_cover.jpg",
+name: "Bollywood Romantic Songs With Armaan Malik",
+artist: "Armaan Malik",
+releaseDate: "20-07-2017",
+quality: "(CD) 16-Bit/44.1 kHz || (.flac)",
+tracks: [
+{ name: "01. Main Rahoon Ya Na Rahoon                  ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/bollywood_romantic_songs_with_armaan_malik/01-main_rahoon_ya_na_rahoon.flac" },
+{ name: "02. Bol Do Na Zara                            ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/bollywood_romantic_songs_with_armaan_malik/02-bol_do_na_zara.flac" },
+{ name: "03. Kaun Tujhe & Kuch Toh Hai Mashup          ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/bollywood_romantic_songs_with_armaan_malik/03-kaun_tujhe_&_kuch_toh_hai_mashup.flac" },
+{ name: "04. Jab Tak                                   ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/bollywood_romantic_songs_with_armaan_malik/04-jab_tak.flac" },
+{ name: "05. Wajah Tum Ho                              ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/bollywood_romantic_songs_with_armaan_malik/05-wajah_tum_ho.flac" },
+{ name: "06. Sab Tera                                  ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/bollywood_romantic_songs_with_armaan_malik/06-sab_tera.flac" },
+{ name: "07. Dil Mein Chhupa Loonga                    ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/bollywood_romantic_songs_with_armaan_malik/07-dil_mein_chhupa_loonga.flac" },
+{ name: "08. Main Hoon Hero Tera (Armaan Malik Version)", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/bollywood_romantic_songs_with_armaan_malik/08-main_hoon_hero_tera.flac" },
+{ name: "09. Mujhko Barsaat Bana Lo                    ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/bollywood_romantic_songs_with_armaan_malik/09-mujhko_barsaat_bana_lo.flac" },
+{ name: "10. Tum Jo Mile                               ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/bollywood_romantic_songs_with_armaan_malik/10-tum_jo_mile.flac" },
+{ name: "11. Main Agar Kahoon - Bol Do Na Zara         ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/bollywood_romantic_songs_with_armaan_malik/11-main_agar_kahoon_bol_do_na_zara.flac" },
+{ name: "12. Dil Ke Paas (Unplugged)                   ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/bollywood_romantic_songs_with_armaan_malik/12-dil_ke_paas_Unplugged.flac" },
+{ name: "13. Pyaar Manga Hai                           ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/bollywood_romantic_songs_with_armaan_malik/13-pyaar_manga_hai.flac" },
+{ name: "14. Tumhe Apna Banane Ka                      ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/bollywood_romantic_songs_with_armaan_malik/14-tumhe_apna_banane_ka.flac" },
+{ name: "15. O Saathiya                                ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/bollywood_romantic_songs_with_armaan_malik/15-o_saathiya.flac" }
+],
+label: " © 2017 Super Cassettes Industries Private Limited ℗ 2017 Super Cassettes Industries Private Limited"
+},
+	
 // Album - Best Of Arijit Singh (2016)
 {
 cover: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/best_of_arijit_singh/00-album_cover.jpg",
