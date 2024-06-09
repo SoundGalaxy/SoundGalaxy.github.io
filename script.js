@@ -164,19 +164,19 @@ label: " © 2022 Super Cassettes Industries Private Limited ℗ 2022 Super Casse
 
 // Album - De De Pyaar De (Original Motion Picture Soundtrack)
 {
-cover: "",
+cover: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/de_de_pyaar_de/00-album_cover.png",
 name: "De De Pyaar De (Original Motion Picture Soundtrack)",
 artist: "Various Artists",
 releaseDate: "15-05-2019",
 quality: "(CD) 16-Bit/44.1 kHz || (.flac)",
 tracks: [
-{ name: "01. Vaddi Sharaban            ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/" },
-{ name: "02. Tu Mila To Haina          ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/" },
-{ name: "03. Hauli Hauli               ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/" },
-{ name: "04. Chale Aana		       ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/" },
-{ name: "05. Mukhda Vekh Ke            ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/" },
-{ name: "06. Dil Royi Jaye             ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/" },
-{ name: "07. Vaddi Sharaban (Talli Mix)", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/" }
+{ name: "01. Vaddi Sharaban            ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/de_de_pyaar_de/01-vaddi_sharaban.flac" },
+{ name: "02. Tu Mila To Haina          ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/de_de_pyaar_de/02-tu_mila_to_haina.flac" },
+{ name: "03. Hauli Hauli               ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/de_de_pyaar_de/03-hauli_hauli.flac" },
+{ name: "04. Chale Aana		       ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/de_de_pyaar_de/04-chale_aana.flac" },
+{ name: "05. Mukhda Vekh Ke            ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/de_de_pyaar_de/05-mukhda_vekh_ke.flac" },
+{ name: "06. Dil Royi Jaye             ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/de_de_pyaar_de/06-dil_royi_jaye.flac" },
+{ name: "07. Vaddi Sharaban (Talli Mix)", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/de_de_pyaar_de/07-vaddi_sharaban_talli_mix.flac" }
 ],
 label: " © 2019 Super Cassettes Industries Private Limited ℗ 2019 Super Cassettes Industries Private Limited"
 },
