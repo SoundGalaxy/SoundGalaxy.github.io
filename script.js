@@ -308,6 +308,23 @@ tracks: [
 label: " © 2015 Super Cassettes Industries Private Limited ℗ 2015 Super Cassettes Industries Private Limited"
 },
 
+// Album - Guddu Rangeela (Original Motion Picture Soundtrack)
+{
+cover: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/guddu_rangeela/00-album_cover.jpg",
+name: "Guddu Rangeela (Original Motion Picture Soundtrack)",
+artist: "Various Artists",
+releaseDate: "19-06-2015",
+quality: "(CD) 16-Bit/44.1 kHz || (.flac)",
+tracks: [
+{ name: "01. Guddu Rangeela        ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/guddu_rangeela/01-guddu_rangeela.flac" },
+{ name: "02. Sooiyan               ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/guddu_rangeela/02-sooiyan.flac" },
+{ name: "03. Sahebaan              ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/guddu_rangeela/03-sahebaan.flac" },
+{ name: "04. Guddu Rangeela - Remix", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/guddu_rangeela/04-guddu_rangeela_remix.flac" },
+{ name: "05. Mata Ka Email         ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/guddu_rangeela/05-mata_ka_email.flac" }
+],
+label: " ℗ 2015 Sony Music Entertainment India Pvt. Ltd. Under Exclusive License From Zee Music Company"
+},
+
 // Album - Aashiqui 2
 {
 cover: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/aashiqui_2/00-album_cover.png",
@@ -332,6 +349,27 @@ tracks: [
 label: " © 2013 Super Cassettes Industries Private Limited ℗ 2013 Super Cassettes Industries Private Limited"
 },
 
+// Album - Tum Mile (Original Motion Picture Soundtrack)
+{
+cover: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/tum_mile/00-album_cover.jpg",
+name: "Tum Mile (Original Motion Picture Soundtrack)",
+artist: "Pritam, Various Artists",
+releaseDate: "08-09-2009",
+quality: "(CD) 16-Bit/44.1 kHz || (.flac)",
+tracks: [
+{ name: "01. Tum Mile												", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/tum_mile/01-tum_mile.flac" },
+{ name: "02. Dil Ibaadat										", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/tum_mile/02-dil_ibaadat.flac" },
+{ name: "03. Tu Hi Haqeeqat									", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/tum_mile/03-tu_hi_haqeeqat.flac" },
+{ name: "04. Is Jahaan Mein									", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/tum_mile/04-is_jahaan_mein.flac" },
+{ name: "05. Tum Mile - Love Reprise				", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/tum_mile/05-tum_mile_love_reprise.flac" },
+{ name: "06. O Meri Jaan										", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/tum_mile/06-o_meri_jaan.flac" },
+{ name: "07. Dil Ibaadat - Rock							", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/tum_mile/07-dil-ibaadat_rock.flac" },
+{ name: "08. Tum Mile - Rock		  				  ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/tum_mile/08-tum_mile_rock.flac" },
+{ name: "09. Soul Of Tum Mile - Instrumental", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/tum_mile/09-soul_of_tum_mile_instrumental.flac" }
+],
+label: "℗ 2009 Sony Music Entertainment India Pvt. Ltd."
+},
+
 // - // - // - // - //  DO NOT EDIT ABOVE THIS LINE // - // - // - // - //
 
 // - // - // - // - //  DO NOT EDIT BELOW THIS LINE // - // - // - // - //
@@ -339,6 +377,88 @@ label: " © 2013 Super Cassettes Industries Private Limited ℗ 2013 Super Casse
 },
 // - // - // - // - //  DO NOT EDIT ABOVE THIS LINE // - // - // - // - //
 
+
+
+// - // - // - // - //  DO NOT EDIT BELOW THIS LINE // - // - // - // - //
+{
+// - // - // - // - //  DO NOT EDIT ABOVE THIS LINE // - // - // - // - //
+
+name: "Arijit Singh",
+albums: [
+
+// Album - Dil Haareya
+{
+cover: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/arijit_singh/dil_haareya/00-album_cover.jpg",
+name: "Dil Haareya",
+artist: "Arijit Singh",
+releaseDate: "07-12-2023",
+quality: "(CD) 16-Bit/44.1 kHz || (.flac)",
+tracks: [
+{ name: "01. Dil Haareya", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/arijit_singh/dil_haareya/01-dil_haareya.flac" }
+],
+label: "© 2023 Saregama India Ltd ℗ 2023 Saregama India Ltd"
+},
+
+// Album - Pal (From 'Monsoon Shooutout') - Single
+{
+cover: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/arijit_singh/monsoon_shootout/00-album_cover.jpg",
+name: "Pal (From 'Monsoon Shooutout')",
+artist: "Arijit Singh",
+releaseDate: "19-12-2017",
+quality: "(CD) 16-Bit/44.1 kHz || (.flac)",
+tracks: [
+{ name: "01. Pal", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/arijit_singh/monsoon_shootout/01-pal.flac" }
+],
+label: "© 2017 Saregama India Ltd ℗ 2017 Saregama India Ltd"
+},
+
+// Album - Pal Pal Dil Ke Paas
+{
+cover: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/arijit_singh/pal_pal_dil_ke_paas/00-album_cover.jpg",
+name: "Pal Pal Dil Ke Paas",
+artist: "Arijit Singh",
+releaseDate: "27-08-2019",
+quality: "(CD) 16-Bit/44.1 kHz || (.flac)",
+tracks: [
+{ name: "01. Pal Pal Dil Ke Paas - Title Track", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/arijit_singh/pal_pal_dil_ke_paas/01-pal_pal_dil_ke_paas.flac" }
+],
+label: "© 2019 Zee Music Company ℗ 2019 Zee Music Company"
+},
+	
+// - // - // - // - //  DO NOT EDIT BELOW THIS LINE // - // - // - // - //
+]
+},
+// - // - // - // - //  DO NOT EDIT ABOVE THIS LINE // - // - // - // - //
+
+	
+
+// - // - // - // - //  DO NOT EDIT BELOW THIS LINE // - // - // - // - //	
+{
+// - // - // - // - //  DO NOT EDIT ABOVE THIS LINE // - // - // - // - //
+
+name: "Shubh",
+albums: [
+
+// Album - Bandana
+{
+cover: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/shubh/bandana/00-album_cover.jpg",
+name: "Bandana",
+artist: "Shubh",
+releaseDate: "29-03-2024",
+quality: "(Hi-Res) 24-Bit/48 kHz || (.flac)",
+tracks: [
+{ name: "01. Bandana", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/shubh/bandana/01-bandana.flac" }
+],
+label: "© 2024 Shubh ℗ 2024 Shubh"
+},
+	
+// - // - // - // - //  DO NOT EDIT BELOW THIS LINE // - // - // - // - //
+]
+},
+// - // - // - // - //  DO NOT EDIT ABOVE THIS LINE // - // - // - // - //
+
+
+	
 // - // - // - // - //  DO NOT EDIT BELOW THIS LINE // - // - // - // - //
 {
 // - // - // - // - //  DO NOT EDIT ABOVE THIS LINE // - // - // - // - //
@@ -822,78 +942,9 @@ label: " © 2011 The Weeknd XO, Inc. ℗ 2011 The Weeknd XO, Inc."
 },
 // - // - // - // - //  DO NOT EDIT ABOVE THIS LINE // - // - // - // - //
 
-{
-name: "Shubh",
-albums: [
-
-// Album - Bandana
-{
-cover: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/shubh/bandana/00-album_cover.jpg",
-name: "Bandana",
-artist: "Shubh",
-releaseDate: "29-03-2024",
-quality: "(Hi-Res) 24-Bit/48 kHz || (.flac)",
-tracks: [
-{ name: "01. Bandana", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/shubh/bandana/01-bandana.flac" }
-],
-label: "© 2024 Shubh ℗ 2024 Shubh"
-},
-	
-// - // - // - // - //  DO NOT EDIT BELOW THIS LINE // - // - // - // - //
-]
-},
-// - // - // - // - //  DO NOT EDIT ABOVE THIS LINE // - // - // - // - //
 
 
-
-{
-name: "Arijit Singh",
-albums: [
-
-// Album - Dil Haareya
-{
-cover: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/arijit_singh/dil_haareya/00-album_cover.jpg",
-name: "Dil Haareya",
-artist: "Arijit Singh",
-releaseDate: "07-12-2023",
-quality: "(CD) 16-Bit/44.1 kHz || (.flac)",
-tracks: [
-{ name: "01. Dil Haareya", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/arijit_singh/dil_haareya/01-dil_haareya.flac" }
-],
-label: "© 2023 Saregama India Ltd ℗ 2023 Saregama India Ltd"
-},
-
-// Album - Pal (From 'Monsoon Shooutout') - Single
-{
-cover: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/arijit_singh/monsoon_shootout/00-album_cover.jpg",
-name: "Pal (From 'Monsoon Shooutout')",
-artist: "Arijit Singh",
-releaseDate: "19-12-2017",
-quality: "(CD) 16-Bit/44.1 kHz || (.flac)",
-tracks: [
-{ name: "01. Pal", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/arijit_singh/monsoon_shootout/01-pal.flac" }
-],
-label: "© 2017 Saregama India Ltd ℗ 2017 Saregama India Ltd"
-},
-
-// Album - Pal Pal Dil Ke Paas
-{
-cover: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/arijit_singh/pal_pal_dil_ke_paas/00-album_cover.jpg",
-name: "Pal Pal Dil Ke Paas",
-artist: "Arijit Singh",
-releaseDate: "27-08-2019",
-quality: "(CD) 16-Bit/44.1 kHz || (.flac)",
-tracks: [
-{ name: "01. Pal Pal Dil Ke Paas - Title Track", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/arijit_singh/pal_pal_dil_ke_paas/01-pal_pal_dil_ke_paas.flac" }
-],
-label: "© 2019 Zee Music Company ℗ 2019 Zee Music Company"
-},
-	
-// - // - // - // - //  DO NOT EDIT BELOW THIS LINE // - // - // - // - //
-]
-},
-// - // - // - // - //  DO NOT EDIT ABOVE THIS LINE // - // - // - // - //
-
+// - Modifying Below Strings Will Now Break Entire Page If Anything Goes Wrong! - //
 	
 // - // - // - // - //  DO NOT EDIT BELOW THIS LINE // - // - // - // - //
 ];
