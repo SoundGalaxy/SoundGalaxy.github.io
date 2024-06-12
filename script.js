@@ -344,18 +344,18 @@ label: " ℗ 2015 Sony Music Entertainment India Pvt. Ltd. Under Exclusive Licen
 
 // Album - Hamari Adhuri Kahani (Original Motion Picture Soundtrack)
 {
-cover: "",
+cover: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/hamari_adhuri_kahani/00-album_cover.jpg",
 name: "Hamari Adhuri Kahani (Original Motion Picture Soundtrack)",
 artist: "Various Artists",
 releaseDate: "21-05-2015",
 quality: "(Hi-Res) 24-Bit/44.1 kHz || (.flac)",
 tracks: [
-{ name: "01. ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/" },
-{ name: "02. ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/" },
-{ name: "03. ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/" },
-{ name: "04. ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/" },
-{ name: "05. ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/" },
-{ name: "06. ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/" }
+{ name: "01. Hamari Adhuri Kahani (Title Track)", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/hamari_adhuri_kahani/01-hamari_adhuri_kahani_title_track.flac" },
+{ name: "02. Humnava                           ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/hamari_adhuri_kahani/02-humnava.flac" },
+{ name: "03. Hasi (Male)                       ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/hamari_adhuri_kahani/03-hasi_male.flac" },
+{ name: "04. Hasi (Female)                     ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/hamari_adhuri_kahani/04-hasi_female.flac" },
+{ name: "05. Yeh Kaisi Jagah                   ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/hamari_adhuri_kahani/05-yeh_kaisi_jagah.flac" },
+{ name: "06. Hamari Adhuri Kahani (Remix)      ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/hamari_adhuri_kahani/06-hamari_adhuri_kahani_remix.flac" }
 ],
 label: " (P) 2015 Sony Music Entertainment India Pvt. Ltd."
 },
