@@ -292,6 +292,23 @@ tracks: [
 label: " © 2016 Super Cassettes Industries Private Limited ℗ 2016 Super Cassettes Industries Private Limited"
 },
 
+// Album - Azhar
+{
+cover: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/azhar/00-album_cover.png",
+name: "Azhar",
+artist: "Various Artists",
+releaseDate: "07-04-2016",
+quality: "(CD) 16-Bit/44.1 kHz || (.flac)",
+tracks: [
+{ name: "01. Bol Do Na Zara   ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/azhar/01-bol_do_na_zara.flac" },
+{ name: "02. Itni Si Baat Hain", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/azhar/02-itni_si_baat_hain.flac" },
+{ name: "03. Oye Oye          ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/azhar/03-oye_oye.flac" },
+{ name: "04. Tu Hi Na Jaane   ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/azhar/04-tu_hi_na_jaane.flac" },
+{ name: "05. Jeetne Ke Liye   ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/azhar/05-jeetne_ke_liye.flac" }
+],
+label: " © 2016 Super Cassettes Industries Private Limited ℗ 2016 Super Cassettes Industries Private Limited"
+},
+
 // Album - Hate Story 3
 {
 cover: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/hate_story_3/00-album_cover.jpg",
