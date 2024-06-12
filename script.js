@@ -469,6 +469,87 @@ label: "© 2019 Zee Music Company ℗ 2019 Zee Music Company"
 
 	
 
+// - // - // - // - //  DO NOT EDIT BELOW THIS LINE // - // - // - // - //
+{
+// - // - // - // - //  DO NOT EDIT ABOVE THIS LINE // - // - // - // - //
+
+name: "Denny",
+albums: [
+
+// Album - Chale Jaana Phir (Humko Tere Bina)
+{
+cover: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/denny/chale_jaana_phir/00-album_cover.jpg",
+name: "Chale Jaana Phir (Humko Tere Bina)",
+artist: "Denny, Rahul Mishra, Kunaal Vermaa",
+releaseDate: "06-04-2023",
+quality: "(CD) 16-Bit/44.1 kHz || (.flac)",
+tracks: [
+{ name: "01. Chale Jaana Phir (Humko Tere Bina", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/denny/chale_jaana_phir/01-chale_jaana_phir.flac" }
+],
+label: " © 2023 For The Record Music ℗ 2023 For The Record Music"
+},
+
+// - // - // - // - //  DO NOT EDIT BELOW THIS LINE // - // - // - // - //
+]
+},
+// - // - // - // - //  DO NOT EDIT ABOVE THIS LINE // - // - // - // - //
+
+
+
+// - // - // - // - //  DO NOT EDIT BELOW THIS LINE // - // - // - // - //
+{
+// - // - // - // - //  DO NOT EDIT ABOVE THIS LINE // - // - // - // - //
+
+name: "Gajendra Verma",
+albums: [
+
+// Album - Name
+{
+cover: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/gajendra_verma/tera_ghata/00-album_cover.jpg",
+name: "Tera Ghata",
+artist: "Gajendra Verma",
+releaseDate: "24-06-2018",
+quality: "(CD) 16-Bit/44.1 kHz || (.flac)",
+tracks: [
+{ name: "01. Tera Ghata", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/gajendra_verma/tera_ghata/01-tera_ghata.flac" }
+],
+label: " © 2018 Virtual Planet Music ℗ 2018 Virtual Planet Music"
+},
+
+// - // - // - // - //  DO NOT EDIT BELOW THIS LINE // - // - // - // - //
+]
+},
+// - // - // - // - //  DO NOT EDIT ABOVE THIS LINE // - // - // - // - //
+
+
+
+// - // - // - // - //  DO NOT EDIT BELOW THIS LINE // - // - // - // - //
+{
+// - // - // - // - //  DO NOT EDIT ABOVE THIS LINE // - // - // - // - //
+
+name: "Piyush Mehroliyaa",
+albums: [
+
+// Album - Aawara Shaam Hai
+{
+cover: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/piyush_mehroliyaa/aawara_shaam_hai/00-album_cover.jpg",
+name: "Aawara Shaam Hai",
+artist: "Piyush Mehroliyaa, Meet Bros.",
+releaseDate: "01-10-2022",
+quality: "(CD) 16-Bit/44.1 kHz || (.flac)",
+tracks: [
+{ name: "01. Aawara Shaam Hai", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/piyush_mehroliyaa/aawara_shaam_hai/01-aawara_shaam_hai.flac" }
+],
+label: " © 2022 MB Music ℗ 2022 MB Music"
+},
+
+// - // - // - // - //  DO NOT EDIT BELOW THIS LINE // - // - // - // - //
+]
+},
+// - // - // - // - //  DO NOT EDIT ABOVE THIS LINE // - // - // - // - //
+
+
+
 // - // - // - // - //  DO NOT EDIT BELOW THIS LINE // - // - // - // - //	
 {
 // - // - // - // - //  DO NOT EDIT ABOVE THIS LINE // - // - // - // - //
@@ -488,7 +569,26 @@ tracks: [
 ],
 label: "© 2024 Shubh ℗ 2024 Shubh"
 },
-	
+
+// Album - Still Rollin
+{
+cover: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/shubh/still_rollin/00-album_cover.jpg",
+name: "Still Rollin",
+artist: "Shubh",
+releaseDate: "19-05-2023",
+quality: "(Hi-Res) 24-Bit/44.1 kHz || (.flac)",
+tracks: [
+{ name: "01. Still Rollin", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/shubh/still_rollin/01-still_rollin.flac" },
+{ name: "02. Ice         ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/shubh/still_rollin/02-ice.flac" },
+{ name: "03. Cheques     ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/shubh/still_rollin/03-cheques.flac" },
+{ name: "04. OG          ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/shubh/still_rollin/04-OG.flac" },
+{ name: "05. Ruthless    ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/shubh/still_rollin/05-ruthless.flac" },
+{ name: "06. Dior        ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/shubh/still_rollin/06-dior.flac" },
+{ name: "07. The Flow    ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/shubh/still_rollin/07-the_flow.flac" }
+],
+label: "© 2023 Shubh ℗ 2023 Shubh"
+},
+
 // - // - // - // - //  DO NOT EDIT BELOW THIS LINE // - // - // - // - //
 ]
 },
