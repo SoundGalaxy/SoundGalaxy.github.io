@@ -325,6 +325,26 @@ tracks: [
 label: " ℗ 2015 Sony Music Entertainment India Pvt. Ltd. Under Exclusive License From Zee Music Company"
 },
 
+// Album - Kill Dil
+{
+cover: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/kill_dil/00-album_cover.jpg",
+name: "Kill Dil",
+artist: "Shankar-Ehsaan-Loy",
+releaseDate: "25-09-2014",
+quality: "(CD) 16-Bit/44.1 kHz || (.flac)",
+tracks: [
+{ name: "01. Kill Dil     ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/kill_dil/01-kill_dil.flac" },
+{ name: "02. Sweeta       ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/kill_dil/02-sweeta.flac" },
+{ name: "03. Happy Budday ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/kill_dil/03-happy_budday.flac" },
+{ name: "04. Sajde        ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/kill_dil/04-sajde.flac" },
+{ name: "05. Bol Beliya   ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/kill_dil/05-bol_beliya.flac" },
+{ name: "06. Daiyya Maiyya", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/kill_dil/06-daiyya_maiyya.flac" },
+{ name: "07. Baawra       ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/kill_dil/07-baawra.flac" },
+{ name: "08. Nakhriley    ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/kill_dil/08-nakhriley.flac" }
+],
+label: " © 2014 YRF Music ℗ 2014 YRF Music"
+},
+
 // Album - Aashiqui 2
 {
 cover: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/aashiqui_2/00-album_cover.png",
