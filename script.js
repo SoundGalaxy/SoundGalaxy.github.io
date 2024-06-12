@@ -342,6 +342,24 @@ tracks: [
 label: " ℗ 2015 Sony Music Entertainment India Pvt. Ltd. Under Exclusive License From Zee Music Company"
 },
 
+// Album - Hamari Adhuri Kahani (Original Motion Picture Soundtrack)
+{
+cover: "",
+name: "Hamari Adhuri Kahani (Original Motion Picture Soundtrack)",
+artist: "Various Artists",
+releaseDate: "21-05-2015",
+quality: "(Hi-Res) 24-Bit/44.1 kHz || (.flac)",
+tracks: [
+{ name: "01. ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/" },
+{ name: "02. ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/" },
+{ name: "03. ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/" },
+{ name: "04. ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/" },
+{ name: "05. ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/" },
+{ name: "06. ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/" }
+],
+label: " (P) 2015 Sony Music Entertainment India Pvt. Ltd."
+},
+
 // Album - Kill Dil
 {
 cover: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/kill_dil/00-album_cover.jpg",
