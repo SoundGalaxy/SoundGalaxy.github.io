@@ -386,6 +386,23 @@ tracks: [
 label: " © 2013 Super Cassettes Industries Private Limited ℗ 2013 Super Cassettes Industries Private Limited"
 },
 
+// Album - Table No. 21 (Original Motion Picture Soundtrack)
+{
+cover: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/table_no_21/00-album_cover.jpg",
+name: "Table No. 21 (Original Motion Picture Soundtrack)",
+artist: "Gajendra Verma, Sachin Gupta",
+releaseDate: "",
+quality: "(CD) 16-Bit/44.1 kHz || (.flac)",
+tracks: [
+{ name: "01. If You Lie You Die", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/table_no_21/01-if_you_lie_you_die.flac" },
+{ name: "02. Mann Mera         ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/table_no_21/02-mann_mera.flac" },
+{ name: "03. Mann Mera (Remix) ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/table_no_21/03-mann_mera_remix.flac" },
+{ name: "04. O Sajna           ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/table_no_21/04-o_sajna.flac" },
+{ name: "05. O Sajna (Remix)   ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/table_no_21/05-o_sajna_remix.flac" }
+],
+label: " (C) 2023 Sony Music Entertainment India Pvt. Ltd. (P) 2013 Sony Music Entertainment India Pvt. Ltd. / Eros Now Music"
+},
+
 // Album - Tum Mile (Original Motion Picture Soundtrack)
 {
 cover: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/tum_mile/00-album_cover.jpg",
@@ -394,14 +411,14 @@ artist: "Pritam, Various Artists",
 releaseDate: "08-09-2009",
 quality: "(CD) 16-Bit/44.1 kHz || (.flac)",
 tracks: [
-{ name: "01. Tum Mile												", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/tum_mile/01-tum_mile.flac" },
-{ name: "02. Dil Ibaadat										", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/tum_mile/02-dil_ibaadat.flac" },
-{ name: "03. Tu Hi Haqeeqat									", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/tum_mile/03-tu_hi_haqeeqat.flac" },
-{ name: "04. Is Jahaan Mein									", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/tum_mile/04-is_jahaan_mein.flac" },
-{ name: "05. Tum Mile - Love Reprise				", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/tum_mile/05-tum_mile_love_reprise.flac" },
-{ name: "06. O Meri Jaan										", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/tum_mile/06-o_meri_jaan.flac" },
-{ name: "07. Dil Ibaadat - Rock							", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/tum_mile/07-dil-ibaadat_rock.flac" },
-{ name: "08. Tum Mile - Rock		  				  ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/tum_mile/08-tum_mile_rock.flac" },
+{ name: "01. Tum Mile		      	    ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/tum_mile/01-tum_mile.flac" },
+{ name: "02. Dil Ibaadat		    ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/tum_mile/02-dil_ibaadat.flac" },
+{ name: "03. Tu Hi Haqeeqat		    ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/tum_mile/03-tu_hi_haqeeqat.flac" },
+{ name: "04. Is Jahaan Mein		    ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/tum_mile/04-is_jahaan_mein.flac" },
+{ name: "05. Tum Mile - Love Reprise	    ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/tum_mile/05-tum_mile_love_reprise.flac" },
+{ name: "06. O Meri Jaan		    ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/tum_mile/06-o_meri_jaan.flac" },
+{ name: "07. Dil Ibaadat - Rock		    ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/tum_mile/07-dil-ibaadat_rock.flac" },
+{ name: "08. Tum Mile - Rock		    ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/tum_mile/08-tum_mile_rock.flac" },
 { name: "09. Soul Of Tum Mile - Instrumental", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/tum_mile/09-soul_of_tum_mile_instrumental.flac" }
 ],
 label: "℗ 2009 Sony Music Entertainment India Pvt. Ltd."
@@ -566,6 +583,22 @@ releaseDate: "29-03-2024",
 quality: "(Hi-Res) 24-Bit/48 kHz || (.flac)",
 tracks: [
 { name: "01. Bandana", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/shubh/bandana/01-bandana.flac" }
+],
+label: "© 2024 Shubh ℗ 2024 Shubh"
+},
+
+// Album - Leo
+{
+cover: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/shubh/leo/00-album_cover.jpg",
+name: "Leo",
+artist: "Shubh",
+releaseDate: "05-01-2024",
+quality: "(Hi-Res) 24-Bit/48 kHz || (.flac)",
+tracks: [
+{ name: "01. King Shit  ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/shubh/leo/01-king_shit.flac" },
+{ name: "02. You And Me ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/shubh/leo/02-you_and_me.flac" },
+{ name: "03. Hood Anthem", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/shubh/leo/03-hood_anthem.flac" },
+{ name: "04. Safety Off ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/shubh/leo/04-safety_off.flac" }
 ],
 label: "© 2024 Shubh ℗ 2024 Shubh"
 },
