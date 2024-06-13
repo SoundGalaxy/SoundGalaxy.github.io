@@ -360,6 +360,29 @@ tracks: [
 label: " (P) 2015 Sony Music Entertainment India Pvt. Ltd."
 },
 
+// Album - Khamoshiyan (Original Motion Picture Soundtrack)
+{
+cover: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/creature_3d/00-album_cover.png",
+name: "Khamoshiyan (Original Motion Picture Soundtrack)",
+artist: "Various Artists",
+releaseDate: "29-12-2014",
+quality: "(Hi-Res) 24-Bit/44.1 kHz || (.flac)",
+tracks: [
+{ name: "01. Khamoshiyan", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/creature_3d/01-khamoshiyan.flac" },
+{ name: "02. Tu Har Lamha", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/creature_3d/02-tu_har_lamha.flac" },
+{ name: "03. Baatein Ye Kabhi Na - Male", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/creature_3d/03-baatein_ye_kabhi_na_male.flac" },
+{ name: "04. Kya Khoya", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/creature_3d/04-kya_khoya.flac" },
+{ name: "05. Bheegh Loon - Female", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/creature_3d/05-bheegh_loon_female.flac" },
+{ name: "06. Subhan Allah", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/creature_3d/06-subhan_allah.flac" },
+{ name: "07. Bheegh Loon - Male", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/creature_3d/07-bheegh_loon_male.flac" },
+{ name: "08. Baatein Ye Kabhi Na - Female", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/creature_3d/08-baatein_ye_kabhi_na_female.flac" },
+{ name: "09. Khamoshiyan (Unplugged)", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/creature_3d/09-khamoshiyan_unplugged.flac" },
+{ name: "10. Tu Har Lamha - Remix By Dj Angel", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/creature_3d/10-tu_har_lamha_remix_by_dj_angel.flac" },
+{ name: "11. Bheegh Loon - Female - Remix By Dj Angel", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/creature_3d/11-bheegh_loon_remale_remix_by_dj_angel.flac" }
+],
+label: " ℗ 2014 Sony Music Entertainment India Pvt. Ltd."
+},
+
 // Album - Kill Dil
 {
 cover: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/kill_dil/00-album_cover.jpg",
@@ -378,6 +401,28 @@ tracks: [
 { name: "08. Nakhriley    ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/kill_dil/08-nakhriley.flac" }
 ],
 label: " © 2014 YRF Music ℗ 2014 YRF Music"
+},
+
+// Album - Creature 3D
+{
+cover: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/creature_3d/00-album_cover.jpg",
+name: "Creature 3D",
+artist: "Various Artists",
+releaseDate: "16-08-2014",
+quality: "(CD) 16-Bit/44.1 kHz || (.flac)",
+tracks: [
+{ name: "01. Sawan Aaya Hai                            ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/creature_3d/01-sawan_aaya_hai.flac" },
+{ name: "02. Hum Naa Rahein Hum                        ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/creature_3d/02-hum_naa_rahein_hum.flac" },
+{ name: "03. Naam - E - Wafa                           ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/creature_3d/03-naam_e_wafa.flac" },
+{ name: "04. Ik Pal Yahi                               ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/creature_3d/04-ik_pal_yahi.flac" },
+{ name: "05. Mehboob Ki                                ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/creature_3d/05-mehboob_ki.flac" },
+{ name: "06. Sawan Aaya Hai (Unplugged)                ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/creature_3d/06-sawan_aaya_hai_unplugged.flac" },
+{ name: "07. Hum Naa Rahein Hum (Remix By Dj Notorious)", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/creature_3d/07-hum_naa_rahein_hum_remix_by_dj_notorious.flac" },
+{ name: "08. Naam - E - Wafa (Remix By Dj Angel)       ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/creature_3d/08-naam_e_wafa_remix_by_dj_angel.flac" },
+{ name: "09. Sawan Aaya Hai (Remix By Dj Shiva)        ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/creature_3d/09-sawan_aaya_hai_remix_by_dj_shiva.flac" },
+{ name: "10. Mohabbat Barsa De                         ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/creature_3d/10-mohabbat_barsa_de.flac" }
+],
+label: " © 2014 Super Cassettes Industries Private Limited ℗ 2014 Super Cassettes Industries Private Limited"
 },
 
 // Album - Aashiqui 2
