@@ -562,6 +562,47 @@ label: " © 2018 Virtual Planet Music ℗ 2018 Virtual Planet Music"
 {
 // - // - // - // - //  DO NOT EDIT ABOVE THIS LINE // - // - // - // - //
 
+name: "",
+albums: [
+
+// Album - Name
+{
+cover: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/lil_nas_x/MONTERO/00-album_cover.jpg",
+name: "MONTERO",
+artist: "Lil Nas X",
+releaseDate: "17-09-2021",
+quality: "(Hi-Res) 24-4Bit/44.1 kHz || (.flac)",
+tracks: [
+{ name: "01. MONTERO (Call Me By Your Name)", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/lil_nas_x/MONTERO/01-montero_call_me_by_your_name.flac" },
+{ name: "02. DEAD RIGHT NOW                ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/lil_nas_x/montero/02-dead_right_now.flac" },
+{ name: "03. INDUSTRY BABY                 ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/lil_nas_x/MONTERO/03-industry_baby.flac" },
+{ name: "04. THATS WHAT I WANT             ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/lil_nas_x/MONTERO/04-thats_what_i_want.flac" },
+{ name: "05. THE ART OF REALIZATION        ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/lil_nas_x/MONTERO/05-the_art_of_realization.flac" },
+{ name: "06. SCOOP                         ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/lil_nas_x/MONTERO/06-scoop.flac" },
+{ name: "07. ONE OF ME                     ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/lil_nas_x/MONTERO/07-one_of_me.flac" },
+{ name: "08. LOST IN THE CITADEL           ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/lil_nas_x/MONTERO/08-lost_in_the_citadel.flac" },
+{ name: "09. DOLLA SIGN SLIME              ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/lil_nas_x/MONTERO/09-dolla_sign_slime.flac" },
+{ name: "10. TALES OF DOMINICA             ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/lil_nas_x/MONTERO/10-tales_of_dominica.flac" },
+{ name: "11. SUN GOES DOWN                 ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/lil_nas_x/MONTERO/11-sun_goes_down.flac" },
+{ name: "12. VOID                          ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/lil_nas_x/MONTERO/12-void.flac" },
+{ name: "13. DONT WANT IT                  ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/lil_nas_x/MONTERO/13-dont_want_it.flac" },
+{ name: "14. LIFE AFTER SALEM              ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/lil_nas_x/MONTERO/14-life_after_salem.flac" },
+{ name: "15. AM I DREAMING                 ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/lil_nas_x/MONTERO/15-am_i_dreaming.flac" }
+],
+label: " (P) 2021 Columbia Records, a Division of Sony Music Entertainment"
+},
+
+// - // - // - // - //  DO NOT EDIT BELOW THIS LINE // - // - // - // - //
+]
+},
+// - // - // - // - //  DO NOT EDIT ABOVE THIS LINE // - // - // - // - //
+	
+	
+
+// - // - // - // - //  DO NOT EDIT BELOW THIS LINE // - // - // - // - //
+{
+// - // - // - // - //  DO NOT EDIT ABOVE THIS LINE // - // - // - // - //
+
 name: "Piyush Mehroliyaa",
 albums: [
 
