@@ -1303,7 +1303,7 @@ label: " © 2011 The Weeknd XO, Inc. ℗ 2011 The Weeknd XO, Inc."
         audio.src = track.src;
         audio.play();
         isPlaying = true;
-        playPauseImg.src = 'https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy.github.io/main/assets/play.png';
+        playPauseImg.src = 'https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy.github.io/main/assets/pause.png';
     }
 
     audio.addEventListener('ended', () => {
