@@ -362,23 +362,23 @@ label: " (P) 2015 Sony Music Entertainment India Pvt. Ltd."
 
 // Album - Khamoshiyan (Original Motion Picture Soundtrack)
 {
-cover: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/creature_3d/00-album_cover.png",
+cover: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/khamoshiyan/00-album_cover.png",
 name: "Khamoshiyan (Original Motion Picture Soundtrack)",
 artist: "Various Artists",
 releaseDate: "29-12-2014",
 quality: "(Hi-Res) 24-Bit/44.1 kHz || (.flac)",
 tracks: [
-{ name: "01. Khamoshiyan", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/creature_3d/01-khamoshiyan.flac" },
-{ name: "02. Tu Har Lamha", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/creature_3d/02-tu_har_lamha.flac" },
-{ name: "03. Baatein Ye Kabhi Na - Male", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/creature_3d/03-baatein_ye_kabhi_na_male.flac" },
-{ name: "04. Kya Khoya", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/creature_3d/04-kya_khoya.flac" },
-{ name: "05. Bheegh Loon - Female", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/creature_3d/05-bheegh_loon_female.flac" },
-{ name: "06. Subhan Allah", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/creature_3d/06-subhan_allah.flac" },
-{ name: "07. Bheegh Loon - Male", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/creature_3d/07-bheegh_loon_male.flac" },
-{ name: "08. Baatein Ye Kabhi Na - Female", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/creature_3d/08-baatein_ye_kabhi_na_female.flac" },
-{ name: "09. Khamoshiyan (Unplugged)", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/creature_3d/09-khamoshiyan_unplugged.flac" },
-{ name: "10. Tu Har Lamha - Remix By Dj Angel", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/creature_3d/10-tu_har_lamha_remix_by_dj_angel.flac" },
-{ name: "11. Bheegh Loon - Female - Remix By Dj Angel", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/creature_3d/11-bheegh_loon_remale_remix_by_dj_angel.flac" }
+{ name: "01. Khamoshiyan", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/khamoshiyan/01-khamoshiyan.flac" },
+{ name: "02. Tu Har Lamha", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/khamoshiyan/02-tu_har_lamha.flac" },
+{ name: "03. Baatein Ye Kabhi Na - Male", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/khamoshiyan/03-baatein_ye_kabhi_na_male.flac" },
+{ name: "04. Kya Khoya", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/khamoshiyan/04-kya_khoya.flac" },
+{ name: "05. Bheegh Loon - Female", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/khamoshiyan/05-bheegh_loon_female.flac" },
+{ name: "06. Subhan Allah", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/khamoshiyan/06-subhan_allah.flac" },
+{ name: "07. Bheegh Loon - Male", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/khamoshiyan/07-bheegh_loon_male.flac" },
+{ name: "08. Baatein Ye Kabhi Na - Female", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/khamoshiyan/08-baatein_ye_kabhi_na_female.flac" },
+{ name: "09. Khamoshiyan (Unplugged)", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/khamoshiyan/09-khamoshiyan_unplugged.flac" },
+{ name: "10. Tu Har Lamha - Remix By Dj Angel", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/khamoshiyan/10-tu_har_lamha_remix_by_dj_angel.flac" },
+{ name: "11. Bheegh Loon - Female - Remix By Dj Angel", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/khamoshiyan/11-bheegh_loon_remale_remix_by_dj_angel.flac" }
 ],
 label: " ℗ 2014 Sony Music Entertainment India Pvt. Ltd."
 },
