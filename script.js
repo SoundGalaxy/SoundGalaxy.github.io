@@ -583,7 +583,7 @@ label: " © 2023 For The Record Music ℗ 2023 For The Record Music"
 name: "Gajendra Verma",
 albums: [
 
-// Album - Name
+// Album - Tera Ghata
 {
 cover: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/gajendra_verma/tera_ghata/00-album_cover.jpg",
 name: "Tera Ghata",
@@ -607,10 +607,10 @@ label: " © 2018 Virtual Planet Music ℗ 2018 Virtual Planet Music"
 {
 // - // - // - // - //  DO NOT EDIT ABOVE THIS LINE // - // - // - // - //
 
-name: "",
+name: "Lil Nas X",
 albums: [
 
-// Album - Name
+// Album - MONTERO
 {
 cover: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/lil_nas_x/MONTERO/00-album_cover.jpg",
 name: "MONTERO",
