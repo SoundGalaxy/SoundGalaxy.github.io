@@ -792,7 +792,7 @@ artist: "The Weeknd, Moses Sumney",
 releaseDate: "19-06-2023",
 quality: "(Hi-Res) 24-Bit/88 kHz || (.flac)",
 tracks: [
-{ name: "01. A Lesser Man", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/the_weeknd/the_idol_episode_3/01-a_lesser_man.flac" },
+{ name: "01. A Lesser Man", src: "https://media.githubusercontent.com/media/SoundGalaxy/SoundGalaxy/main/music/artists/the_weeknd/the_idol_episode_3/01-a_lesser_man.flac" },
 { name: "02. Take Me Back", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/the_weeknd/the_idol_episode_3/02-take_me_back.flac" },
 { name: "03. Get It B4   ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/the_weeknd/the_idol_episode_3/03-get_it_b4.flac" }
 ],
