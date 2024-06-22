@@ -608,6 +608,41 @@ label: "© 2019 Zee Music Company ℗ 2019 Zee Music Company"
 {
 // - // - // - // - //  DO NOT EDIT ABOVE THIS LINE // - // - // - // - //
 
+name: "d4vd",
+albums: [
+
+// Album - Petals to Thorns
+{
+cover: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/d4vd/petals_to_thorns/00-album_cover.jpg",
+name: "Petals to Thorns",
+artist: "d4vd",
+releaseDate: "26-05-2023",
+quality: "(Hi-Res) 24-Bit/44.1 kHz || (.flac)",
+tracks: [
+{ name: "01. Sleep Well                       ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/d4vd/petals_to_thorns/01-sleep_well.flac" },
+{ name: "02. Here With Me                     ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/d4vd/petals_to_thorns/02-here_with_me.flac" },
+{ name: "03. This Is How It Feels (ft. Laufey)", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/d4vd/petals_to_thorns/03-this_is_how_it_feels.flac" },
+{ name: "04. Don't Forget About Me            ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/d4vd/petals_to_thorns/04-dont_forget_about_me.flac" },
+{ name: "05. WORTHLESS                        ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/d4vd/petals_to_thorns/05-worthless.flac" },
+{ name: "06. Backstreet Girl                  ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/d4vd/petals_to_thorns/06-backstreet_girl.flac" },
+{ name: "07. You and I                        ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/d4vd/petals_to_thorns/07-you_and_i.flac" },
+{ name: "08. Romantic Homicide                ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/d4vd/petals_to_thorns/08-romantic_homicide.flac" },
+{ name: "09. The Bridge                       ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/d4vd/petals_to_thorns/09-the_bridge.flac" }
+],
+label: " © 2023 Darkroom/Interscope Records ℗ 2023 Darkroom/Interscope Records"
+},
+
+// - // - // - // - //  DO NOT EDIT BELOW THIS LINE // - // - // - // - //
+]
+},
+// - // - // - // - //  DO NOT EDIT ABOVE THIS LINE // - // - // - // - //
+
+
+
+// - // - // - // - //  DO NOT EDIT BELOW THIS LINE // - // - // - // - //
+{
+// - // - // - // - //  DO NOT EDIT ABOVE THIS LINE // - // - // - // - //
+
 name: "Denny",
 albums: [
 
