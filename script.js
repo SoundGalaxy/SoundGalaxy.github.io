@@ -229,7 +229,25 @@ tracks: [
 ],
 label: " © 2017 Super Cassettes Industries Private Limited ℗ 2017 Super Cassettes Industries Private Limited"
 },
-	
+
+// Album - Meri Pyaari Bindu
+{
+cover: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/meri_pyaari_bindu/00-album_cover.jpg",
+name: "Meri Pyaari Bindu",
+artist: "Various Artists",
+releaseDate: "",
+quality: "(CD) 16-Bit/44.1 kHz || (.flac)",
+tracks: [
+{ name: "01. Afeemi                 ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/meri_pyaari_bindu/01-afeemi.flac" },
+{ name: "02. Ye Jawaani Teri        ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/meri_pyaari_bindu/02-ye_jawaani_teri.flac" },
+{ name: "03. Haareya                ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/meri_pyaari_bindu/03-haareya.flac" },
+{ name: "04. Maana Ke Hum Yaar Nahin", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/meri_pyaari_bindu/04-maana_ke_hum_yaar_nahin.flac" },
+{ name: "05. Iss Tarah              ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/meri_pyaari_bindu/05-iss_tarah.flac" },
+{ name: "06. Khol De Baahein        ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/meri_pyaari_bindu/06-khol_de_baahein.flac" }
+],
+label: " © 2017 YRF Music ℗ 2017 YRF Music"
+},
+
 // Album - Best Of Arijit Singh (2016)
 {
 cover: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/best_of_arijit_singh/00-album_cover.jpg",
