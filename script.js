@@ -393,6 +393,28 @@ tracks: [
 label: " (P) 2015 Sony Music Entertainment India Pvt. Ltd."
 },
 
+// Album - Tanu Weds Manu Returns (Original Motion Picture Soundtrack)
+{
+cover: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/tanu_weds_manu_returns/00-album_cover.jpg",
+name: "Tanu Weds Manu Returns (Original Motion Picture Soundtrack)",
+artist: "Various Artists",
+releaseDate: "14-04-2015",
+quality: "(CD) 16-Bit/44.1 kHz || (.flac)",
+tracks: [
+{ name: "01. Banno                          ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/tanu_weds_manu_returns/01-banno.flac" },
+{ name: "02. Mat Ja Re                      ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/tanu_weds_manu_returns/02-mat_ja_re.flac" },
+{ name: "03. Ghani Bawri                    ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/tanu_weds_manu_returns/03-ghani_bawri.flac" },
+{ name: "04. Old School Girl                ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/tanu_weds_manu_returns/04-old_school_girl.flac" },
+{ name: "05. Old School Girl - Reprise      ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/tanu_weds_manu_returns/05-old_school_girl_reprise.flac" },
+{ name: "06. Move On                        ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/tanu_weds_manu_returns/06-move_on.flac" },
+{ name: "07. Ho Gaya Hai Pyar               ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/tanu_weds_manu_returns/07-ho_gaya_hai_pyar.flac" },
+{ name: "08. O Sathi Mere                   ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/tanu_weds_manu_returns/08-o_sathi_mere.flac" },
+{ name: "09. Ghani Bawri - Remix            ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/tanu_weds_manu_returns/09-ghani_bawri_remix.flac" },
+{ name: "10. Tanu Weds Manu Returns - Mashup", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/tanu_weds_manu_returns/10-tanu_weds_manu_returns_mashup.flac" }
+],
+label: " © 2023 Sony Music Entertainment India Pvt. Ltd. ℗ 2015 Eros Now Music"
+},
+
 // Album - Khamoshiyan (Original Motion Picture Soundtrack)
 {
 cover: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/khamoshiyan/00-album_cover.png",
