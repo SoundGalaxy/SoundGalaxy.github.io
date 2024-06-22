@@ -697,6 +697,35 @@ label: " © 2018 Virtual Planet Music ℗ 2018 Virtual Planet Music"
 {
 // - // - // - // - //  DO NOT EDIT ABOVE THIS LINE // - // - // - // - //
 
+name: "Jim White",
+albums: [
+
+// Album - Drill a Hole In That Substrate and Tell Me What You See (Deluxe Version)
+{
+
+cover: "",
+name: "Drill a Hole In That Substrate and Tell Me What You See (Deluxe Version)",
+artist: "",
+releaseDate: "",
+quality: "(CD) 16-Bit/44.1 kHz || (.flac)",
+tracks: [
+{ name: "", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/" },
+{ name: "", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/" }
+],
+label: ""
+},
+
+// - // - // - // - //  DO NOT EDIT BELOW THIS LINE // - // - // - // - //
+]
+},
+// - // - // - // - //  DO NOT EDIT ABOVE THIS LINE // - // - // - // - //
+
+
+
+// - // - // - // - //  DO NOT EDIT BELOW THIS LINE // - // - // - // - //
+{
+// - // - // - // - //  DO NOT EDIT ABOVE THIS LINE // - // - // - // - //
+
 name: "Lil Nas X",
 albums: [
 
