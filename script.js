@@ -646,6 +646,37 @@ label: " © 2023 Darkroom/Interscope Records ℗ 2023 Darkroom/Interscope Record
 name: "Dave Porter",
 albums: [
 
+// Album - Better Call Saul, Vol. 2 (Original Score from the TV Series)
+{
+cover: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/dave_porter/better_call_saul_vol_2/00-album_cover.jpg",
+name: "Better Call Saul, Vol. 2 (Original Score from the TV Series)",
+artist: "Dave Porter",
+releaseDate: "13-05-2022",
+quality: "(Hi-Res) 24-Bit/48 kHz || (.flac)",
+tracks: [
+{ name: "01. Omaha                  ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/dave_porter/better_call_saul_vol_2/01-omaha.flac" },
+{ name: "02. Gas Cap Parasite       ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/dave_porter/better_call_saul_vol_2/02-gas_cap_parasite.flac" },
+{ name: "03. Crossed Wires          ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/dave_porter/better_call_saul_vol_2/03-crossed_wires.flac" },
+{ name: "04. The Long Follow        ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/dave_porter/better_call_saul_vol_2/04-the_long_follow.flac" },
+{ name: "05. Trials and Tribulations", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/dave_porter/better_call_saul_vol_2/05-trials_and_tribulations.flac" },
+{ name: "06. The Big Winner         ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/dave_porter/better_call_saul_vol_2/06-the_big_winner.flac" },
+{ name: "07. Walls                  ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/dave_porter/better_call_saul_vol_2/07-walls.flac" },
+{ name: "08. Fallen Lantern         ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/dave_porter/better_call_saul_vol_2/08-fallen_lantern.flac" },
+{ name: "09. Alpine Shepherd Boy    ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/dave_porter/better_call_saul_vol_2/09-alpine_shepherd_boy.flac" },
+{ name: "10. Weidersehen            ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/dave_porter/better_call_saul_vol_2/10-wiedersehen.flac" },
+{ name: "11. Gum Up the Works       ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/dave_porter/better_call_saul_vol_2/11-gum_up_the_works.flac" },
+{ name: "12. Rooftop Mettle         ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/dave_porter/better_call_saul_vol_2/12-rooftop-mettle.flac" },
+{ name: "13. Life's Rich Pageant    ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/dave_porter/better_call_saul_vol_2/13-lifes_rich_pageant.flac" },
+{ name: "14. Bowling Sized Balls    ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/dave_porter/better_call_saul_vol_2/14-bowling_sized_balls.flac" },
+{ name: "15. Mike In Mexico         ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/dave_porter/better_call_saul_vol_2/15-mike_in_mexico.flac" },
+{ name: "16. Do Not Disturb         ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/dave_porter/better_call_saul_vol_2/16-do_not_disturb.flac" },
+{ name: "17. Out of the Frying Pan  ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/dave_porter/better_call_saul_vol_2/17-out_of_the_frying_pan.flac" },
+{ name: "18. Nothing Gets Past Lalo ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/dave_porter/better_call_saul_vol_2/18-nothing_gets_past_lalo.flac" },
+{ name: "19. Too Hot for Snakes     ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/dave_porter/better_call_saul_vol_2/19-too_hot_for_snakes.flac" }
+],
+label: " ℗ 2022 Sony Pictures Television Inc., under exclusive license to Milan Records, a label of Sony Music Entertainment. All Rights Reserved."
+},
+
 // Album - Better Call Saul, Vol. 1 (Original Score from the TV Series)
 {
 cover: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/dave_porter/better_call_saul_vol_1/00-album_cover.jpg",
