@@ -643,6 +643,52 @@ label: " © 2023 Darkroom/Interscope Records ℗ 2023 Darkroom/Interscope Record
 {
 // - // - // - // - //  DO NOT EDIT ABOVE THIS LINE // - // - // - // - //
 
+name: "Dave Porter",
+albums: [
+
+// Album - Breaking Bad: Original Score from the Television Series
+{
+cover: "",
+name: "Breaking Bad: Original Score from the Television Series",
+artist: "Dave Porter",
+releaseDate: "28-08-2012",
+quality: "(CD) 16-Bit/44.1 kHz || (.flac)",
+tracks: [
+{ name: "01. Breaking Bad Main Title Theme (Extended)", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/dave_porter/breaking_bad/01-breaking_bad_main_title_theme_extended.flac" },
+{ name: "02. Matches In The Pool                     ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/dave_porter/breaking_bad/02-matches_in_the_pool.flac" },
+{ name: "03. Smoking Jesse's Pot                     ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/dave_porter/breaking_bad/03-smoking_jesses_pot.flac" },
+{ name: "04. Gray Matter                             ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/dave_porter/breaking_bad/04-gray_matter.flac" },
+{ name: "05. The Morning After                       ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/dave_porter/breaking_bad/05-the_morning_after.flac" },
+{ name: "06. Three Days Out                          ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/dave_porter/breaking_bad/06-three_days_out.flac" },
+{ name: "07. Vent                                    ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/dave_porter/breaking_bad/07-vent.flac" },
+{ name: "08. Baby's Coming                           ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/dave_porter/breaking_bad/08-babys_coming.flac" },
+{ name: "09. Jane's Demise                           ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/dave_porter/breaking_bad/09-janes_demise.flac" },
+{ name: "10. The Cousins                             ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/dave_porter/breaking_bad/10-the_cousins.flac" },
+{ name: "11. Hank In Pursuit                         ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/dave_porter/breaking_bad/11-hank_in_pursuit.flac" },
+{ name: "12. The Long Walk Alone (Heisenberg’s Theme)", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/dave_porter/breaking_bad/12-the_long_walk_alone_heisenbergs_theme.flac" },
+{ name: "13. Searching For Jesse                     ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/dave_porter/breaking_bad/13-searching_for_jesse.flac" },
+{ name: "14. Aztek                                   ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/dave_porter/breaking_bad/14-aztek.flac" },
+{ name: "15. Four Corners / Waiting for the End      ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/dave_porter/breaking_bad/15-four_corners.flac" },
+{ name: "16. Jesse In Mexico                         ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/dave_porter/breaking_bad/16-jesse_in_mexico.flac" },
+{ name: "17. Crawl Space                             ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/dave_porter/breaking_bad/17-crawl_space.flac" },
+{ name: "18. Parking Garage Standoff                 ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/dave_porter/breaking_bad/18-parking_garage_standoff.flac" },
+{ name: "19. Cleaning House                          ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/dave_porter/breaking_bad/19-cleaning_house.flac" },
+{ name: "20. Disassemble                             ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/dave_porter/breaking_bad/20-disassemble.flac" }
+],
+label: " 2013 Madison Gate Records 2013 Madison Gate Records"
+},
+
+// - // - // - // - //  DO NOT EDIT BELOW THIS LINE // - // - // - // - //
+]
+},
+// - // - // - // - //  DO NOT EDIT ABOVE THIS LINE // - // - // - // - //
+
+
+
+// - // - // - // - //  DO NOT EDIT BELOW THIS LINE // - // - // - // - //
+{
+// - // - // - // - //  DO NOT EDIT ABOVE THIS LINE // - // - // - // - //
+
 name: "Denny",
 albums: [
 
