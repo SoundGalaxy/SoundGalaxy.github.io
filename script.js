@@ -747,6 +747,20 @@ tracks: [
 label: " © 2017 Madison Gate Records, Inc. All Rights Reserved. ℗ 2017 Sony Pictures Television Inc., under exclusive license to Madison Gate Records, Inc. All Rights Reserved."
 },
 
+// Album - Breaking Bad (Original Score from the Television Series), Vol. 2
+{
+cover: "",
+name: "Breaking Bad (Original Score from the Television Series), Vol. 2",
+artist: "Dave Porter",
+releaseDate: "11-11-2014",
+quality: "(CD) 16-Bit/44.1 kHz || (.flac)",
+tracks: [
+{ name: "", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/" },
+{ name: "", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/" }
+],
+label: " © 2013 Madison Gate Records, Inc. ℗ 2013 Sony Pictures Television Inc., under exclusive license to Madison Gate Records, Inc. All Rights Reserved."
+},
+
 // Album - Breaking Bad: Original Score from the Television Series
 {
 cover: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/dave_porter/breaking_bad/00-album_cover.jpg",
