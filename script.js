@@ -1068,7 +1068,39 @@ label: "© 2023 Shubh ℗ 2023 Shubh"
 // - // - // - // - //  DO NOT EDIT ABOVE THIS LINE // - // - // - // - //
 
 
-	
+
+// - // - // - // - //  DO NOT EDIT BELOW THIS LINE // - // - // - // - //
+{
+// - // - // - // - //  DO NOT EDIT ABOVE THIS LINE // - // - // - // - //
+
+name: "Sukha",
+albums: [
+
+// Album - UNDISPUTED
+{
+cover: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/sukha/undisputed/00-album_cover.jpg",
+name: "UNDISPUTED",
+artist: "Sukha",
+releaseDate: "17-11-2023",
+quality: "(Hi-Res) 24-Bit/96 kHz || (.flac)",
+tracks: [
+{ name: "01. 8 ASLE      ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/sukha/undisputed/" },
+{ name: "02. ARMED       ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/sukha/undisputed/" },
+{ name: "03. ROLL WITH ME", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/sukha/undisputed/" },
+{ name: "04. 21 QUESTIONS", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/sukha/undisputed/" },
+{ name: "05. GODFATHER   ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/sukha/undisputed/" },
+{ name: "06. TROUBLESOME ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/sukha/undisputed/" }
+],
+label: " © 2023 Sukha, in Partnership with GK Universal Inc. ℗ 2023 Sukha, in Partnership with GK Universal Inc."
+},
+
+// - // - // - // - //  DO NOT EDIT BELOW THIS LINE // - // - // - // - //
+]
+},
+// - // - // - // - //  DO NOT EDIT ABOVE THIS LINE // - // - // - // - //
+
+
+
 // - // - // - // - //  DO NOT EDIT BELOW THIS LINE // - // - // - // - //
 {
 // - // - // - // - //  DO NOT EDIT ABOVE THIS LINE // - // - // - // - //
