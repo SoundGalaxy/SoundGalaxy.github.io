@@ -703,16 +703,28 @@ albums: [
 // Album - Drill a Hole In That Substrate and Tell Me What You See (Deluxe Version)
 {
 
-cover: "",
+cover: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/jim_white/drill_a_hole_in_that_substrate_and_tell_me_what_you_see/00-album_cover.jpg",
 name: "Drill a Hole In That Substrate and Tell Me What You See (Deluxe Version)",
-artist: "",
-releaseDate: "",
+artist: "Jim White",
+releaseDate: "05-04-2024",
 quality: "(CD) 16-Bit/44.1 kHz || (.flac)",
 tracks: [
-{ name: "", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/" },
-{ name: "", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/" }
+{ name: "01. Static On The Radio                 ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/jim_white/drill_a_hole_in_that_substrate_and_tell_me_what_you_see/01-static_on_the_radio.flac" },
+{ name: "02. Bluebird                            ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/jim_white/drill_a_hole_in_that_substrate_and_tell_me_what_you_see/02-bluebird.flac" },
+{ name: "03. Combing My Hair In a Brand New Style", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/jim_white/drill_a_hole_in_that_substrate_and_tell_me_what_you_see/03-combing_my_hair_in_a_brand_new_style.flac" },
+{ name: "04. That Girl From Brownsville Texas    ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/jim_white/drill_a_hole_in_that_substrate_and_tell_me_what_you_see/04-that_girl_from_brownsville_texas.flac" },
+{ name: "05. Borrowed Wings                      ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/jim_white/drill_a_hole_in_that_substrate_and_tell_me_what_you_see/05-borrowed_wings.flac" },
+{ name: "06. If Jesus Drove a Motor Home         ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/jim_white/drill_a_hole_in_that_substrate_and_tell_me_what_you_see/06-if_jesus_drove_a_motor_home.flac" },
+{ name: "07. Objects In Motion                   ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/jim_white/drill_a_hole_in_that_substrate_and_tell_me_what_you_see/07-objects_in_motion.flac" },
+{ name: "08. Buzzards Of Love                    ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/jim_white/drill_a_hole_in_that_substrate_and_tell_me_what_you_see/08-buzzards_of_love.flac" },
+{ name: "09. Alabama Chrome                      ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/jim_white/drill_a_hole_in_that_substrate_and_tell_me_what_you_see/09-alabama_chrome.flac" },
+{ name: "10. Phone Booth In Heaven               ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/jim_white/drill_a_hole_in_that_substrate_and_tell_me_what_you_see/10-phone_booth_in_heaven.flac" },
+{ name: "11. Land Called Home                    ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/jim_white/drill_a_hole_in_that_substrate_and_tell_me_what_you_see/11-land_called_home.flac" },
+{ name: "12. Suckerz Promisez                    ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/jim_white/drill_a_hole_in_that_substrate_and_tell_me_what_you_see/12-suckerz_promisez.flac" },
+{ name: "13. Stranger Candy                      ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/jim_white/drill_a_hole_in_that_substrate_and_tell_me_what_you_see/13-stranger_candy.flac" },
+{ name: "14. Cinderblock Walls                   ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/jim_white/drill_a_hole_in_that_substrate_and_tell_me_what_you_see/14-cinderblock_walls.flac" }
 ],
-label: ""
+label: " (C) 2024 Luaka Bop, Inc (P) 2007 Luaka Bop"
 },
 
 // - // - // - // - //  DO NOT EDIT BELOW THIS LINE // - // - // - // - //
