@@ -646,9 +646,42 @@ label: " © 2023 Darkroom/Interscope Records ℗ 2023 Darkroom/Interscope Record
 name: "Dave Porter",
 albums: [
 
+// Album - Better Call Saul, Vol. 1 (Original Score from the TV Series)
+{
+cover: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/dave_porter/better_call_saul_vol_1/00-album_cover.jpg",
+name: "Better Call Saul, Vol. 1 (Original Score from the TV Series)",
+artist: "Dave Porter",
+releaseDate: "09-06-2017",
+quality: "(CD) 16-Bit/44.1 kHz || (.flac)",
+tracks: [
+{ name: "01. Shared Smoke                ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/dave_porter/better_call_saul_vol_1/01-shared_smoke.flac" },
+{ name: "02. Ass Over Tea Kettle         ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/dave_porter/better_call_saul_vol_1/02-ass_over_tea_kettle.flac" },
+{ name: "03. One Leg Each                ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/dave_porter/better_call_saul_vol_1/03-one_leg_each.flac" },
+{ name: "04. Sex Robot Voice             ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/dave_porter/better_call_saul_vol_1/04-sex_robot_voice.flac" },
+{ name: "05. Payphone Dilemma            ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/dave_porter/better_call_saul_vol_1/05-payphone_dilemma.flac" },
+{ name: "06. Billboard Stunt             ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/dave_porter/better_call_saul_vol_1/06-billboard_stunt.flac" },
+{ name: "07. Chuck's Theme               ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/dave_porter/better_call_saul_vol_1/07-chucks_theme.flac" },
+{ name: "08. Elevator Exchange           ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/dave_porter/better_call_saul_vol_1/08-elevator_exchange.flac" },
+{ name: "09. One Last Grift              ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/dave_porter/better_call_saul_vol_1/09-one_last_grift.flac" },
+{ name: "10. Jimmy's Choice              ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/dave_porter/better_call_saul_vol_1/10-jimmys_choice.flac" },
+{ name: "11. Davis & Main                ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/dave_porter/better_call_saul_vol_1/11-davis_&_main.flac" },
+{ name: "12. Pretend I'm Not Here        ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/dave_porter/better_call_saul_vol_1/12-pretend_im_not_here.flac" },
+{ name: "13. Delibrations                ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/dave_porter/better_call_saul_vol_1/13-deliberations.flac" },
+{ name: "14. Magic Hands                 ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/dave_porter/better_call_saul_vol_1/14-magic_hands.flac" },
+{ name: "15. Weary Mike                  ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/dave_porter/better_call_saul_vol_1/15-weary_mike.flac" },
+{ name: "16. Border Crossing             ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/dave_porter/better_call_saul_vol_1/16-border_crossing.flac" },
+{ name: "17. Watching and Waiting        ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/dave_porter/better_call_saul_vol_1/17-watching_and_waiting.flac" },
+{ name: "18. Reciprocating Saw           ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/dave_porter/better_call_saul_vol_1/18-reciprocating_saw.flac" },
+{ name: "19. Three Moves Ahead           ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/dave_porter/better_call_saul_vol_1/19-three_moves_ahead.flac" },
+{ name: "20. M40                         ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/dave_porter/better_call_saul_vol_1/20-m40.flac" },
+{ name: "21. Better Call Saul End Credits", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/dave_porter/better_call_saul_vol_1/21-better_call_saul_end_credits.flac" }
+],
+label: " © 2017 Madison Gate Records, Inc. All Rights Reserved. ℗ 2017 Sony Pictures Television Inc., under exclusive license to Madison Gate Records, Inc. All Rights Reserved."
+},
+
 // Album - Breaking Bad: Original Score from the Television Series
 {
-cover: "",
+cover: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/dave_porter/breaking_bad/00-album_cover.jpg",
 name: "Breaking Bad: Original Score from the Television Series",
 artist: "Dave Porter",
 releaseDate: "28-08-2012",
@@ -675,7 +708,7 @@ tracks: [
 { name: "19. Cleaning House                          ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/dave_porter/breaking_bad/19-cleaning_house.flac" },
 { name: "20. Disassemble                             ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/dave_porter/breaking_bad/20-disassemble.flac" }
 ],
-label: " 2013 Madison Gate Records 2013 Madison Gate Records"
+label: " © 2013 Madison Gate Records ℗ 2013 Madison Gate Records"
 },
 
 // - // - // - // - //  DO NOT EDIT BELOW THIS LINE // - // - // - // - //
