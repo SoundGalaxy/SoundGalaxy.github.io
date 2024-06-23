@@ -1084,12 +1084,12 @@ artist: "Sukha",
 releaseDate: "17-11-2023",
 quality: "(Hi-Res) 24-Bit/96 kHz || (.flac)",
 tracks: [
-{ name: "01. 8 ASLE      ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/sukha/undisputed/" },
-{ name: "02. ARMED       ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/sukha/undisputed/" },
-{ name: "03. ROLL WITH ME", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/sukha/undisputed/" },
-{ name: "04. 21 QUESTIONS", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/sukha/undisputed/" },
-{ name: "05. GODFATHER   ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/sukha/undisputed/" },
-{ name: "06. TROUBLESOME ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/sukha/undisputed/" }
+{ name: "01. 8 ASLE      ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/sukha/undisputed/01-8_asle.flac" },
+{ name: "02. ARMED       ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/sukha/undisputed/02-armed.flac" },
+{ name: "03. ROLL WITH ME", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/sukha/undisputed/03-roll_with_me.flac" },
+{ name: "04. 21 QUESTIONS", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/sukha/undisputed/04-21_questions.flac" },
+{ name: "05. GODFATHER   ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/sukha/undisputed/05-godfather.flac" },
+{ name: "06. TROUBLESOME ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/sukha/undisputed/06-troublesome.flac" }
 ],
 label: " © 2023 Sukha, in Partnership with GK Universal Inc. ℗ 2023 Sukha, in Partnership with GK Universal Inc."
 },
