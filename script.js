@@ -714,6 +714,19 @@ tracks: [
 label: " ℗ 2022 Sony Pictures Television Inc., under exclusive license to Milan Records, a label of Sony Music Entertainment. All Rights Reserved."
 },
 
+// Album - The Main Title Theme - Better Call Saul
+{
+cover: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/dave_porter/better_call_saul_main_title_theme/",
+name: "The Main Title Theme - Better Call Saul",
+artist: "TV Themes",
+releaseDate: "06-06-2019",
+quality: "(Hi-Res) 24-Bit/44.1 kHz || (.flac)",
+tracks: [
+{ name: "01. The Main Title Theme - Better Call Saul", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/dave_porter/better_call_saul_main_title_theme/01-better_call_saul_main_title_theme.flac" }
+],
+label: " © 2019 Burning Girl ℗ 2019 Burning Girl"
+},
+
 // Album - Better Call Saul, Vol. 1 (Original Score from the TV Series)
 {
 cover: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/dave_porter/better_call_saul_vol_1/00-album_cover.jpg",
