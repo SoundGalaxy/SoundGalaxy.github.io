@@ -571,6 +571,19 @@ tracks: [
 label: "© 2023 Saregama India Ltd ℗ 2023 Saregama India Ltd"
 },
 
+// Album - Bairiya
+{
+cover: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/arijit_singh/bairiya/00-album_cover.jpg",
+name: "Bairiya",
+artist: "Arijit Singh",
+releaseDate: "14-03-2023",
+quality: "(Hi-Res) 24-Bit/96 kHz || (.flac)",
+tracks: [
+{ name: "01. Bairiya", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/arijit_singh/bairiya/01-bairiya.flac" }
+],
+label: " ℗ 2023 Sony Music Entertainment India Pvt. Ltd."
+},
+
 // Album - Pal (From 'Monsoon Shooutout') - Single
 {
 cover: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/arijit_singh/monsoon_shootout/00-album_cover.jpg",
@@ -716,7 +729,7 @@ label: " ℗ 2022 Sony Pictures Television Inc., under exclusive license to Mila
 
 // Album - The Main Title Theme - Better Call Saul
 {
-cover: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/dave_porter/better_call_saul_main_title_theme/",
+cover: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/dave_porter/better_call_saul_main_title_theme/00-album_cover.jpg",
 name: "The Main Title Theme - Better Call Saul",
 artist: "TV Themes",
 releaseDate: "06-06-2019",
