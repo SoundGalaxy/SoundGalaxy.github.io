@@ -762,14 +762,27 @@ label: " © 2017 Madison Gate Records, Inc. All Rights Reserved. ℗ 2017 Sony P
 
 // Album - Breaking Bad (Original Score from the Television Series), Vol. 2
 {
-cover: "",
+cover: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/dave_porter/breaking_bad_vol_2/00-album_cover.jpg",
 name: "Breaking Bad (Original Score from the Television Series), Vol. 2",
 artist: "Dave Porter",
 releaseDate: "11-11-2014",
 quality: "(CD) 16-Bit/44.1 kHz || (.flac)",
 tracks: [
-{ name: "", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/" },
-{ name: "", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/" }
+{ name: "01. ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/dave_porter/breaking_bad_vol_2/01-breaking_bad_sunset_credits.flac" },
+{ name: "02. ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/dave_porter/breaking_bad_vol_2/02-the_bike_lock.flac" },
+{ name: "03. ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/dave_porter/breaking_bad_vol_2/03-follicles.flac" },
+{ name: "04. ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/dave_porter/breaking_bad_vol_2/04-308_negra_arroyo_lane.flac" },
+{ name: "05. ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/dave_porter/breaking_bad_vol_2/05-eyeball_in_the_drawer.flac" },
+{ name: "06. ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/dave_porter/breaking_bad_vol_2/06-salud.flac" },
+{ name: "07. ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/dave_porter/breaking_bad_vol_2/07-building_a_bomb.flac" },
+{ name: "08. ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/dave_porter/breaking_bad_vol_2/08-dead_frieght.flac" },
+{ name: "09. ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/dave_porter/breaking_bad_vol_2/09-radiator.flac" },
+{ name: "10. ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/dave_porter/breaking_bad_vol_2/10-white_house_visit.flac" },
+{ name: "11. ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/dave_porter/breaking_bad_vol_2/11-almost_alaska.flac" },
+{ name: "12. ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/dave_porter/breaking_bad_vol_2/12-fumes.flac" },
+{ name: "13. ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/dave_porter/breaking_bad_vol_2/13-gas_can_rage.flac" },
+{ name: "14. ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/dave_porter/breaking_bad_vol_2/14-circling_the_square.flac" },
+{ name: "15. ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/dave_porter/breaking_bad_vol_2/15-to_hajiilee.flac" }
 ],
 label: " © 2013 Madison Gate Records, Inc. ℗ 2013 Sony Pictures Television Inc., under exclusive license to Madison Gate Records, Inc. All Rights Reserved."
 },
