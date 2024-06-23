@@ -646,6 +646,43 @@ label: " © 2023 Darkroom/Interscope Records ℗ 2023 Darkroom/Interscope Record
 name: "Dave Porter",
 albums: [
 
+// Album - Better Call Saul, Vol. 3 (Original Score from the TV Series)
+{
+cover: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/dave_porter/better_call_saul_vol_3/00-album_cover.jpg",
+name: "Better Call Saul, Vol. 3 (Original Score from the TV Series)",
+artist: "Dave Porter",
+releaseDate: "16-08-2022",
+quality: "(Hi-Res) 24-Bit/48 kHz || (.flac)",
+tracks: [
+{ name: "01. ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/dave_porter/better_call_saul_vol_3/" },
+{ name: "02. ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/dave_porter/better_call_saul_vol_3/" },
+{ name: "03. ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/dave_porter/better_call_saul_vol_3/" },
+{ name: "04. ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/dave_porter/better_call_saul_vol_3/" },
+{ name: "05. ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/dave_porter/better_call_saul_vol_3/" },
+{ name: "06. ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/dave_porter/better_call_saul_vol_3/" },
+{ name: "07. ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/dave_porter/better_call_saul_vol_3/" },
+{ name: "08. ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/dave_porter/better_call_saul_vol_3/" },
+{ name: "09. ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/dave_porter/better_call_saul_vol_3/" },
+{ name: "10. ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/dave_porter/better_call_saul_vol_3/" },
+{ name: "11. ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/dave_porter/better_call_saul_vol_3/" },
+{ name: "12. ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/dave_porter/better_call_saul_vol_3/" },
+{ name: "13. ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/dave_porter/better_call_saul_vol_3/" },
+{ name: "14. ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/dave_porter/better_call_saul_vol_3/" },
+{ name: "15. ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/dave_porter/better_call_saul_vol_3/" },
+{ name: "16. ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/dave_porter/better_call_saul_vol_3/" },
+{ name: "17. ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/dave_porter/better_call_saul_vol_3/" },
+{ name: "18. ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/dave_porter/better_call_saul_vol_3/" },
+{ name: "19. ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/dave_porter/better_call_saul_vol_3/" },
+{ name: "20. ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/dave_porter/better_call_saul_vol_3/" },
+{ name: "21. ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/dave_porter/better_call_saul_vol_3/" },
+{ name: "22. ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/dave_porter/better_call_saul_vol_3/" },
+{ name: "23. ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/dave_porter/better_call_saul_vol_3/" },
+{ name: "24. ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/dave_porter/better_call_saul_vol_3/" },
+{ name: "25. ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/dave_porter/better_call_saul_vol_3/" }
+],
+label: " ℗ 2022 Sony Pictures Television Inc., under exclusive license to Milan Records, a label of Sony Music Entertainment. All Rights Reserved."
+},
+
 // Album - Better Call Saul, Vol. 2 (Original Score from the TV Series)
 {
 cover: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/dave_porter/better_call_saul_vol_2/00-album_cover.jpg",
