@@ -229,6 +229,344 @@ tracks: [
 ]
 },
 
+// Album - Bollywood Romantic Songs With Armaan Malik
+{
+cover: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/bollywood_romantic_songs_with_armaan_malik/00-album_cover.jpg",
+name: "Bollywood Romantic Songs With Armaan Malik",
+artist: "Armaan Malik",
+releaseDate: "20-07-2017",
+quality: "16-Bit / 44.1 kHz",
+format: "FLAC",
+label: " ℗ 2017 Super Cassettes Industries Private Limited © — 2017 Super Cassettes Industries Private Limited",
+tracks: [
+{ name: "01. Main Rahoon Ya Na Rahoon                  ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/bollywood_romantic_songs_with_armaan_malik/01-main_rahoon_ya_na_rahoon.flac" },
+{ name: "02. Bol Do Na Zara                            ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/bollywood_romantic_songs_with_armaan_malik/02-bol_do_na_zara.flac" },
+{ name: "03. Kaun Tujhe & Kuch Toh Hai Mashup          ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/bollywood_romantic_songs_with_armaan_malik/03-kaun_tujhe_&_kuch_toh_hai_mashup.flac" },
+{ name: "04. Jab Tak                                   ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/bollywood_romantic_songs_with_armaan_malik/04-jab_tak.flac" },
+{ name: "05. Wajah Tum Ho                              ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/bollywood_romantic_songs_with_armaan_malik/05-wajah_tum_ho.flac" },
+{ name: "06. Sab Tera                                  ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/bollywood_romantic_songs_with_armaan_malik/06-sab_tera.flac" },
+{ name: "07. Dil Mein Chhupa Loonga                    ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/bollywood_romantic_songs_with_armaan_malik/07-dil_mein_chhupa_loonga.flac" },
+{ name: "08. Main Hoon Hero Tera (Armaan Malik Version)", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/bollywood_romantic_songs_with_armaan_malik/08-main_hoon_hero_tera.flac" },
+{ name: "09. Mujhko Barsaat Bana Lo                    ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/bollywood_romantic_songs_with_armaan_malik/09-mujhko_barsaat_bana_lo.flac" },
+{ name: "10. Tum Jo Mile                               ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/bollywood_romantic_songs_with_armaan_malik/10-tum_jo_mile.flac" },
+{ name: "11. Main Agar Kahoon - Bol Do Na Zara         ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/bollywood_romantic_songs_with_armaan_malik/11-main_agar_kahoon_bol_do_na_zara.flac" },
+{ name: "12. Dil Ke Paas (Unplugged)                   ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/bollywood_romantic_songs_with_armaan_malik/12-dil_ke_paas_Unplugged.flac" },
+{ name: "13. Pyaar Manga Hai                           ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/bollywood_romantic_songs_with_armaan_malik/13-pyaar_manga_hai.flac" },
+{ name: "14. Tumhe Apna Banane Ka                      ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/bollywood_romantic_songs_with_armaan_malik/14-tumhe_apna_banane_ka.flac" },
+{ name: "15. O Saathiya                                ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/bollywood_romantic_songs_with_armaan_malik/15-o_saathiya.flac" }
+]
+},
+
+// Album - Meri Pyaari Bindu
+{
+cover: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/meri_pyaari_bindu/00-album_cover.jpg",
+name: "Meri Pyaari Bindu",
+artist: "Sachin-Jigar, Various Artists",
+releaseDate: "25-04-2017",
+quality: "16-Bit / 44.1 kHz",
+format: "FLAC",
+label: " ℗ 2017 YRF Music © — 2017 YRF Music",
+tracks: [
+{ name: "01. Afeemi                 ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/meri_pyaari_bindu/01-afeemi.flac" },
+{ name: "02. Ye Jawaani Teri        ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/meri_pyaari_bindu/02-ye_jawaani_teri.flac" },
+{ name: "03. Haareya                ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/meri_pyaari_bindu/03-haareya.flac" },
+{ name: "04. Maana Ke Hum Yaar Nahin", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/meri_pyaari_bindu/04-maana_ke_hum_yaar_nahin.flac" },
+{ name: "05. Iss Tarah              ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/meri_pyaari_bindu/05-iss_tarah.flac" },
+{ name: "06. Khol De Baahein        ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/meri_pyaari_bindu/06-khol_de_baahein.flac" }
+]
+},
+
+// Album - Best Of Arijit Singh (2016)
+{
+cover: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/best_of_arijit_singh/00-album_cover.jpg",
+name: "Best Of Arijit Singh (2016)",
+artist: "Arijit Singh",
+releaseDate: "22-12-2016",
+quality: "16-Bit / 44.1 kHz",
+format: "FLAC",
+label: " ℗ 2016 Super Cassettes Industries Private Limited © — 2016 Super Cassettes Industries Private Limited",
+tracks: [
+{ name: "01. Tum Hi Ho (From 'Aashiqui 2')                         ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/best_of_arijit_singh/01-tum_hi_ho_from_aashiqui_2.flac" },
+{ name: "02. Hum Mar Jayenge (From 'Aashiqui 2')                   ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/best_of_arijit_singh/02-hum_mar_jayenge_from_aashiqui_2.flac" },
+{ name: "03. Aasan Nahin Yahan (From 'Aashiqui 2')                 ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/best_of_arijit_singh/03-aasan_nahin_yahan_from_aashiqui_2.flac" },
+{ name: "04. Milne Hai Mujhse Aayi (From 'Aashiqui 2')             ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/best_of_arijit_singh/04-milne_hai_mujhse_aayi_from_aashiqui_2.flac" },
+{ name: "05. Phir Mohabbat (From 'Murder 2')                       ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/best_of_arijit_singh/05-phir_mohabbat_from_murder_2.flac" },
+{ name: "06. Ilahi (From 'Yeh Jawaani Hai Deewani')                ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/best_of_arijit_singh/06-ilahi_from_yeh_jawaani_hai_deewani.flac" },
+{ name: "07. Raabta (From 'Agent Vinod')                           ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/best_of_arijit_singh/07-raabta_from_agent_vinod.flac" },
+{ name: "08. Raat Bhar (From 'Heropanti')                          ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/best_of_arijit_singh/08-raat_bhar_from_heropanti.flac" },
+{ name: "09. Tose Naina (From 'Mickey Virus')                      ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/best_of_arijit_singh/09-tose_naina_from_mickey_virus.flac" },
+{ name: "10. Kabira (Encore) (From 'Yeh Jawaani Hai Deewani')      ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/best_of_arijit_singh/10-kabira_encore_from_yeh_jawaani_hai_deewani.flac" },
+{ name: "11. Har Kisi Ko (From 'Boss')                             ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/best_of_arijit_singh/11-har_kisi_ko_from_boss.flac" },
+{ name: "12. Duaa (From 'Shanghai')                                ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/best_of_arijit_singh/12-duaa_from_shanghai.flac" },
+{ name: "13. Aaj Phir (From 'Hate Story 2')                        ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/best_of_arijit_singh/13-aaj_phir_from_hate_story_2.flac" },
+{ name: "14. Palat - Tera Hero Idhar Hai (From 'Main Tera Hero')   ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/best_of_arijit_singh/14-palat_tera_hero_idhar_hai_from_main_tera_hero.flac" },
+{ name: "15. Shanivaar Raati (From 'Main Tera Hero')               ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/best_of_arijit_singh/15-shanivaar_raati_from_main_tera_hero.flac" },
+{ name: "16. Mast Magan (From '2 States')                          ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/best_of_arijit_singh/16-mast_magan_from_2_states.flac" },
+{ name: "17. Sooraj Dooba Hain (From 'Roy')                        ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/best_of_arijit_singh/17-sooraj_dooba_hain_from_roy.flac" },
+{ name: "18. Suno Na Sangemarmar                                   ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/best_of_arijit_singh/18-suno-na_sangemarmar.flac" },
+{ name: "19. Soch Na Sake (From 'Airlift')                         ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/best_of_arijit_singh/19-soch_na_sake_from_airlift.flac" },
+{ name: "20. Baaton Ko Teri (From 'All Is Well')                   ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/best_of_arijit_singh/20-baaton_ko_teri_from_all_is_well.flac" },
+{ name: "21. Chal Wahan Jaate Hain (From 'Chal Wahan Jaate Hain')  ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/best_of_arijit_singh/21-chal_wahan_jaate_hain_from_chal_wahan_jaate_hain.flac" },
+{ name: "22. Sanam Re (From 'Sanam Re')                            ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/best_of_arijit_singh/22-sanam_re_from_sanam_re.flac" },
+{ name: "23. Wat Wat Wat (From 'Tamasha')                          ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/best_of_arijit_singh/23-wat_wat_wat_from_tamasha.flac" },
+{ name: "24. Agar Tum Saath Ho (From 'Tamasha')                    ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/best_of_arijit_singh/24-agar_tum_saath_ho_from_tamasha.flac" },
+{ name: "25. Itni Si Baat Hain (From 'Azhar')                      ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/best_of_arijit_singh/25-itni_si_baat_hain_from_azhar.flac" },
+{ name: "26. Phir Kabhi (From 'M.S.Dhoni - The Untold Story')      ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/best_of_arijit_singh/26-phir_kabhi_from_M_S_dhoni_the_untold_story.flac" },
+{ name: "27. Yaad Hai Na (From 'Raaz Reboot')                      ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/best_of_arijit_singh/27-yaad_hai_Na_from_raaz_reboot.flac" },
+{ name: "28. Ishq Mubarak (From 'Tum Bin 2')                       ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/best_of_arijit_singh/28-ishq_mubarak_from_tum_bin_2.flac" },
+{ name: "29. Dil Ke Paas (From 'Wajah Tum Ho')                     ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/best_of_arijit_singh/29-dil_ke_paas_from_wajah_tum_ho.flac" },
+{ name: "30. Dilliwaali Girlfriend (From 'Yeh Jawaani Hai Deewani')", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/best_of_arijit_singh/30-dilliwaali_girlfriend_from_yeh_jawaani_hai_deewani.flac" }
+]
+},
+	
+// Album - Tum Bin 2
+{
+cover: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/tum_bin_2/00-album_cover.jpg",
+name: "Tum Bin 2",
+artist: "Various Artist",
+releaseDate: "20-08-2016",
+quality: "16-Bit / 44.1 kHz",
+format: "FLAC",
+label: " ℗ 2016 Super Cassettes Industries Private Limited © — 2016 Super Cassettes Industries Private Limited",
+tracks: [
+{ name: "01. Teri Fariyad                 ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/tum_bin_2/01-teri_fariyad.flac" },
+{ name: "02. Ishq Mubarak                 ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/tum_bin_2/02-ishq_mubarak.flac" },
+{ name: "03. Dekh Lena                    ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/tum_bin_2/03-dekh_lena.flac" },
+{ name: "04. Tum Bin                      ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/tum_bin_2/04-tum_bin.flac" },
+{ name: "05. Masta                        ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/tum_bin_2/05-masta.flac" },
+{ name: "06. Dil Nawaziyaan               ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/tum_bin_2/06-dil_nawaziyaan.flac" },
+{ name: "07. Jaegar Bomb                  ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/tum_bin_2/07-jaeger_bomb.flac" },
+{ name: "08. Teri Fariyad Extended Version", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/tum_bin_2/08-teri_fariyad_extended_version.flac" }
+]
+},
+
+// Album - Azhar
+{
+cover: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/azhar/00-album_cover.png",
+name: "Azhar",
+artist: "Various Artists",
+releaseDate: "07-04-2016",
+quality: "16-Bit / 44.1 kHz",
+format: "FLAC",
+label: " ℗ 2016 Super Cassettes Industries Private Limited © — 2016 Super Cassettes Industries Private Limited",
+tracks: [
+{ name: "01. Bol Do Na Zara   ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/azhar/01-bol_do_na_zara.flac" },
+{ name: "02. Itni Si Baat Hain", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/azhar/02-itni_si_baat_hain.flac" },
+{ name: "03. Oye Oye          ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/azhar/03-oye_oye.flac" },
+{ name: "04. Tu Hi Na Jaane   ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/azhar/04-tu_hi_na_jaane.flac" },
+{ name: "05. Jeetne Ke Liye   ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/azhar/05-jeetne_ke_liye.flac" }
+]
+},
+
+// Album - Hate Story 3
+{
+cover: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/hate_story_3/00-album_cover.jpg",
+name: "Hate Story 3",
+artist: "Various Artists",
+releaseDate: "04-11-2015",
+quality: "16-Bit / 44.1 kHz",
+format: "FLAC",
+label: " ℗ 2015 Super Cassettes Industries Private Limited © — 2015 Super Cassettes Industries Private Limited",
+tracks: [
+{ name: "01. Tumhe Apna Banane Ka    ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/hate_story_3/01-tumhe_apna_banane_ka.flac" },
+{ name: "02. Tu Isaq Mera            ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/hate_story_3/02-tu_isaq_mera.flac" },
+{ name: "03. Wajah Tum Ho            ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/hate_story_3/03-wajah_tum_ho.flac" },
+{ name: "04. Neendein Khul Jaati Hain", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/hate_story_3/04-neendein_khul_jaati_hain.flac" }
+]
+},
+
+// Album - Guddu Rangeela (Original Motion Picture Soundtrack)
+{
+cover: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/guddu_rangeela/00-album_cover.jpg",
+name: "Guddu Rangeela (Original Motion Picture Soundtrack)",
+artist: "Various Artists",
+releaseDate: "19-06-2015",
+quality: "16-Bit / 44.1 kHz",
+format: "FLAC",
+label: " ℗ — 2015 Sony Music Entertainment India Pvt. Ltd. Under Exclusive License From Zee Music Company",
+tracks: [
+{ name: "01. Guddu Rangeela        ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/guddu_rangeela/01-guddu_rangeela.flac" },
+{ name: "02. Sooiyan               ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/guddu_rangeela/02-sooiyan.flac" },
+{ name: "03. Sahebaan              ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/guddu_rangeela/03-sahebaan.flac" },
+{ name: "04. Guddu Rangeela - Remix", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/guddu_rangeela/04-guddu_rangeela_remix.flac" },
+{ name: "05. Mata Ka Email         ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/guddu_rangeela/05-mata_ka_email.flac" }
+]
+},
+
+// Album - Hamari Adhuri Kahani (Original Motion Picture Soundtrack)
+{
+cover: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/hamari_adhuri_kahani/00-album_cover.jpg",
+name: "Hamari Adhuri Kahani (Original Motion Picture Soundtrack)",
+artist: "Various Artists",
+releaseDate: "21-05-2015",
+quality: "24-Bit / 44.1 kHz",
+format: "FLAC",
+label: " ℗ 2015 Sony Music Entertainment India Pvt. Ltd.",
+tracks: [
+{ name: "01. Hamari Adhuri Kahani (Title Track)", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/hamari_adhuri_kahani/01-hamari_adhuri_kahani_title_track.flac" },
+{ name: "02. Humnava                           ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/hamari_adhuri_kahani/02-humnava.flac" },
+{ name: "03. Hasi (Male)                       ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/hamari_adhuri_kahani/03-hasi_male.flac" },
+{ name: "04. Hasi (Female)                     ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/hamari_adhuri_kahani/04-hasi_female.flac" },
+{ name: "05. Yeh Kaisi Jagah                   ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/hamari_adhuri_kahani/05-yeh_kaisi_jagah.flac" },
+{ name: "06. Hamari Adhuri Kahani (Remix)      ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/hamari_adhuri_kahani/06-hamari_adhuri_kahani_remix.flac" }
+]
+},
+
+// Album - Tanu Weds Manu Returns (Original Motion Picture Soundtrack)
+{
+cover: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/tanu_weds_manu_returns/00-album_cover.jpg",
+name: "Tanu Weds Manu Returns (Original Motion Picture Soundtrack)",
+artist: "Various Artists",
+releaseDate: "14-04-2015",
+quality: "16-Bit / 44.1 kHz",
+format: "FLAC",
+label: " ℗ 2023 Sony Music Entertainment India Pvt. Ltd. © — 2015 Eros Now Music",
+tracks: [
+{ name: "01. Banno                          ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/tanu_weds_manu_returns/01-banno.flac" },
+{ name: "02. Mat Ja Re                      ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/tanu_weds_manu_returns/02-mat_ja_re.flac" },
+{ name: "03. Ghani Bawri                    ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/tanu_weds_manu_returns/03-ghani_bawri.flac" },
+{ name: "04. Old School Girl                ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/tanu_weds_manu_returns/04-old_school_girl.flac" },
+{ name: "05. Old School Girl - Reprise      ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/tanu_weds_manu_returns/05-old_school_girl_reprise.flac" },
+{ name: "06. Move On                        ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/tanu_weds_manu_returns/06-move_on.flac" },
+{ name: "07. Ho Gaya Hai Pyar               ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/tanu_weds_manu_returns/07-ho_gaya_hai_pyar.flac" },
+{ name: "08. O Sathi Mere                   ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/tanu_weds_manu_returns/08-o_sathi_mere.flac" },
+{ name: "09. Ghani Bawri - Remix            ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/tanu_weds_manu_returns/09-ghani_bawri_remix.flac" },
+{ name: "10. Tanu Weds Manu Returns - Mashup", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/tanu_weds_manu_returns/10-tanu_weds_manu_returns_mashup.flac" }
+]
+},
+
+// Album - Khamoshiyan (Original Motion Picture Soundtrack)
+{
+cover: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/khamoshiyan/00-album_cover.png",
+name: "Khamoshiyan (Original Motion Picture Soundtrack)",
+artist: "Various Artists",
+releaseDate: "29-12-2014",
+quality: "24-Bit / 44.1 kHz",
+format: "FLAC",
+label: " ℗ — 2014 Sony Music Entertainment India Pvt. Ltd.",
+tracks: [
+{ name: "01. Khamoshiyan", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/khamoshiyan/01-khamoshiyan.flac" },
+{ name: "02. Tu Har Lamha", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/khamoshiyan/02-tu_har_lamha.flac" },
+{ name: "03. Baatein Ye Kabhi Na - Male", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/khamoshiyan/03-baatein_ye_kabhi_na_male.flac" },
+{ name: "04. Kya Khoya", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/khamoshiyan/04-kya_khoya.flac" },
+{ name: "05. Bheegh Loon - Female", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/khamoshiyan/05-bheegh_loon_female.flac" },
+{ name: "06. Subhan Allah", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/khamoshiyan/06-subhan_allah.flac" },
+{ name: "07. Bheegh Loon - Male", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/khamoshiyan/07-bheegh_loon_male.flac" },
+{ name: "08. Baatein Ye Kabhi Na - Female", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/khamoshiyan/08-baatein_ye_kabhi_na_female.flac" },
+{ name: "09. Khamoshiyan (Unplugged)", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/khamoshiyan/09-khamoshiyan_unplugged.flac" },
+{ name: "10. Tu Har Lamha - Remix By Dj Angel", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/khamoshiyan/10-tu_har_lamha_remix_by_dj_angel.flac" },
+{ name: "11. Bheegh Loon - Female - Remix By Dj Angel", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/khamoshiyan/11-bheegh_loon_remale_remix_by_dj_angel.flac" }
+]
+},
+
+// Album - Kill Dil
+{
+cover: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/kill_dil/00-album_cover.jpg",
+name: "Kill Dil",
+artist: "Shankar-Ehsaan-Loy",
+releaseDate: "25-09-2014",
+quality: "16-Bit / 44.1 kHz",
+format: "FLAC",
+label: " ℗ 2014 YRF Music © — 2014 YRF Music",
+tracks: [
+{ name: "01. Kill Dil     ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/kill_dil/01-kill_dil.flac" },
+{ name: "02. Sweeta       ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/kill_dil/02-sweeta.flac" },
+{ name: "03. Happy Budday ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/kill_dil/03-happy_budday.flac" },
+{ name: "04. Sajde        ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/kill_dil/04-sajde.flac" },
+{ name: "05. Bol Beliya   ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/kill_dil/05-bol_beliya.flac" },
+{ name: "06. Daiyya Maiyya", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/kill_dil/06-daiyya_maiyya.flac" },
+{ name: "07. Baawra       ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/kill_dil/07-baawra.flac" },
+{ name: "08. Nakhriley    ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/kill_dil/08-nakhriley.flac" }
+]
+},
+
+// Album - Creature 3D
+{
+cover: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/creature_3d/00-album_cover.jpg",
+name: "Creature 3D",
+artist: "Various Artists",
+releaseDate: "16-08-2014",
+quality: "16-Bit / 44.1 kHz",
+format: "FLAC",
+tracks: [
+{ name: "01. Sawan Aaya Hai                            ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/creature_3d/01-sawan_aaya_hai.flac" },
+{ name: "02. Hum Naa Rahein Hum                        ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/creature_3d/02-hum_naa_rahein_hum.flac" },
+{ name: "03. Naam - E - Wafa                           ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/creature_3d/03-naam_e_wafa.flac" },
+{ name: "04. Ik Pal Yahi                               ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/creature_3d/04-ik_pal_yahi.flac" },
+{ name: "05. Mehboob Ki                                ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/creature_3d/05-mehboob_ki.flac" },
+{ name: "06. Sawan Aaya Hai (Unplugged)                ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/creature_3d/06-sawan_aaya_hai_unplugged.flac" },
+{ name: "07. Hum Naa Rahein Hum (Remix By Dj Notorious)", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/creature_3d/07-hum_naa_rahein_hum_remix_by_dj_notorious.flac" },
+{ name: "08. Naam - E - Wafa (Remix By Dj Angel)       ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/creature_3d/08-naam_e_wafa_remix_by_dj_angel.flac" },
+{ name: "09. Sawan Aaya Hai (Remix By Dj Shiva)        ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/creature_3d/09-sawan_aaya_hai_remix_by_dj_shiva.flac" },
+{ name: "10. Mohabbat Barsa De                         ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/creature_3d/10-mohabbat_barsa_de.flac" }
+]
+},
+
+// Album - Aashiqui 2
+{
+cover: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/aashiqui_2/00-album_cover.png",
+name: "Aashiqui 2",
+artist: "Various Artists",
+releaseDate: "03-04-2013",
+quality: "16-Bit / 44.1 kHz",
+format: "FLAC",
+label: " ℗ 2013 Super Cassettes Industries Private Limited © — 2013 Super Cassettes Industries Private Limited",
+tracks: [
+{ name: "01. Tum Hi Ho                     ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/aashiqui_2/01-tum_hi_ho.flac" },
+{ name: "02. Sunn Raha Hai                 ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/aashiqui_2/02-sunn_raha_hai.flac" },
+{ name: "03. Chahun Main Ya Naa            ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/aashiqui_2/03-chahun_main_ya_naa.flac" },
+{ name: "04. Hum Mar Jayenge               ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/aashiqui_2/04-hum_mar_jayenge.flac" },
+{ name: "05. Meri Aashiqui                 ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/aashiqui_2/05-meri_aashiqui.flac" },
+{ name: "06. Piya Aaye Na                  ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/aashiqui_2/06-piya_aaye_na.flac" },
+{ name: "07. Bhula Dena                    ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/aashiqui_2/07-bhula_dena.flac" },
+{ name: "08. Aasan Nahin Yahan             ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/aashiqui_2/08-aasan_nahin_yahan.flac" },
+{ name: "09. Sunn Raha Hai - Shreya Ghoshal", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/aashiqui_2/09-sunn_raha_hai_shreya_ghoshal.flac" },
+{ name: "10. Milne Hai Mujhse Aayi         ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/aashiqui_2/10-milne_hai_mujhse_aayi.flac" },
+{ name: "11. Aashiqui (The Love Theme)     ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/aashiqui_2/11-aashiqui_the_love_theme.flac" },
+{ name: "12. Tum Hi Ho (Remix)             ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/aashiqui_2/12-tum_hi_ho_Remix.flac" }
+]
+},
+
+// Album - Table No. 21 (Original Motion Picture Soundtrack)
+{
+cover: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/table_no_21/00-album_cover.jpg",
+name: "Table No. 21 (Original Motion Picture Soundtrack)",
+artist: "Gajendra Verma, Sachin Gupta",
+releaseDate: "21-12-12",
+quality: "16-Bit / 44.1 kHz",
+format: "FLAC",
+label: " © 2023 Sony Music Entertainment India Pvt. Ltd. ℗ 2013 Sony Music Entertainment India Pvt. Ltd. / Eros Now Music",
+tracks: [
+{ name: "01. If You Lie You Die", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/table_no_21/01-if_you_lie_you_die.flac" },
+{ name: "02. Mann Mera         ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/table_no_21/02-mann_mera.flac" },
+{ name: "03. Mann Mera (Remix) ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/table_no_21/03-mann_mera_remix.flac" },
+{ name: "04. O Sajna           ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/table_no_21/04-o_sajna.flac" },
+{ name: "05. O Sajna (Remix)   ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/table_no_21/05-o_sajna_remix.flac" }
+]
+},
+
+// Album - Tum Mile (Original Motion Picture Soundtrack)
+{
+cover: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/tum_mile/00-album_cover.jpg",
+name: "Tum Mile (Original Motion Picture Soundtrack)",
+artist: "Pritam, Various Artists",
+releaseDate: "08-09-2009",
+quality: "16-Bit / 44.1 kHz",
+format: "FLAC",
+label: " ℗ — 2009 Sony Music Entertainment India Pvt. Ltd.",
+tracks: [
+{ name: "01. Tum Mile		      	    ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/tum_mile/01-tum_mile.flac" },
+{ name: "02. Dil Ibaadat		    ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/tum_mile/02-dil_ibaadat.flac" },
+{ name: "03. Tu Hi Haqeeqat		    ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/tum_mile/03-tu_hi_haqeeqat.flac" },
+{ name: "04. Is Jahaan Mein		    ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/tum_mile/04-is_jahaan_mein.flac" },
+{ name: "05. Tum Mile - Love Reprise	    ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/tum_mile/05-tum_mile_love_reprise.flac" },
+{ name: "06. O Meri Jaan		    ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/tum_mile/06-o_meri_jaan.flac" },
+{ name: "07. Dil Ibaadat - Rock		    ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/tum_mile/07-dil-ibaadat_rock.flac" },
+{ name: "08. Tum Mile - Rock		    ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/tum_mile/08-tum_mile_rock.flac" },
+{ name: "09. Soul Of Tum Mile - Instrumental", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/tum_mile/09-soul_of_tum_mile_instrumental.flac" }
+]
+},
+
 // - // - // - // - //  DO NOT EDIT BELOW THIS LINE // - // - // - // - //
 ]
 }
