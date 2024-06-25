@@ -96,7 +96,7 @@ tracks: [
 { name: "08. Let's Get It Party", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/honey_3_0/08-lets_get-it_party.flac" },
 { name: "09. Naagan            ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/honey_3_0/09-naagan.flac" },
 { name: "10. Habibti           ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/honey_3_0/10-habibti.flac" }
-],
+]
 },
 
 // Album - ANIMAL (Original Motion Picture Soundtrack)
@@ -146,6 +146,86 @@ tracks: [
 { name: "05. Jaadui                  ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/tu_jhoothi_main_makkaar/05-jaadui.flac" },
 { name: "06. Maine Pi Rakhi Hai      ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/tu_jhoothi_main_makkaar/06-maine_pi_rakhi_hai.flac" }
 ]
+},
+
+// Album - Bhool Bhulaiyaa 2 (Original Motion Picture Soundtrack)
+{
+cover: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/bhool_bhulaiyaa_2/00-album_cover.jpg",
+name: "Bhool Bhulaiyaa 2 (Original Motion Picture Soundtrack)",
+artist: "Pritam, Various Artists",
+releaseDate: "01-06-2022",
+quality: "24-Bit / 48 kHz",
+format "FLAC",
+label: " ℗ 2022 Super Cassettes Industries Private Limited © — 2022 Super Cassettes Industries Private Limited",
+tracks: [
+{ name: "01. Bhool Bhulaiyaa 2 Title Track      ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/bhool_bhulaiyaa_2/01-bhool_bhulaiyaa_2_title_track.flac" },
+{ name: "02. Hum Nashe Mein Toh Nahin           ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/bhool_bhulaiyaa_2/02-hum_nashe_mein_toh_nahin.flac" },
+{ name: "03. De Taali                           ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/bhool_bhulaiyaa_2/03-de_taali.flac" },
+{ name: "04. Mere Dholna (Arijit Version)       ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/bhool_bhulaiyaa_2/04-mere_dholna_arijit_version.flac" },
+{ name: "05. Ami Je Tomar Tandav                ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/bhool_bhulaiyaa_2/05-ami_je_tomar_tandav.flac" },
+{ name: "06. Ami Je Tomar Tandav (Film Version) ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/bhool_bhulaiyaa_2/06-ami_je_tomar_tandav_film_version.flac" },
+{ name: "07. Ami Je Tomar Tandav (Kiara's Scare)", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/bhool_bhulaiyaa_2/07-ami_je_tomar_Kiaras_scare.flac" },
+{ name: "08. Mere Dholna (The Sisters)          ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/bhool_bhulaiyaa_2/08-mere_dholna_the_sisters.flac" },
+{ name: "09. Mere Dholna Revisited              ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/bhool_bhulaiyaa_2/09-mere_dholna_revisited.flac" }
+]
+},
+
+// Album - De De Pyaar De (Original Motion Picture Soundtrack)
+{
+cover: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/de_de_pyaar_de/00-album_cover.png",
+name: "De De Pyaar De (Original Motion Picture Soundtrack)",
+artist: "Various Artists",
+releaseDate: "15-05-2019",
+quality: "16-Bit / 44.1 kHz",
+format "FLAC",
+label: " ℗ 2019 Super Cassettes Industries Private Limited © — 2019 Super Cassettes Industries Private Limited",
+tracks: [
+{ name: "01. Vaddi Sharaban            ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/de_de_pyaar_de/01-vaddi_sharaban.flac" },
+{ name: "02. Tu Mila To Haina          ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/de_de_pyaar_de/02-tu_mila_to_haina.flac" },
+{ name: "03. Hauli Hauli               ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/de_de_pyaar_de/03-hauli_hauli.flac" },
+{ name: "04. Chale Aana		       ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/de_de_pyaar_de/04-chale_aana.flac" },
+{ name: "05. Mukhda Vekh Ke            ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/de_de_pyaar_de/05-mukhda_vekh_ke.flac" },
+{ name: "06. Dil Royi Jaye             ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/de_de_pyaar_de/06-dil_royi_jaye.flac" },
+{ name: "07. Vaddi Sharaban (Talli Mix)", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/de_de_pyaar_de/07-vaddi_sharaban_talli_mix.flac" }
+]
+},
+
+// Album - Jalebi (Original Motion Picture Soundtrack)
+{
+cover: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/jalebi/00-album_cover.jpg",
+name: "Jalebi (Original Motion Picture Soundtrack)",
+artist: "Samuel Shetty, Various Artists",
+releaseDate: "21-09-2018",
+quality: "24-Bit / 96 kHz",
+format "FLAC",
+label: " ℗ 2018 Sony Music Entertainment India Pvt. Ltd.",
+tracks: [
+{ name: "01. Tum Se                 ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/jalebi/01-tum_se.flac" },
+{ name: "02. Pal                    ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/jalebi/02-pal.flac" },
+{ name: "03. Mera Pyar Tera Pyar    ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/jalebi/03-mera_pyar_tera_pyar.flac" },
+{ name: "04. Mujhme                 ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/jalebi/04-mujhme.flac" },
+{ name: "05. Tera Mera Rishta       ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/jalebi/05-tera_mera_rishta.flac" },
+{ name: "06. Pal (Female)           ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/jalebi/06-pal_female.flac" },
+{ name: "07. Tera Mera Rishta (Male)", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/jalebi/07-tera_mera_rishta_male.flac" },
+{ name: "08. Pehle Ke Jaisa         ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/jalebi/08-pehle_ke_jaisa.flac" },
+{ name: "09. Tum Se Adlib           ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/jalebi/09-tum_se.flac" },
+{ name: "10. Tum Se Adlib (Female)  ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/jalebi/10-tum_se_female.flac" }
+]
+},
+
+// Album - Dil Junglee
+{
+cover: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/dil_juunglee/00-album_cover.jpg",
+name: "Dil Juunglee",
+artist: "Various Artists",
+releaseDate: "09-03-2018",
+quality: "(Hi-Res) 24-Bit/96 kHz || (.flac)",
+tracks: [
+{ name: "01. Dil Jaane Na ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/dil_juunglee/01-dil_jaane_na.flac" },
+{ name: "02. Bandeya      ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/dil_juunglee/02-bandeya.flac" },
+{ name: "03. Beat Juunglee", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/dil_juunglee/03-beat_juunglee.flac" }
+],
+label: ""
 },
 
 // - // - // - // - //  DO NOT EDIT BELOW THIS LINE // - // - // - // - //
