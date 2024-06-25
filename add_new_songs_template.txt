@@ -13,15 +13,17 @@ cover: "",
 name: "",
 artist: "",
 releaseDate: "",
-quality: "() -Bit/ kHz || (.flac)",
+quality: "-Bit /  kHz",
+format: "FLAC";
+label: " ",
 tracks: [
 { name: "", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/" },
 { name: "", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/" }
-],
-label: ""
+]
 },
 
 // - // - // - // - //  DO NOT EDIT BELOW THIS LINE // - // - // - // - //
 ]
-},
+}
+];
 // - // - // - // - //  DO NOT EDIT ABOVE THIS LINE // - // - // - // - //
