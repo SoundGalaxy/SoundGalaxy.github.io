@@ -219,13 +219,14 @@ cover: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/alb
 name: "Dil Juunglee",
 artist: "Various Artists",
 releaseDate: "09-03-2018",
-quality: "(Hi-Res) 24-Bit/96 kHz || (.flac)",
+quality: "",
+format: "",
+label: "",
 tracks: [
 { name: "01. Dil Jaane Na ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/dil_juunglee/01-dil_jaane_na.flac" },
 { name: "02. Bandeya      ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/dil_juunglee/02-bandeya.flac" },
 { name: "03. Beat Juunglee", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/dil_juunglee/03-beat_juunglee.flac" }
-],
-label: ""
+]
 },
 
 // - // - // - // - //  DO NOT EDIT BELOW THIS LINE // - // - // - // - //
