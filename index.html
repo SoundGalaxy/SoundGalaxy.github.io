@@ -1,48 +1,48 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
-<title>SoundGalaxy [Beta]</title> 
-<!-- Favicons -->
-<link href="assets/favicon.png" rel="icon">
-<link href="assets/favicon.png" rel="apple-touch-icon">
-<link rel="stylesheet" href="style.css">
-<style type="text/css">
-.auto-style1 {
-margin-left: 26%;
-width: 80%;
-padding: 20px;
-}
-.auto-style3 {
-	margin-top: 19px;
-}
-</style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SoundGalaxy</title>
+    <!-- Favicons -->
+	<link href="https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy.github.io/main/assets/favicon.png" rel="icon">
+	<link href="https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy.github.io/main/assets/favicon.png" rel="apple-touch-icon">
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <div class="container">
         <div class="sidebar">
-			<h2>Artists</h2>
-            <ul id="artistList" class="auto-style3" style="height: 53px"></ul>
+            <h2>All Artists</h2>
+            <ul id="artist-list"></ul>
         </div>
-        <div class="auto-style1" style="width: 57%">
-            <div id="albumList" class="album-list">
-                <h2 style="width: 557px">All Albums</h2>
-                </div>
-            <div class="track-list-container">
-                <ul id="trackList"></ul>
+        <div class="main-content">
+            <div class="album-info" id="album-info">
+                <h2>Albums</h2>
+                <div id="album-grid" class="album-grid"></div>
+            </div>
+            <div class="tracks" id="tracks">
+                <h2>Tracks</h2>
+                <ul id="track-list"></ul>
             </div>
         </div>
     </div>
     <div class="player">
-        <img id="albumCover" src="" alt="Album Cover" class="album-cover">
-        <div>
-            <h3 id="trackName">Track Name</h3>
-            <p id="artistName">Artist Name</p>
+        <div class="current-track">
+            <img id="track-art" src="" alt="Album Cover">
+            <div class="track-details">
+                <span id="track-name">Track Name</span>&nbsp;<span id="track-artist">Artist Name</span>
+            </div>
         </div>
-        <button id="prevBtn"><img src="https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy.github.io/main/assets/previous.png" alt="Previous"></button>
-        <button id="playPauseBtn"><img id="playPauseImg" src="https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy.github.io/main/assets/play.png" alt="Play"></button>
-        <button id="nextBtn"><img src="https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy.github.io/main/assets/next.png" alt="Next"></button>
+        <div class="controls">
+            <button id="prev-btn"><img src="https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy.github.io/main/assets/previous.png" alt="Previous" height="30" width="30"></button>
+            <button id="playpause-btn"><img src="https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy.github.io/main/assets/play.png" alt="Play" height="30" width="30"></button>
+            <button id="next-btn"><img src="https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy.github.io/main/assets/next.png" alt="Next" height="30" width="30"></button>
+        </div>
+        <div class="progress-container">
+            <span id="current-time">0:00</span>
+            <input type="range" id="progress-slider" value="0" max="100">
+            <span id="duration-time">0:00</span>
+        </div>
     </div>
     <script src="script.js"></script>
 </body>
