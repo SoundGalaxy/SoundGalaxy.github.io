@@ -34,7 +34,7 @@ artist: "Various Artists",
 releaseDate: "28-03-2024",
 quality: "24-Bit / 96 kHz",
 format: "FLAC",
-label: " ℗ 2024 Tips Industries Ltd. ©— 2024 Tips Industries Ltd.",
+label: " ℗ 2024 Tips Industries Ltd. © — 2024 Tips Industries Ltd.",
 tracks: [
 { name: "01. Naina                        ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/crew/01-naina_from_crew.flac" },
 { name: "02. Kiddan Zaalima               ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/crew/02-kiddan_zaalima.flac" },
@@ -76,6 +76,77 @@ tracks: [
 ]
 },
 
+// Album - Honey 3.0
+{
+cover: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/honey_3_0/00-album_cover.jpg",
+name: "Honey 3.0",
+artist: "Yo Yo Honey Singh, Various Artists",
+releaseDate: "15-03-2024",
+quality: "24-Bit / 96 kHz",
+format: "FLAC",
+label: " ℗ 2023 Zee Music Company © — 2023 Zee Music Company",
+tracks: [
+{ name: "01. Vigdiyan Heeran   ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/honey_3_0/01-vigdiyan_heeran.flac" },
+{ name: "02. Kalaastar         ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/honey_3_0/02-kalaastar.flac" },
+{ name: "03. Kuley Kuley       ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/honey_3_0/03-kuley_kuley.flac" },
+{ name: "04. Tujh Pe Pyar      ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/honey_3_0/04-tujh_pe_pyaar.flac" },
+{ name: "05. Dheeth            ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/honey_3_0/05-dheeth.flac" },
+{ name: "06. Savage            ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/honey_3_0/06-savage.flac" },
+{ name: "07. Soul              ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/honey_3_0/07-soul.flac" },
+{ name: "08. Let's Get It Party", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/honey_3_0/08-lets_get-it_party.flac" },
+{ name: "09. Naagan            ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/honey_3_0/09-naagan.flac" },
+{ name: "10. Habibti           ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/honey_3_0/10-habibti.flac" }
+],
+},
+
+// Album - ANIMAL (Original Motion Picture Soundtrack)
+{
+cover: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/animal_deluxe/00-album_cover.jpg",
+name: "ANIMAL (Original Motion Picture Soundtrack)",
+artist: "Various Artists",
+releaseDate: "23-01-2024",
+quality: "24-Bit / 48 kHz",
+format: "FLAC",
+label: " ℗ 2024 Super Cassettes Industries Private Limited © — 2024 Super Cassettes Industries Private Limited",
+tracks: [
+{ name: "01. Arjan Vailly                                    ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/animal_deluxe/01-arjan_vailly.flac" },
+{ name: "02. Hua Main                                        ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/animal_deluxe/02-hua_main.flac" },
+{ name: "03. Satranga                                        ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/animal_deluxe/03-satranga.flac" },
+{ name: "04. Papa Meri Jaan                                  ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/animal_deluxe/04-papa_meri_jaan.flac" },
+{ name: "05. Pehle Bhi Main                                  ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/animal_deluxe/05-pehle_bhi_main.flac" },
+{ name: "06. Kashmir                                         ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/animal_deluxe/06-kashmir.flac" },
+{ name: "07. Saari Duniya Jalaa Denge                        ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/animal_deluxe/07-saari_duniya_jalaa_denge.flac" },
+{ name: "08. Haiwaan                                         ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/animal_deluxe/08-haiwaan.flac" },
+{ name: "09. Papa Meri Jaan (Child's Version)                ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/animal_deluxe/09-papa_meri_jaan_childs_version.flac" },
+{ name: "10. Ranvijay's Entry Medley                         ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/animal_deluxe/10-ranvijays_entry_medley.flac" },
+{ name: "11. Abrar's Entry Jamal Kudu                        ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/animal_deluxe/11-abrars_entry_jamal_kudu.flac" },
+{ name: "12. Bhaavein Jaane Ya Na Jaane                      ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/animal_deluxe/12-bhaavein_jaane_ya_na_jaane.flac" },
+{ name: "13. Marham (Pehle Bhi Main)                         ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/animal_deluxe/13-marham_pehle_bhi_main.flac" },
+{ name: "14. Satranga (Stripped)                             ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/animal_deluxe/14-satranga_stripped.flac" },
+{ name: "15. Urdu Ke Jaisa Ishq (Kashmir)                    ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/animal_deluxe/15-urdu_ke_jaisa_ishq_kashmir.flac" },
+{ name: "16. Saari Duniya Jalaa Denge (Extended Film Version)", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/animal_deluxe/16-saari_duniya_jalaa_denge_extended_film_version.flac" },
+{ name: "17. Papa Meri Jaan (Whistle)                        ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/animal_deluxe/17-papa_meri_jaan_whistle.flac" }
+]
+},
+
+// Album - Tu Jhooti Main Makaar
+{
+cover: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/tu_jhoothi_main_makkaar/00-album_cover.jpg",
+name: "Tu Jhooti Main Makaar",
+artist: "Pritam",
+releaseDate: "16-03-2023",
+quality: "24-Bit / 44.1 kHz",
+format "FLAC",
+label: " ℗ 2023 Super Cassettes Industries Private Limited © — 2023 Super Cassettes Industries Private Limited",
+tracks: [
+{ name: "01. Tere Pyaar Mein         ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/tu_jhoothi_main_makkaar/01-tere_pyaar_mein.flac" },
+{ name: "02. Pyaar Hota Kayi Baar Hai", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/tu_jhoothi_main_makkaar/02-pyaar_hota_kayi_baar_hai.flac" },
+{ name: "03. O Bedardeya             ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/tu_jhoothi_main_makkaar/03-o_bedardeya.flac" },
+{ name: "04. Show Me The Thumka      ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/tu_jhoothi_main_makkaar/04-show_me_the_thumka.flac" },
+{ name: "05. Jaadui                  ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/tu_jhoothi_main_makkaar/05-jaadui.flac" },
+{ name: "06. Maine Pi Rakhi Hai      ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/tu_jhoothi_main_makkaar/06-maine_pi_rakhi_hai.flac" }
+]
+},
 
 // - // - // - // - //  DO NOT EDIT BELOW THIS LINE // - // - // - // - //
 ]
