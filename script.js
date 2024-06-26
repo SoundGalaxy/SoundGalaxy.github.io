@@ -1223,7 +1223,6 @@ quality: "24-Bit / 44.1 kHz",
 format: "FLAC",
 label: " © 2016 Island Records, a division of UMG Recordings, Inc. This Compilation ℗ 2017 Island Records, a division of UMG Recordings, Inc.",
 tracks: [
-{ 
 { name: " 01. There's Nothing Holdin' Me Back", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/shawn_mendes/illuminate/01-theres_nothing_holdin_me_back.flac" },
 { name: " 02. Ruin                           ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/shawn_mendes/illuminate/02-ruin.flac" },
 { name: " 03. Mercy                          ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/shawn_mendes/illuminate/03-mercy.flac" },
