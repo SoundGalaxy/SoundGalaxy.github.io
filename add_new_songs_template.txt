@@ -14,7 +14,7 @@ name: "",
 artist: "",
 releaseDate: "",
 quality: "-Bit / kHz",
-format: "FLAC";
+format: "FLAC",
 label: " ",
 tracks: [
 { name: "", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/" },
