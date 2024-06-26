@@ -982,6 +982,56 @@ tracks: [
 {
 // PLACEHOLDER - DO NOT MODIFY THE ABOVE LINE ( ALBUM TAGS )
 
+name: "Karan Aujla",
+albums: [
+
+// Album - Making Memories
+{
+cover: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/karan_aujla/making_memories/00-album_cover.jpg",
+name: "Making Memories",
+artist: "Karan Aujla, IKKY",
+releaseDate: "18-08-2023",
+quality: "24-Bit / 48 kHz",
+format: "FLAC",
+label: " © 2023 Karan Aujla Music Inc. under exclusive license to Warner Music Canada Co. / Warner Music India ℗ 2023 Karan Aujla Music Inc. under exclusive license to Warner Music Canada Co. / Warner Music India",
+tracks: [
+{ name: " 01. Girl, I Love You (Euro's Intro)  ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/karan_aujla/making_memories/01-girl_i_love_you_Euros_intro.flac" },
+{ name: " 02. What...?                         ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/karan_aujla/making_memories/02-what.flac" },
+{ name: " 03. Admirin' You  (ft. Preston Pablo)", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/karan_aujla/making_memories/03-admirin_you.flac" },
+{ name: " 04. Jee Ni Lagda                     ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/karan_aujla/making_memories/04-jee_ni_lagda.flac" },
+{ name: " 05. Try Me                           ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/karan_aujla/making_memories/05-try_me.flac" },
+{ name: " 06. Champion's Anthem                ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/karan_aujla/making_memories/06-champions_anthem.flac" },
+{ name: " 07. Softly                           ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/karan_aujla/making_memories/07-softly.flac" },
+{ name: " 08. You                              ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/karan_aujla/making_memories/08-you.flac" },
+{ name: " 09. Bachke Bachke (ft. Yarah)        ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/karan_aujla/making_memories/09-bachke_bachke.flac" }
+]
+},
+
+// Album - Making Memories
+{
+cover: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/karan_aujla/white_brown_black/00-album_cover.jpg",
+name: "White Brown Black",
+artist: "Karan Aujla, Avvy Sara, Jaani",
+releaseDate: "09-12-2022",
+quality: "16-Bit / 44.1 kHz",
+format: "FLAC",
+label: " © 2022 Universal Music India Pvt. Ltd. ℗ 2022 Universal Music India Pvt. Ltd.",
+tracks: [
+{ name: " 01. White Brown Black", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/karan_aujla/white_brown_black/01-white_brown_black.flac" }
+]
+},
+
+// PLACEHOLDER - DO NOT MODIFY THE BELOW LINE ( ALBUM TAGS )
+]
+},
+// PLACEHOLDER - DO NOT MODIFY THE ABOVE LINE ( ALBUM TAGS )
+
+
+
+// PLACEHOLDER - DO NOT MODIFY THE BELOW LINE ( ALBUM TAGS )
+{
+// PLACEHOLDER - DO NOT MODIFY THE ABOVE LINE ( ALBUM TAGS )
+
 name: "Lil Nas X",
 albums: [
 
