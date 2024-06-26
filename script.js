@@ -985,6 +985,44 @@ tracks: [
 name: "Joji",
 albums: [
 
+// Album - SMITHEREENS
+{
+cover: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/joji/smithereens/00-album_cover.jpg",
+name: "SMITHEREENS",
+artist: "Joji",
+releaseDate: "04-11-2022",
+quality: "24-Bit / 44.1 kHz",
+format: "FLAC",
+label: " © 2022 88rising Records/Warner Records Inc. ℗ 2022 88rising Records/Warner Records Inc.",
+tracks: [
+{ name: "    >  Disc 01  <", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy.github.io/main/assets/beep.wav" },
+{ name: " 01. Glimpse Of Us         ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/joji/smithereens/01-glimpse_of_us.flac" },
+{ name: " 02. Feeling Like The End  ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/joji/smithereens/02-feeling_like_the_end.flac" },
+{ name: " 03. Die For You           ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/joji/smithereens/03-die_for_you.flac" },
+{ name: " 04. Before The Day Is Over", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/joji/smithereens/04-before_the_day_is_over.flac" },
+{ name: " 05. Dissolve              ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/joji/smithereens/05-dissolve.flac" },
+{ name: "    >  Disc 02  <", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy.github.io/main/assets/beep.wav" },
+{ name: " 06. NIGHT RIDER      ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/joji/smithereens/06-night_rider.flac" },
+{ name: " 07. BLAHBLAHBLAH DEMO", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/joji/smithereens/07-blahblahblah_demo.flac" },
+{ name: " 08. YUKON (INTERLUDE)", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/joji/smithereens/08-yukon_interlude.flac" },
+{ name: " 09. 1AM FREESTYLE    ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/joji/smithereens/09-1am_freestlye.flac" }
+]
+},
+
+// Album - Glimpse Of Us
+{
+cover: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/joji/glimpse_of_us/00-album_cover.jpg",
+name: "Glimpse Of Us",
+artist: "Joji",
+releaseDate: "10-06-2022",
+quality: "24-Bit / 44.1 kHz",
+format: "FLAC",
+label: " © 2022 88rising Records/Warner Records Inc. ℗ 2022 88rising Records/Warner Records Inc.",
+tracks: [
+{ name: " 01. Glimpse Of Us", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/joji/glimpse_of_us/01-glimpse_of_us.flac" }
+]
+},
+
 // Album - Nectar
 {
 cover: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/joji/nectar/00-album_cover.jpg",
@@ -1158,6 +1196,50 @@ format: "FLAC",
 label: " ℗ 2022 MB Music © — 2022 MB Music",
 tracks: [
 { name: " 01. Aawara Shaam Hai", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/piyush_mehroliyaa/aawara_shaam_hai/01-aawara_shaam_hai.flac" }
+]
+},
+
+// PLACEHOLDER - DO NOT MODIFY THE BELOW LINE ( ALBUM TAGS )
+]
+},
+// PLACEHOLDER - DO NOT MODIFY THE ABOVE LINE ( ALBUM TAGS )
+
+
+
+// PLACEHOLDER - DO NOT MODIFY THE BELOW LINE ( ALBUM TAGS )
+{
+// PLACEHOLDER - DO NOT MODIFY THE ABOVE LINE ( ALBUM TAGS )
+
+name: "Shawn Mendes",
+albums: [
+
+// Album - Illuminate
+{
+cover: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/shawn_mendes/illuminate/00-album_cover.jpg",
+name: "Illuminate",
+artist: "Shawn Mendes",
+releaseDate: "20-04-2017",
+quality: "24-Bit / 44.1 kHz",
+format: "FLAC",
+label: " © 2016 Island Records, a division of UMG Recordings, Inc. This Compilation ℗ 2017 Island Records, a division of UMG Recordings, Inc.",
+tracks: [
+{ 
+{ name: " 01. There's Nothing Holdin' Me Back", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/shawn_mendes/illuminate/01-theres_nothing_holdin_me_back.flac" },
+{ name: " 02. Ruin                           ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/shawn_mendes/illuminate/02-ruin.flac" },
+{ name: " 03. Mercy                          ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/shawn_mendes/illuminate/03-mercy.flac" },
+{ name: " 04. Treat You Better               ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/shawn_mendes/illuminate/04-treat_you_better.flac" },
+{ name: " 05. Three Empty Words              ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/shawn_mendes/illuminate/05-three_empty_words.flac" },
+{ name: " 06. Don't Be A Fool                ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/shawn_mendes/illuminate/06-dont_be_a_fool.flac" },
+{ name: " 07. Like This                      ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/shawn_mendes/illuminate/07-like_this.flac" },
+{ name: " 08. No Promises                    ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/shawn_mendes/illuminate/08-no_promises.flac" },
+{ name: " 09. Lights On                      ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/shawn_mendes/illuminate/09-lights_on.flac" },
+{ name: " 10. Honest                         ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/shawn_mendes/illuminate/10-honest.flac" },
+{ name: " 11. Patience                       ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/shawn_mendes/illuminate/11-patience.flac" },
+{ name: " 12. Bad Reputation                 ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/shawn_mendes/illuminate/12-bad_reputation.flac" },
+{ name: " 13. Understand                     ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/shawn_mendes/illuminate/13-understand.flac" },
+{ name: " 14. Hold On                        ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/shawn_mendes/illuminate/14-hold_on.flac" },
+{ name: " 15. Roses                          ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/shawn_mendes/illuminate/15-roses.flac" },
+{ name: " 16. Mercy (Acoustic)               ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/shawn_mendes/illuminate/16-mercy_acoustic.flac" }
 ]
 },
 
@@ -1662,7 +1744,7 @@ quality: "24-Bit / 44.1 kHz",
 format: "FLAC",
 label: " ℗ 2012 The Weeknd XO, Inc. © — 2012 The Weeknd XO, Inc",
 tracks: [
-{ name: "    >  Disc 01  <", src: "https://raw.githubusercontent.com/lakshkukreja/lakshkukreja.github.io/main/assets/beep.wav" },
+{ name: "    >  Disc 01  <", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy.github.io/main/assets/beep.wav" },
 { name: " 01. High For This                        ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/the_weeknd/trilogy/01-high_for_this.flac" },
 { name: " 02. What You Need                        ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/the_weeknd/trilogy/02-what_you_need.flac" },
 { name: " 03. House Of Balloons / Glass Table Girls", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/the_weeknd/trilogy/03-house_of_balloons_glass_table_girls.flac" },
@@ -1673,7 +1755,7 @@ tracks: [
 { name: " 08. Loft Music                           ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/the_weeknd/trilogy/08-loft_music.flac" },
 { name: " 09. The Knowing                          ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/the_weeknd/trilogy/09-the_knowing.flac" },
 { name: " 10. Twenty Eight                         ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/the_weeknd/trilogy/10-twenty_eight.flac" },
-{ name: "    >  Disc 02  <", src: "https://raw.githubusercontent.com/lakshkukreja/lakshkukreja.github.io/main/assets/beep.wav" },
+{ name: "    >  Disc 02  <", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy.github.io/main/assets/beep.wav" },
 { name: " 01. Lonely Star        ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/the_weeknd/trilogy/11-lonely_star.flac" },
 { name: " 02. Life Of The Party  ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/the_weeknd/trilogy/12-life_of_the_party.flac" },
 { name: " 03. Thursday           ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/the_weeknd/trilogy/13-thursday.flac" },
@@ -1684,7 +1766,7 @@ tracks: [
 { name: " 08. Rolling Stone      ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/the_weeknd/trilogy/18-rolling_stone.flac" },
 { name: " 09. Heaven Or Las Vegas", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/the_weeknd/trilogy/19-heaven_or_las_vegas.flac" },
 { name: " 10. Valerie            ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/the_weeknd/trilogy/20-valerie.flac" },
-{ name: "    >  Disc 03  <", src: "https://raw.githubusercontent.com/lakshkukreja/lakshkukreja.github.io/main/assets/beep.wav" },
+{ name: "    >  Disc 03  <", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy.github.io/main/assets/beep.wav" },
 { name: " 01. D.D.                          ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/the_weeknd/trilogy/21-dd.flac" },
 { name: " 02. Montreal                      ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/the_weeknd/trilogy/22-montreal.flac" },
 { name: " 03. Outside                       ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/the_weeknd/trilogy/23-outside.flac" },
