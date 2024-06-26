@@ -650,6 +650,46 @@ tracks: [
 {
 // PLACEHOLDER - DO NOT MODIFY THE ABOVE LINE ( ALBUM TAGS )
 
+name: "Charlie Puth",
+albums: [
+
+// Album - Voicenotes
+{
+cover: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/charlie_puth/voicenotes/00-album_cover.jpg",
+name: "Voicenotes",
+artist: "Charlie Puth",
+releaseDate: "19-01-2018",
+quality: "24-Bit / 44.1 kHz",
+format: "FLAC",
+label: " © 2018 Artist Partner Group, Inc. for the United States and WEA International Inc. for the world outside of the United States. A Warner Music Group Company. ℗ 2018 Artist Partner Group, Inc. for the United States and WEA International Inc. for the world outside of the United States. A Warner Music Group Company.",
+tracks: [
+{ name: " 01. The Way I Am                         ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/charlie_puth/voicenotes/01-the_way_i_am.flac" },
+{ name: " 02. Attention                            ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/charlie_puth/voicenotes/02-attention.flac" },
+{ name: " 03. LA Girls                             ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/charlie_puth/voicenotes/03-la_girls.flac" },
+{ name: " 04. How Long                             ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/charlie_puth/voicenotes/04-how_long.flac" },
+{ name: " 05. Done For Me (ft. Khelani)            ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/charlie_puth/voicenotes/05-done_for_me.flac" },
+{ name: " 06. Patient                              ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/charlie_puth/voicenotes/06-patient.flac" },
+{ name: " 07. If You Leave Me Now (ft. Boyz II Men)", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/charlie_puth/voicenotes/07-if_you_leave_me_now.flac" },
+{ name: " 08. BOY                                  ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/charlie_puth/voicenotes/08-boy.flac" },
+{ name: " 09. Slow It Down                         ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/charlie_puth/voicenotes/09-slow_it_down.flac" },
+{ name: " 10. Change (ft. James Tylor)             ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/charlie_puth/voicenotes/10-change.flac" },
+{ name: " 11. Somebody Told Me                     ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/charlie_puth/voicenotes/11-somebody_told_me.flac" },
+{ name: " 12. Empty Cups                           ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/charlie_puth/voicenotes/12-empty_cups.flac" },
+{ name: " 13. Through It All                       ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/charlie_puth/voicenotes/13-through_it_all.flac" }
+]
+},
+
+// PLACEHOLDER - DO NOT MODIFY THE BELOW LINE ( ALBUM TAGS )
+]
+},
+// PLACEHOLDER - DO NOT MODIFY THE ABOVE LINE ( ALBUM TAGS )
+
+
+
+// PLACEHOLDER - DO NOT MODIFY THE BELOW LINE ( ALBUM TAGS )
+{
+// PLACEHOLDER - DO NOT MODIFY THE ABOVE LINE ( ALBUM TAGS )
+
 name: "d4vd",
 albums: [
 
@@ -1212,6 +1252,21 @@ tracks: [
 
 name: "Shawn Mendes",
 albums: [
+
+// Album - Señorita
+{
+cover: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/shawn_mendes/senorita/00-album_cover.jpg",
+name: "Señorita",
+artist: "Shawn Mendes, Camila Cabello",
+releaseDate: "21-06-2019",
+quality: "16-Bit / 44.1 kHz",
+format: "FLAC",
+label: " © 2019 Island Records, a division of UMG Recordings, Inc. ℗ 2019 Island Records, a division of UMG Recordings, Inc.",
+tracks: [
+{ name: " 01. Señorita", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/shawn_mendes/senorita/01-senorita.flac" }
+]
+},
+
 
 // Album - Illuminate
 {
