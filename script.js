@@ -982,6 +982,76 @@ tracks: [
 {
 // PLACEHOLDER - DO NOT MODIFY THE ABOVE LINE ( ALBUM TAGS )
 
+name: "Joji",
+albums: [
+
+// Album - Nectar
+{
+cover: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/joji/nectar/00-album_cover.jpg",
+name: "Nectar",
+artist: "Joji",
+releaseDate: "24-09-2020",
+quality: "24-Bit / 44.1 kHz",
+format: "FLAC",
+label: " © 2020 88rising Records LLC ℗ 2020 88rising Records LLC, except track 4; ℗ 2020 88rising Records LLC/Mad Decent, under license to Columbia Records, a Division of Sony Music Entertainment",
+tracks: [
+{ name: " 01. Ew                           ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/joji/nectar/01-ew.flac" },
+{ name: " 02. MODUS                        ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/joji/nectar/02-modus.flac" },
+{ name: " 03. Tick Tock                    ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/joji/nectar/03-tick_tock.flac" },
+{ name: " 04. Daylight                     ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/joji/nectar/04-daylight.flac" },
+{ name: " 05. Upgrade                      ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/joji/nectar/05-upgrade.flac" },
+{ name: " 06. Gimme Love                   ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/joji/nectar/06-gimme_love.flac" },
+{ name: " 07. Run                          ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/joji/nectar/07-run.flac" },
+{ name: " 08. Sanctuary                    ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/joji/nectar/08-sanctuary.flac" },
+{ name: " 09. High Hopes (ft. Omar Apollo) ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/joji/nectar/09-high_hopes.flac" },
+{ name: " 10. NITROUS                      ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/joji/nectar/10-nitrous.flac" },
+{ name: " 11. Pretty Boy (ft. Lil Yachty)  ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/joji/nectar/11-pretty_boy.flac" },
+{ name: " 12. Normal People (ft. rei brown)", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/joji/nectar/12-normal_people.flac" },
+{ name: " 13. Afterthought                 ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/joji/nectar/13-afterthought.flac" },
+{ name: " 14. Mr. Hollywood                ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/joji/nectar/14-mr_hollywood.flac" },
+{ name: " 15. 777                          ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/joji/nectar/15-777.flac" },
+{ name: " 16. Reanimator (ft. Yves Tumor)  ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/joji/nectar/16-reanimator.flac" },
+{ name: " 17. Like You Do                  ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/joji/nectar/17-like_you_do.flac" },
+{ name: " 18. Your Man                     ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/joji/nectar/18-your_man.flac" }
+]
+},
+
+// Album - BALLADS 1
+{
+cover: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/joji/ballads_1/00-album_cover.jpg",
+name: "BALLADS 1",
+artist: "Joji",
+releaseDate: "26-10-2018",
+quality: "16-Bit / 44.1 kHz",
+format: "FLAC",
+label: " © 2018 88rising Records LLC ℗ 2018 88rising Records LLC",
+tracks: [
+{ name: " 01. ATTENTION                               ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/joji/ballads_1/01-attention.flac" },
+{ name: " 02. SLOW DANCING IN THE DARK                ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/joji/ballads_1/02-slow_dancing_in_the_dark.flac" },
+{ name: " 03. TEST DRIVE                              ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/joji/ballads_1/03-test_drive.flac" },
+{ name: " 04. WANTED U                                ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/joji/ballads_1/04-wanted_u.flac" },
+{ name: " 05. CAN'T GET OVER (ft. Clams Casino)       ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/joji/ballads_1/05-cant_get_over_you.flac" },
+{ name: " 06. YEAH RIGHT                              ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/joji/ballads_1/06-yeah_right.flac" },
+{ name: " 07. WHY AM I STILL IN LA (ft. Shlomo & D33J)", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/joji/ballads_1/07-why_am_i_still_in_la.flac" },
+{ name: " 08. NO FUN                                  ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/joji/ballads_1/08-no_fun.flac" },
+{ name: " 09. COME THRU                               ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/joji/ballads_1/09-come_thru.flac" },
+{ name: " 10. R.I.P. (ft. Trippie Redd)               ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/joji/ballads_1/10-rip.flac" },
+{ name: " 11. XNXX                                    ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/joji/ballads_1/11-xnxx.flac" },
+{ name: " 12. I'LL SEE YOU IN 40                      ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/joji/ballads_1/12-ill_see_you_in_40.flac" }
+]
+},
+
+// PLACEHOLDER - DO NOT MODIFY THE BELOW LINE ( ALBUM TAGS )
+]
+},
+// PLACEHOLDER - DO NOT MODIFY THE ABOVE LINE ( ALBUM TAGS )
+
+
+
+// PLACEHOLDER - DO NOT MODIFY THE BELOW LINE ( ALBUM TAGS )
+{
+// PLACEHOLDER - DO NOT MODIFY THE ABOVE LINE ( ALBUM TAGS )
+
 name: "Karan Aujla",
 albums: [
 
