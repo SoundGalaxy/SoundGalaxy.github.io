@@ -1,8 +1,8 @@
 # Please Refer The Text Below To Add New Songs To The File "script.js" In The Repository More Efficiently!
 
-// - // - // - // - //  DO NOT EDIT BELOW THIS LINE // - // - // - // - //
+// PLACEHOLDER - DO NOT MODIFY THE BELOW LINE ( ALBUM TAGS )
 {
-// - // - // - // - //  DO NOT EDIT ABOVE THIS LINE // - // - // - // - //
+// PLACEHOLDER - DO NOT MODIFY THE ABOVE LINE ( ALBUM TAGS )
 
 name: "",
 albums: [
@@ -13,7 +13,7 @@ cover: "",
 name: "",
 artist: "",
 releaseDate: "",
-quality: "-Bit /  kHz",
+quality: "-Bit / kHz",
 format: "FLAC";
 label: " ",
 tracks: [
@@ -22,8 +22,7 @@ tracks: [
 ]
 },
 
-// - // - // - // - //  DO NOT EDIT BELOW THIS LINE // - // - // - // - //
+// PLACEHOLDER - DO NOT MODIFY THE BELOW LINE ( ALBUM TAGS )
 ]
 }
-];
-// - // - // - // - //  DO NOT EDIT ABOVE THIS LINE // - // - // - // - //
+// PLACEHOLDER - DO NOT MODIFY THE ABOVE LINE ( ALBUM TAGS )
