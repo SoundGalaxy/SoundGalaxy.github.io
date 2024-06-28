@@ -653,6 +653,31 @@ tracks: [
 name: "Charlie Puth",
 albums: [
 
+// Album - CHARLIE
+{
+cover: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/charlie_puth/charlie/00-album_cover.jpg",
+name: "CHARLIE",
+artist: "Charlie Puth",
+releaseDate: "07-10-2022",
+quality: "24-Bit / 44.1 kHz",
+format: "FLAC",
+label: " © 2022 Atlantic Records Group LLC ℗ 2022 Atlantic Records Group LLC",
+tracks: [
+{ name: " 01. That's Hilarious                     ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/charlie_puth/charlie/01-thats_hilarious.flac" },
+{ name: " 02. Charlie Be Quiet!                    ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/charlie_puth/charlie/02-charlie_be_quiet.flac" },
+{ name: " 03. Light Switch                         ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/charlie_puth/charlie/03-light_switch.flac" },
+{ name: " 04. There's A First Time For Everything  ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/charlie_puth/charlie/04-theres_a_first_time_for_everything.flac" },
+{ name: " 05. Smells Like Me                       ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/charlie_puth/charlie/05-smells_like_me.flac" },
+{ name: " 06. Left And Right (ft. Jung Kook Of BTS)", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/charlie_puth/charlie/06-left_and_right.flac" },
+{ name: " 07. Loser                                ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/charlie_puth/charlie/07-loser.flac" },
+{ name: " 08. When You're Sad I'm Sad              ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/charlie_puth/charlie/08-when_youre_sad_im_sad.flac" },
+{ name: " 09. Marks On My Neck                     ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/charlie_puth/charlie/09-marks_on_my_neck.flac" },
+{ name: " 10. Tears On My Piano                    ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/charlie_puth/charlie/10-tears_on_my_piano.flac" },
+{ name: " 11. I Don't Think That I Like Her        ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/charlie_puth/charlie/11-i_dont_think_that_i_like_her.flac" },
+{ name: " 12. No More Drama                        ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/charlie_puth/charlie/12-no_more_drama.flac" }
+]
+},
+
 // Album - Voicenotes
 {
 cover: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/charlie_puth/voicenotes/00-album_cover.jpg",
@@ -678,6 +703,33 @@ tracks: [
 { name: " 13. Through It All                       ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/charlie_puth/voicenotes/13-through_it_all.flac" }
 ]
 },
+
+
+// Album - Nine Track Mind
+{
+cover: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/charlie_puth/nine_track_mind/00-album_cover.jpg",
+name: "Nine Track Mind",
+artist: "Charlie Puth",
+releaseDate: "06-11-2015",
+quality: "24-Bit / 44.1 kHz",
+format: "FLAC",
+label: " © 2016 Artist Partners for the United States and WEA International Inc. for the world outside of the United States. A Warner Music Group Company. ℗ 2016 Artist Partners for the United States and WEA International Inc. for the world outside of the United States. A Warner Music Group Company.",
+tracks: [
+{ name: " 01. One Call Away                           ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/charlie_puth/nine_track_mind/01-one_call_away.flac" },
+{ name: " 02. Dangerously                             ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/charlie_puth/nine_track_mind/02-dangerously.flac" },
+{ name: " 03. Marvin Gaye (ft. Meghan Trainor)        ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/charlie_puth/nine_track_mind/03-marvin_gaye.flac" },
+{ name: " 04. Losing My Mind                          ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/charlie_puth/nine_track_mind/04-losing_my_mind.flac" },
+{ name: " 05. We Don't Talk Anymore (ft. Selena Gomez)", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/charlie_puth/nine_track_mind/05-we_dont_talk_anymore.flac" },
+{ name: " 06. My Gospel                               ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/charlie_puth/nine_track_mind/06-my_gospel.flac" },
+{ name: " 07. Up All Night                            ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/charlie_puth/nine_track_mind/07-up_all_night.flac" },
+{ name: " 08. Left Right Left                         ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/charlie_puth/nine_track_mind/08-left_right_left.flac" },
+{ name: " 09. Then There's You                        ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/charlie_puth/nine_track_mind/09-then_theres_you.flac" },
+{ name: " 10. Suffer                                  ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/charlie_puth/nine_track_mind/10-suffer.flac" },
+{ name: " 11. As You Are (ft. Shy Carter)             ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/charlie_puth/nine_track_mind/11-as_you_are.flac" },
+{ name: " 12. Some Type Of Love                       ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/charlie_puth/nine_track_mind/12-some_type_of_love.flac" }
+]
+},
+
 
 // PLACEHOLDER - DO NOT MODIFY THE BELOW LINE ( ALBUM TAGS )
 ]
