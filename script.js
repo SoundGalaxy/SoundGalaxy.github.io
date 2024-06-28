@@ -1274,6 +1274,75 @@ tracks: [
 {
 // PLACEHOLDER - DO NOT MODIFY THE ABOVE LINE ( ALBUM TAGS )
 
+name: "Maroon 5",
+albums: [
+
+// Album - Red Pill Blues (Deluxe)
+{
+cover: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/maroon_5/red_pill_blues/00-album_cover.jpg",
+name: "Red Pill Blues (Deluxe)",
+artist: "Maroon 5",
+releaseDate: "--2017",
+quality: "24-Bit / 44.1 kHz",
+format: "FLAC",
+label: " © 2017 Interscope Records ℗ 2017 Interscope Records",
+tracks: [
+{ name: " 01. Best 4 U      ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/maroon_5/red_pill_blues/" },
+{ name: " 02. What Lovers Do", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/maroon_5/red_pill_blues/" },
+{ name: " 03. Wait          ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/maroon_5/red_pill_blues/" },
+{ name: " 04. Lips On You", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/maroon_5/red_pill_blues/" },
+{ name: " 05. ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/maroon_5/red_pill_blues/" },
+{ name: " 06. ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/maroon_5/red_pill_blues/" },
+{ name: " 07. ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/maroon_5/red_pill_blues/" },
+{ name: " 08. ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/maroon_5/red_pill_blues/" },
+{ name: " 09. ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/maroon_5/red_pill_blues/" },
+{ name: " 10. ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/maroon_5/red_pill_blues/" },
+{ name: " 11. ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/maroon_5/red_pill_blues/" },
+{ name: " 12. ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/maroon_5/red_pill_blues/" },
+{ name: " 13. ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/maroon_5/red_pill_blues/" },
+{ name: " 14. ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/maroon_5/red_pill_blues/" },
+{ name: " 15. ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/maroon_5/red_pill_blues/" }
+]
+},
+
+// Album - V (Deluxe Version)
+{
+cover: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/maroon_5/v_deluxe_version/00-album_cover.jpg",
+name: "V (Deluxe Version)",
+artist: "Maroon 5",
+releaseDate: "01-09-2014",
+quality: "24-Bit / 96 kHz",
+format: "FLAC",
+label: " © 2014 Interscope Records ℗ 2014 Interscope Records",
+tracks: [
+{ name: " 01. Maps               ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/maroon_5/v_deluxe_version/01-maps.flac" },
+{ name: " 02. Animals            ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/maroon_5/v_deluxe_version/02-animals.flac" },
+{ name: " 03. It Was Always You  ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/maroon_5/v_deluxe_version/03-it_was_always_you.flac" },
+{ name: " 04. Unkiss Me          ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/maroon_5/v_deluxe_version/04-unkiss_me.flac" },
+{ name: " 05. Sugar              ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/maroon_5/v_deluxe_version/05-sugar.flac" },
+{ name: " 06. Leaving California ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/maroon_5/v_deluxe_version/06-leaving_california.flac" },
+{ name: " 07. In Your Pocket     ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/maroon_5/v_deluxe_version/07-in_your_pocket.flac" },
+{ name: " 08. New Love           ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/maroon_5/v_deluxe_version/08-new_love.flac" },
+{ name: " 09. Coming Back For You", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/maroon_5/v_deluxe_version/09-coming_back_for_you.flac" },
+{ name: " 10. Feelings           ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/maroon_5/v_deluxe_version/10-feelings.flac" },
+{ name: " 11. My Heart Is Open   ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/maroon_5/v_deluxe_version/11-my_heart_is_open.flac" },
+{ name: " 12. Shoot Love         ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/maroon_5/v_deluxe_version/12-shoot_love.flac" },
+{ name: " 13. Sex And Candy      ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/maroon_5/v_deluxe_version/13-sex_and_candy.flac" },
+{ name: " 14. Lost Stars         ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/maroon_5/v_deluxe_version/14-lost_stars.flac" }
+]
+},
+
+// PLACEHOLDER - DO NOT MODIFY THE BELOW LINE ( ALBUM TAGS )
+]
+},
+// PLACEHOLDER - DO NOT MODIFY THE ABOVE LINE ( ALBUM TAGS )
+
+
+
+// PLACEHOLDER - DO NOT MODIFY THE BELOW LINE ( ALBUM TAGS )
+{
+// PLACEHOLDER - DO NOT MODIFY THE ABOVE LINE ( ALBUM TAGS )
+
 name: "Piyush Mehroliyaa",
 albums: [
 
