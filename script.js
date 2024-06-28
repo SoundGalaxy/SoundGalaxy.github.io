@@ -1282,26 +1282,26 @@ albums: [
 cover: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/maroon_5/red_pill_blues/00-album_cover.jpg",
 name: "Red Pill Blues (Deluxe)",
 artist: "Maroon 5",
-releaseDate: "--2017",
+releaseDate: "03-11-2017",
 quality: "24-Bit / 44.1 kHz",
 format: "FLAC",
 label: " © 2017 Interscope Records ℗ 2017 Interscope Records",
 tracks: [
-{ name: " 01. Best 4 U      ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/maroon_5/red_pill_blues/" },
-{ name: " 02. What Lovers Do", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/maroon_5/red_pill_blues/" },
-{ name: " 03. Wait          ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/maroon_5/red_pill_blues/" },
-{ name: " 04. Lips On You", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/maroon_5/red_pill_blues/" },
-{ name: " 05. ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/maroon_5/red_pill_blues/" },
-{ name: " 06. ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/maroon_5/red_pill_blues/" },
-{ name: " 07. ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/maroon_5/red_pill_blues/" },
-{ name: " 08. ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/maroon_5/red_pill_blues/" },
-{ name: " 09. ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/maroon_5/red_pill_blues/" },
-{ name: " 10. ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/maroon_5/red_pill_blues/" },
-{ name: " 11. ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/maroon_5/red_pill_blues/" },
-{ name: " 12. ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/maroon_5/red_pill_blues/" },
-{ name: " 13. ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/maroon_5/red_pill_blues/" },
-{ name: " 14. ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/maroon_5/red_pill_blues/" },
-{ name: " 15. ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/maroon_5/red_pill_blues/" }
+{ name: " 01. Best 4 U        ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/maroon_5/red_pill_blues/01-best_4_u.flac" },
+{ name: " 02. What Lovers Do  ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/maroon_5/red_pill_blues/02-what_lovers_do.flac" },
+{ name: " 03. Wait            ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/maroon_5/red_pill_blues/03-wait.flac" },
+{ name: " 04. Lips On You     ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/maroon_5/red_pill_blues/04-lips_on_you.flac" },
+{ name: " 05. Bet My Heart    ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/maroon_5/red_pill_blues/05-bet_my_heart.flac" },
+{ name: " 06. Help Me Out     ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/maroon_5/red_pill_blues/06-help_me_out.flac" },
+{ name: " 07. Who I Am        ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/maroon_5/red_pill_blues/07-who_i_am.flac" },
+{ name: " 08. Whiskey         ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/maroon_5/red_pill_blues/08-whiskey.flac" },
+{ name: " 09. Girls Like You  ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/maroon_5/red_pill_blues/09-girls_like_you.flac" },
+{ name: " 10. Closure         ", src: "https://media.githubusercontent.com/media/SoundGalaxy/SoundGalaxy/main/music/artists/maroon_5/red_pill_blues/10-closure.flac" },
+{ name: " 11. Denim Jacket    ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/maroon_5/red_pill_blues/11-denim_jacket.flac" },
+{ name: " 12. Visions         ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/maroon_5/red_pill_blues/12-visions.flac" },
+{ name: " 13. Plastic Rose    ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/maroon_5/red_pill_blues/13-plastic_rose.flac" },
+{ name: " 14. Don't Wanna Know", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/maroon_5/red_pill_blues/14-dont_wanna_know.flac" },
+{ name: " 15. Cold            ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/maroon_5/red_pill_blues/15-cold.flac" }
 ]
 },
 
@@ -1328,7 +1328,7 @@ tracks: [
 { name: " 11. My Heart Is Open   ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/maroon_5/v_deluxe_version/11-my_heart_is_open.flac" },
 { name: " 12. Shoot Love         ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/maroon_5/v_deluxe_version/12-shoot_love.flac" },
 { name: " 13. Sex And Candy      ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/maroon_5/v_deluxe_version/13-sex_and_candy.flac" },
-{ name: " 14. Lost Stars         ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/maroon_5/v_deluxe_version/14-lost_stars.flac" }
+{ name: " 14. Lost Stars         ", src: "https://media.githubusercontent.com/media/SoundGalaxy/SoundGalaxy/main/music/artists/maroon_5/v_deluxe_version/14-lost_stars.flacs" }
 ]
 },
 
