@@ -1277,6 +1277,33 @@ tracks: [
 name: "Maroon 5",
 albums: [
 
+// Album - JORDI (Deluxe - Explicit)
+{
+cover: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/maroon_5/jordi_deluxe/00-album_cover.jpg",
+name: "JORDI (Deluxe - Explicit)",
+artist: "Maroon 5",
+releaseDate: "11-06-2021",
+quality: "24-Bit / 44.1 kHz",
+format: "FLAC",
+label: " © 2021 Interscope Records (222 Records) ℗ 2021 Interscope Records (222 Records)",
+tracks: [
+{ name: " 01. Beautiful Mistakes   ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/maroon_5/jordi_deluxe/01-beautiful_mistakes.flac" },
+{ name: " 02. Lost                 ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/maroon_5/jordi_deluxe/02-lost.flac" },
+{ name: " 03. Echo                 ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/maroon_5/jordi_deluxe/03-echo.flac" },
+{ name: " 04. Lovesick             ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/maroon_5/jordi_deluxe/04-lovesick.flac" },
+{ name: " 05. Remedy               ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/maroon_5/jordi_deluxe/05-remedy.flac" },
+{ name: " 06. Seasons              ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/maroon_5/jordi_deluxe/06-seasons.flac" },
+{ name: " 07. One Light            ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/maroon_5/jordi_deluxe/07-one_light.flac" },
+{ name: " 08. Convince Me Otherwise", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/maroon_5/jordi_deluxe/08-convince_me_otherwise.flac" },
+{ name: " 09. Nobody's Love        ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/maroon_5/jordi_deluxe/09-nobodys_love.flac" },
+{ name: " 10. Can't Leave You Alone", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/maroon_5/jordi_deluxe/10-cant_leave_you_alone.flac" },
+{ name: " 11. Memories             ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/maroon_5/jordi_deluxe/11-memories.flac" },
+{ name: " 12. Memories Remix       ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/maroon_5/jordi_deluxe/12-memories_remix.flac" },
+{ name: " 13. Button               ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/maroon_5/jordi_deluxe/13-button.flac" },
+{ name: " 14. Lifestyle            ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/maroon_5/jordi_deluxe/14-lifestyle.flac" }
+]
+},
+
 // Album - Red Pill Blues (Deluxe)
 {
 cover: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/maroon_5/red_pill_blues/00-album_cover.jpg",
@@ -1328,7 +1355,147 @@ tracks: [
 { name: " 11. My Heart Is Open   ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/maroon_5/v_deluxe_version/11-my_heart_is_open.flac" },
 { name: " 12. Shoot Love         ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/maroon_5/v_deluxe_version/12-shoot_love.flac" },
 { name: " 13. Sex And Candy      ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/maroon_5/v_deluxe_version/13-sex_and_candy.flac" },
-{ name: " 14. Lost Stars         ", src: "https://media.githubusercontent.com/media/SoundGalaxy/SoundGalaxy/main/music/artists/maroon_5/v_deluxe_version/14-lost_stars.flacs" }
+{ name: " 14. Lost Stars         ", src: "https://media.githubusercontent.com/media/SoundGalaxy/SoundGalaxy/main/music/artists/maroon_5/v_deluxe_version/14-lost_stars.flac" }
+]
+},
+
+// Album - Overexposed
+{
+cover: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/maroon_5/overexposed/00-album_cover.jpg",
+name: "Overexposed",
+artist: "Maroon 5",
+releaseDate: "01-01-2012",
+quality: "16-Bit / 44.1 kHz",
+format: "FLAC",
+label: " © 2012 A&M/Octone Records ℗ 2012 Interscope Records",
+tracks: [
+{ name: " 01. One More Night        ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/maroon_5/overexposed/01-one_more_night.flac" },
+{ name: " 02. Payphone              ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/maroon_5/overexposed/02-payphone.flac" },
+{ name: " 03. Daylight              ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/maroon_5/overexposed/03-daylight.flac" },
+{ name: " 04. Lucky Strike          ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/maroon_5/overexposed/04-lucky_strike.flac" },
+{ name: " 05. The Man Who Never Lied", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/maroon_5/overexposed/05-the_man_who_never_lied.flac" },
+{ name: " 06. Love Somebody         ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/maroon_5/overexposed/06-love_somebody.flac" },
+{ name: " 07. Ladykiller            ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/maroon_5/overexposed/07-ladykiller.flac" },
+{ name: " 08. Fortune Teller        ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/maroon_5/overexposed/08-fortune_teller.flac" },
+{ name: " 09. Sad                   ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/maroon_5/overexposed/09-sad.flac" },
+{ name: " 10. Tickets               ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/maroon_5/overexposed/10-tickets.flac" },
+{ name: " 11. Doin' Dirt            ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/maroon_5/overexposed/11-doin_dirt.flac" },
+{ name: " 12. Beautiful Goodbye     ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/maroon_5/overexposed/12-beautiful_goodbye.flac" },
+{ name: " 13. Wipe Your Eyes        ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/maroon_5/overexposed/13-wipe_your_eyes.flac" },
+{ name: " 14. Wasted Years          ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/maroon_5/overexposed/14-wasted_years.flac" },
+{ name: " 15. Let's Stay Together   ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/maroon_5/overexposed/15-lets_stay_together.flac" }
+]
+},
+
+// PLACEHOLDER - DO NOT MODIFY THE BELOW LINE ( ALBUM TAGS )
+]
+},
+// PLACEHOLDER - DO NOT MODIFY THE ABOVE LINE ( ALBUM TAGS )
+
+
+
+// PLACEHOLDER - DO NOT MODIFY THE BELOW LINE ( ALBUM TAGS )
+{
+// PLACEHOLDER - DO NOT MODIFY THE ABOVE LINE ( ALBUM TAGS )
+
+name: "Metro Boomin",
+albums: [
+
+// Album - WE STILL DON'T TRUST YOU
+{
+cover: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/metro_boomin/we_still_dont_trust_you/00-album_cover.jpg",
+name: "WE STILL DON'T TRUST YOU",
+artist: "Future, Metro Boomin",
+releaseDate: "12-04-2024",
+quality: "24-Bit / 96 kHz",
+format: "FLAC",
+label: " ℗ 2024 Wilburn Holding Co. and Boominati Worldwide, under exclusive license to Epic Records, a division of Sony Music Entertainment. With Republic Records, a division of UMG Recordings, Inc.",
+tracks: [
+{ name: "    >  Disc 01  <", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy.github.io/main/assets/beep.wav" },
+{ name: " 01. We Still Don't Trust You", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/metro_boomin/we_still_dont_trust_you/01-we_still_dont_trust_you.flac" },
+{ name: " 02. Drink N Dance           ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/metro_boomin/we_still_dont_trust_you/02-drink_&_dance.flac" },
+{ name: " 03. Out Of My Hands         ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/metro_boomin/we_still_dont_trust_you/03-out_of_my_hands.flac" },
+{ name: " 04. Jealous                 ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/metro_boomin/we_still_dont_trust_you/04-jealous.flac" },
+{ name: " 05. This Sunday             ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/metro_boomin/we_still_dont_trust_you/05-this_sunday.flac" },
+{ name: " 06. Luv Bad Bitches         ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/metro_boomin/we_still_dont_trust_you/06-luv_bad_bitches.flac" },
+{ name: " 07. Amazing (Interlude)     ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/metro_boomin/we_still_dont_trust_you/07-amazing_interlude.flac" },
+{ name: " 08. All to Myself           ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/metro_boomin/we_still_dont_trust_you/08-all_to_myself.flac" },
+{ name: " 09. Nights Like This        ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/metro_boomin/we_still_dont_trust_you/09-nights_like_this.flac" },
+{ name: " 10. Came to the Party       ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/metro_boomin/we_still_dont_trust_you/10-came_to_the_party.flac" },
+{ name: " 11. Right 4 You             ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/metro_boomin/we_still_dont_trust_you/11-right_for_you.flac" },
+{ name: " 12. Mile High Memories      ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/metro_boomin/we_still_dont_trust_you/12-miles_high_memories.flac" },
+{ name: " 13. Overload                ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/metro_boomin/we_still_dont_trust_you/13-overload.flac" },
+{ name: " 14. Gracious                ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/metro_boomin/we_still_dont_trust_you/14-gracious.flac" },
+{ name: " 15. Beat It                 ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/metro_boomin/we_still_dont_trust_you/15-beat_it.flac" },
+{ name: " 16. Always Be My Fault      ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/metro_boomin/we_still_dont_trust_you/16-always_be_my_fault.flac" },
+{ name: " 17. One Big Family          ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/metro_boomin/we_still_dont_trust_you/17-one_big_family.flac" },
+{ name: " 18. Red Leather             ", src: "https://media.githubusercontent.com/media/SoundGalaxy/SoundGalaxy/main/music/artists/metro_boomin/we_dont_trust_you/18-red_leather.flac" },
+{ name: "    >  Disc 02  <", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy.github.io/main/assets/beep.wav" },
+{ name: " 19. #1 (Intro)              ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/metro_boomin/we_still_dont_trust_you/19-#1_intro.flac" },
+{ name: " 20. Nobody Knows My Struggle", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/metro_boomin/we_still_dont_trust_you/20-nobody_knows_my_struggle.flac" },
+{ name: " 21. All My Life             ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/metro_boomin/we_still_dont_trust_you/21-all_my_life.flac" },
+{ name: " 22. Crossed Out             ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/metro_boomin/we_still_dont_trust_you/22-crossed_out.flac" },
+{ name: " 23. Crazy Clientele         ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/metro_boomin/we_still_dont_trust_you/23-crazy_clientele.flac" },
+{ name: " 24. Show Of Hands           ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/metro_boomin/we_still_dont_trust_you/24-show_of_hands.flac" },
+{ name: " 25. Streets Made Me A King  ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/metro_boomin/we_still_dont_trust_you/25-streets_made_me_a_king.flac" }
+]
+},
+
+// Album - We Don't Trust You
+{
+cover: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/metro_boomin/we_dont_trust_you/00-album_cover.jpg",
+name: "We Don't Trust You",
+artist: "Future, Metro Boomin",
+releaseDate: "22-03-2024",
+quality: "24-Bit / 96 kHz",
+format: "FLAC",
+label: " ℗ 2024 Wilburn Holding Co. and Boominati Worldwide, under exclusive license to Epic Records, a division of Sony Music Entertainment. With Republic Records, a division of UMG Recordings, Inc.",
+tracks: [
+{ name: " 01. We Don't Trust You             ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/metro_boomin/we_dont_trust_you/01-we_dont_trust_you.flac" },
+{ name: " 02. Young Metro                    ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/metro_boomin/we_dont_trust_you/02-young_metro.flac" },
+{ name: " 03. Ice Attack                     ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/metro_boomin/we_dont_trust_you/03-ice_attack.flac" },
+{ name: " 04. Type Shit                      ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/metro_boomin/we_dont_trust_you/04-type_shit.flac" },
+{ name: " 05. Claustrophobic                 ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/metro_boomin/we_dont_trust_you/05-claustrophobic.flac" },
+{ name: " 06. Like That                      ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/metro_boomin/we_dont_trust_you/06-like_that.flac" },
+{ name: " 07. Slimed In                      ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/metro_boomin/we_dont_trust_you/07-slimed_in.flac" },
+{ name: " 08. Magic Don Juan (Princess Diana)", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/metro_boomin/we_dont_trust_you/08-magic_don_juan_princess_diana.flac" },
+{ name: " 09. Cinderella                     ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/metro_boomin/we_dont_trust_you/09-cinderella.flac" },
+{ name: " 10. Runnin Outta Time              ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/metro_boomin/we_dont_trust_you/10-runnin_outta_time.flac" },
+{ name: " 11. Fried (She a Vibe)             ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/metro_boomin/we_dont_trust_you/11-fried.flac" },
+{ name: " 12. Ain't No Love                  ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/metro_boomin/we_dont_trust_you/12-aint_no_love.flac" },
+{ name: " 13. Everyday Hustle                ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/metro_boomin/we_dont_trust_you/13-everyday_hustle.flac" },
+{ name: " 14. GTA                            ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/metro_boomin/we_dont_trust_you/14-gta.flac" },
+{ name: " 15. Seen It All                    ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/metro_boomin/we_dont_trust_you/15-seen_it_all.flac" },
+{ name: " 16. WTFYM                          ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/metro_boomin/we_dont_trust_you/16-wtfym.flac" },
+{ name: " 17. Where My Twin @                ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/metro_boomin/we_dont_trust_you/17-where_my_twin_@.flac" }
+]
+},
+
+// Album - HEROES & VILLAINS
+{
+cover: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/metro_boomin/heroes_&_villains/00-album_cover.jpg",
+name: "HEROES & VILLAINS",
+artist: "Metro Boomin",
+releaseDate: "02-12-2022",
+quality: "24-Bit / 96 kHz",
+format: "FLAC",
+label: " © 2022 Boominati Worldwide, LLC ℗ 2022 Boominati Worldwide, LLC",
+tracks: [
+{ name: " 01. On Time (with John Legend)                                  ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/metro_boomin/heroes_&_villains/01-on_time.flac" },
+{ name: " 02. Superhero (with Future & Chris Brown)                       ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/metro_boomin/heroes_&_villains/02-superhero.flac" },
+{ name: " 03. Too Many Nights (ft. Don Toliver, Future)                   ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/metro_boomin/heroes_&_villains/03-too_many_nights.flac" },
+{ name: " 04. Raindrops (Insane) [with Travis Scott]                      ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/metro_boomin/heroes_&_villains/04-raindrops_insane.flac" },
+{ name: " 05. Umbrella (with 21 Savage, Young Nudy)                       ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/metro_boomin/heroes_&_villains/05-umbrella.flac" },
+{ name: " 06. Trance (ft. Travis Scott, Young Thug)                       ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/metro_boomin/heroes_&_villains/06-trance.flac" },
+{ name: " 07. Around Me (ft. Don Toliver)                                 ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/metro_boomin/heroes_&_villains/07-around_me.flac" },
+{ name: " 08. Metro Spider (ft. Young Thug)                               ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/metro_boomin/heroes_&_villains/08-metro_spider.flac" },
+{ name: " 09. I Can't Save You (Interlude) [ft. Future, Don Toliver]      ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/metro_boomin/heroes_&_villains/09-i_cant_save_you_interlude.flac" },
+{ name: " 10. Creepin' (ft. The Weeknd, 21 Savage]                        ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/metro_boomin/heroes_&_villains/10-creepin.flac" },
+{ name: " 11. Niagara Falls (Foot or 2) [ft. Travis Scott, 21 Savage]     ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/metro_boomin/heroes_&_villains/11-niagara_falls_foot_or_2.flac" },
+{ name: " 12. Walk Em Down (Don't Kill Civilians) [ft. 21 Savage, Mustafa]", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/metro_boomin/heroes_&_villains/12-walk_em_down.flac" },
+{ name: " 13. Lock On Me (ft. Travis Scott, Future]                       ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/metro_boomin/heroes_&_villains/13-lock_on_me.flac" },
+{ name: " 14. Feel The Fiyaaaah (ft. A$AP Rocky, Takeoff)                 ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/metro_boomin/heroes_&_villains/14-feel_the_fiyaaaah.flac" },
+{ name: " 15. All The Money (ft. Gunna) [Bonus]                           ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/metro_boomin/heroes_&_villains/15-all_the_money_bonus.flac" }
 ]
 },
 
