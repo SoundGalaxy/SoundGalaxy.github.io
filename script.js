@@ -1033,6 +1033,49 @@ tracks: [
 {
 // PLACEHOLDER - DO NOT MODIFY THE ABOVE LINE ( ALBUM TAGS )
 
+name: "JID",
+albums: [
+
+// Album - The Forever Story
+{
+cover: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/jid/the_forever_story/00-album_cover.jpg",
+name: "The Forever Story",
+artist: "JID",
+releaseDate: "24-08-2022",
+quality: "24-Bit / 88 kHz",
+format: "FLAC",
+label: " © 2022 Dreamville/Interscope ℗ 2022 Dreamville/Interscope",
+tracks: [
+{ name: " 01. Galaxy                        ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/jid/the_forever_story/01-galaxy.flac" },
+{ name: " 02. Raydar                        ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/jid/the_forever_story/02-raydar.flac" },
+{ name: " 03. Dance Now                     ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/jid/the_forever_story/03-dance_now.flac" },
+{ name: " 04. Crack Sandwich                ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/jid/the_forever_story/04-crack_sandwich.flac" },
+{ name: " 05. Can't Punk Me                 ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/jid/the_forever_story/05-cant_punk_me.flac" },
+{ name: " 06. Surround Sound (ft. 21 Savage)", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/jid/the_forever_story/06-surround_sound.flac" },
+{ name: " 07. Kody Blu 31                   ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/jid/the_forever_story/07-kody_blu_31.flac" },
+{ name: " 08. Bruddanem                     ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/jid/the_forever_story/08-bruddanem.flac" },
+{ name: " 09. Sistanem                      ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/jid/the_forever_story/09-sistanem.flac" },
+{ name: " 10. Can't Make U Change           ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/jid/the_forever_story/10-cant_make_u_change.flac" },
+{ name: " 11. Stars                         ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/jid/the_forever_story/11-stars.flac" },
+{ name: " 12. Just In Time                  ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/jid/the_forever_story/12-just_in_time.flac" },
+{ name: " 13. Money                         ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/jid/the_forever_story/13-money.flac" },
+{ name: " 14. Better Days                   ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/jid/the_forever_story/14-better_days.flac" },
+{ name: " 15. Lauder Too                    ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/jid/the_forever_story/15-lauder_too.flac" },
+{ name: " 16. 2007                          ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/jid/the_forever_story/16-2007.flac" }
+]
+},
+
+// PLACEHOLDER - DO NOT MODIFY THE BELOW LINE ( ALBUM TAGS )
+]
+},
+// PLACEHOLDER - DO NOT MODIFY THE ABOVE LINE ( ALBUM TAGS )
+
+
+
+// PLACEHOLDER - DO NOT MODIFY THE BELOW LINE ( ALBUM TAGS )
+{
+// PLACEHOLDER - DO NOT MODIFY THE ABOVE LINE ( ALBUM TAGS )
+
 name: "Jim White",
 albums: [
 
@@ -1441,10 +1484,10 @@ tracks: [
 ]
 },
 
-// Album - We Don't Trust You
+// Album - WE DON'T TRUST YOU
 {
 cover: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/metro_boomin/we_dont_trust_you/00-album_cover.jpg",
-name: "We Don't Trust You",
+name: "WE DON'T TRUST YOU",
 artist: "Future, Metro Boomin",
 releaseDate: "22-03-2024",
 quality: "24-Bit / 96 kHz",
@@ -1492,10 +1535,58 @@ tracks: [
 { name: " 09. I Can't Save You (Interlude) [ft. Future, Don Toliver]      ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/metro_boomin/heroes_&_villains/09-i_cant_save_you_interlude.flac" },
 { name: " 10. Creepin' (ft. The Weeknd, 21 Savage]                        ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/metro_boomin/heroes_&_villains/10-creepin.flac" },
 { name: " 11. Niagara Falls (Foot or 2) [ft. Travis Scott, 21 Savage]     ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/metro_boomin/heroes_&_villains/11-niagara_falls_foot_or_2.flac" },
-{ name: " 12. Walk Em Down (Don't Kill Civilians) [ft. 21 Savage, Mustafa]", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/metro_boomin/heroes_&_villains/12-walk_em_down.flac" },
+{ name: " 12. Walk Em Down (Don't Kill Civilians) [ft. 21 Savage, Mustafa]", src: "https://media.githubusercontent.com/media/SoundGalaxy/SoundGalaxy/main/music/artists/metro_boomin/heroes_%26_villains/12-walk_em_down.flac" },
 { name: " 13. Lock On Me (ft. Travis Scott, Future]                       ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/metro_boomin/heroes_&_villains/13-lock_on_me.flac" },
 { name: " 14. Feel The Fiyaaaah (ft. A$AP Rocky, Takeoff)                 ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/metro_boomin/heroes_&_villains/14-feel_the_fiyaaaah.flac" },
 { name: " 15. All The Money (ft. Gunna) [Bonus]                           ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/metro_boomin/heroes_&_villains/15-all_the_money_bonus.flac" }
+]
+},
+
+// Album - NOT ALL HEROES WEAR CAPES
+{
+cover: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/metro_boomin/not_all_heroes_wear_capes/00-album_cover.jpg",
+name: "NOT ALL HEROES WEAR CAPES",
+artist: "Metro Boomin",
+releaseDate: "02-11-2018",
+quality: "24-Bit / 44.1 kHz",
+format: "FLAC",
+label: " © 2018 Metro Boomin Want Some More, LLC. ℗ 2018 Metro Boomin Want Some More, LLC.",
+tracks: [
+{ name: " 01. 10AM / Save The World   ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/metro_boomin/not_all_heroes_wear_capes/01-10am_save_the_world.flac" },
+{ name: " 02. Overdue                 ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/metro_boomin/not_all_heroes_wear_capes/02-overdue.flac" },
+{ name: " 03. Don't Come Out The House", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/metro_boomin/not_all_heroes_wear_capes/03-dont_come_out_the_house.flac" },
+{ name: " 04. Dreamcatcher            ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/metro_boomin/not_all_heroes_wear_capes/04-dreamcatcher.flac" },
+{ name: " 05. Space Cadet             ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/metro_boomin/not_all_heroes_wear_capes/05-space_cadet.flac" },
+{ name: " 06. 10 Freaky Girls         ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/metro_boomin/not_all_heroes_wear_capes/06-10_freaky_girls.flac" },
+{ name: " 07. Up To Something         ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/metro_boomin/not_all_heroes_wear_capes/07-up_to_something.flac" },
+{ name: " 08. Only 1 (Interlude)      ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/metro_boomin/not_all_heroes_wear_capes/08-only_1_interlude.flac" },
+{ name: " 09. Lesbian                 ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/metro_boomin/not_all_heroes_wear_capes/09-lesbian.flac" },
+{ name: " 10. Borrowed Love           ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/metro_boomin/not_all_heroes_wear_capes/10-borrowed_love.flac" },
+{ name: " 11. Only You                ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/metro_boomin/not_all_heroes_wear_capes/11-only_you.flac" },
+{ name: " 12. No More                 ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/metro_boomin/not_all_heroes_wear_capes/12-no_more.flac" },
+{ name: " 13. No Complaints           ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/metro_boomin/not_all_heroes_wear_capes/13_no_complaints.flac" }
+]
+},
+
+// Album - Savage Mode
+{
+cover: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/metro_boomin/savage_mode/00-album_cover.jpg",
+name: "Savage Mode",
+artist: "Metro Boomin",
+releaseDate: "15-07-2016",
+quality: "16-Bit / 44.1 kHz",
+format: "FLAC",
+label: " © 2016 Slaughter Gang ℗ 2016 Slaughter Gang",
+tracks: [
+{ name: " 01. No Advance    ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/metro_boomin/savage_mode/01-no_advance.flac" },
+{ name: " 02. No Heart      ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/metro_boomin/savage_mode/02-no_heart.flac" },
+{ name: " 03. X (ft. Future)", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/metro_boomin/savage_mode/03-x.flac" },
+{ name: " 04. Savage Mode   ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/metro_boomin/savage_mode/04-savage_mode.flac" },
+{ name: " 05. Bad Guy       ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/metro_boomin/savage_mode/05-bad_guy.flac" },
+{ name: " 06. Real Nigga    ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/metro_boomin/savage_mode/06-real_nigga.flac" },
+{ name: " 07. Mad High      ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/metro_boomin/savage_mode/07-mad_high.flac" },
+{ name: " 08. Feel It       ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/metro_boomin/savage_mode/08-feel_it.flac" },
+{ name: " 09. Ocean Drive   ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/metro_boomin/savage_mode/09-ocean_drive.flac" }
 ]
 },
 
