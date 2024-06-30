@@ -1054,14 +1054,14 @@ tracks: [
 { name: " 06. Surround Sound (ft. 21 Savage)", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/jid/the_forever_story/06-surround_sound.flac" },
 { name: " 07. Kody Blu 31                   ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/jid/the_forever_story/07-kody_blu_31.flac" },
 { name: " 08. Bruddanem                     ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/jid/the_forever_story/08-bruddanem.flac" },
-{ name: " 09. Sistanem                      ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/jid/the_forever_story/09-sistanem.flac" },
+{ name: " 09. Sistanem                      ", src: "https://media.githubusercontent.com/media/SoundGalaxy/SoundGalaxy/main/music/artists/jid/the_forever_story/09-sistanem.flac" },
 { name: " 10. Can't Make U Change           ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/jid/the_forever_story/10-cant_make_u_change.flac" },
 { name: " 11. Stars                         ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/jid/the_forever_story/11-stars.flac" },
 { name: " 12. Just In Time                  ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/jid/the_forever_story/12-just_in_time.flac" },
 { name: " 13. Money                         ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/jid/the_forever_story/13-money.flac" },
 { name: " 14. Better Days                   ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/jid/the_forever_story/14-better_days.flac" },
 { name: " 15. Lauder Too                    ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/jid/the_forever_story/15-lauder_too.flac" },
-{ name: " 16. 2007                          ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/jid/the_forever_story/16-2007.flac" }
+{ name: " 16. 2007                          ", src: "https://media.githubusercontent.com/media/SoundGalaxy/SoundGalaxy/main/music/artists/jid/the_forever_story/16-2007.flac" }
 ]
 },
 
@@ -2284,6 +2284,47 @@ tracks: [
 },
 // PLACEHOLDER - DO NOT MODIFY THE ABOVE LINE ( ALBUM TAGS )
 
+
+
+name: "Travis Scott",
+albums: [
+
+// Album - UTOPIA
+{
+cover: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/travis_scott/utopia/00-album_cover.jpg",
+name: "UTOPIA",
+artist: "Travis Scott",
+releaseDate: "28-07-2023",
+quality: "24-Bit / 88 kHz",
+format: "FLAC",
+label: " ℗ 2023 Cactus Jack Records under exclusive license to Epic Records, a division of Sony Music Entertainment",
+tracks: [
+{ name: " 01. HYAENA            ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/travis_scott/utopia/" },
+{ name: " 02. THANK GOD         ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/travis_scott/utopia/" },
+{ name: " 03. MORDERN JAM       ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/travis_scott/utopia/" },
+{ name: " 04. MY EYES           ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/travis_scott/utopia/" },
+{ name: " 05. GOD'S COUNTRY     ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/travis_scott/utopia/" },
+{ name: " 06. SIRENS            ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/travis_scott/utopia/" },
+{ name: " 07. MELTDOWN          ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/travis_scott/utopia/" },
+{ name: " 08. FE!N              ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/travis_scott/utopia/" },
+{ name: " 09. DELRESTO (ECHOES) ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/travis_scott/utopia/" },
+{ name: " 10. I KNOW ?          ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/travis_scott/utopia/" },
+{ name: " 11. TOPIA TWINS       ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/travis_scott/utopia/" },
+{ name: " 12. CIRCUS MAXIMUS    ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/travis_scott/utopia/" },
+{ name: " 13. PARASAIL          ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/travis_scott/utopia/" },
+{ name: " 14. SKITZO            ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/travis_scott/utopia/" },
+{ name: " 15. LOST FOREVER      ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/travis_scott/utopia/" },
+{ name: " 16. LOOOVE            ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/travis_scott/utopia/" },
+{ name: " 17. K-POP             ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/travis_scott/utopia/" },
+{ name: " 18. TELEKINESIS       ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/travis_scott/utopia/" },
+{ name: " 19. TIL FURTHER NOTICE", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/travis_scott/utopia/" }
+]
+},
+
+// PLACEHOLDER - DO NOT MODIFY THE BELOW LINE ( ALBUM TAGS )
+]
+},
+// PLACEHOLDER - DO NOT MODIFY THE ABOVE LINE ( ALBUM TAGS )
 
 
 
