@@ -8,6 +8,27 @@ const artists = [
 name: "Bollywood - Hindi",
 albums: [
 
+// Album - Ishq Vishk Rebound (Original Motion Picture Soundtrack)
+{
+cover: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/ishq_vishk_rebound/00-album_cover.jpg",
+name: "Ishq Vishk Rebound (Original Motion Picture Soundtrack)",
+artist: "Various Artists",
+releaseDate: "21-06-2024",
+quality: "24-Bit / 96 kHz",
+format: "FLAC",
+label: " ℗ 2024 Tips Industries Ltd. © — 2024 Tips Industries Ltd.",
+tracks: [
+{ name: " 01. Ishq Vishk Pyaar Vyaar", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/ishq_vishk_rebound/01-ishq_vishk_pyaar_vyaar.flac" },
+{ name: " 02. Soni Soni             ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/ishq_vishk_rebound/02-soni_soni.flac" },
+{ name: " 03. Chot Dil Pe Lagi      ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/ishq_vishk_rebound/03-chot_dil_pe_lagi.flac" },
+{ name: " 04. Gore Gore Mukhde Pe   ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/ishq_vishk_rebound/04-gore_gore_mukhde_pe.flac" },
+{ name: " 05. Rehmat                ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/ishq_vishk_rebound/05-rehmat.flac" },
+{ name: " 06. Jaavi Na              ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/ishq_vishk_rebound/06-jaavi_na.flac" },
+{ name: " 07. Rehmat (Rebound)      ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/ishq_vishk_rebound/07-rehmat_rebound.flac" },
+{ name: " 08. Rehmat (ALT)          ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/ishq_vishk_rebound/08-rehmat_alt.flac" }
+]
+},
+
 // Album - Mr. And Mrs. Mahi (Original Motion Picture Soundtrack)
 {
 cover: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/albums/bollywood_hindi/mr_and_mrs_mahi/00-album_cover.jpg",
@@ -2322,6 +2343,37 @@ tracks: [
 { name: " 17. K-POP             ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/travis_scott/utopia/" },
 { name: " 18. TELEKINESIS       ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/travis_scott/utopia/" },
 { name: " 19. TIL FURTHER NOTICE", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/travis_scott/utopia/" }
+]
+},
+
+// Album - ASTROWORLD
+{
+cover: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/travis_scott/astroworld/00-album_cover.jpg",
+name: "ASTROWORLD",
+artist: "Travis Scott",
+releaseDate: "03-08-2018",
+quality: "24-Bit / 88 kHz",
+format: "FLAC",
+label: " ℗ 2018 Cactus Jack Records, LLC under exclusive licensed to Epic Records, a division of Sony Music Entertainment",
+
+tracks: [
+{ name: " 01. STARGAZING           ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/travis_scott/astroworld/01-stargazing.flac" },
+{ name: " 02. CAROUSEL             ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/travis_scott/astroworld/02-carousel.flac" },
+{ name: " 03. SICKO MODE           ", src: "https://media.githubusercontent.com/media/SoundGalaxy/SoundGalaxy/main/music/artists/travis_scott/astroworld/03-sicko_mode.flac" },
+{ name: " 04. R.I.P. SCREW         ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/travis_scott/astroworld/04-rip_screw.flac" },
+{ name: " 05. STOP TRYING TO BE GOD", src: "https://media.githubusercontent.com/media/SoundGalaxy/SoundGalaxy/main/music/artists/travis_scott/astroworld/05-stop_trying_to_be_god.flac" },
+{ name: " 06. NO BYSTANDERS        ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/travis_scott/astroworld/06-no_bystanders.flac" },
+{ name: " 07. SKELETONS            ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/travis_scott/astroworld/07-skeletons.flac" },
+{ name: " 08. WAKE UP              ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/travis_scott/astroworld/08-wake_up.flac" },
+{ name: " 09. 5% TINT              ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/travis_scott/astroworld/09-5%_tint" },
+{ name: " 10. NC-17                ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/travis_scott/astroworld/10-nc_17.flac" },
+{ name: " 11. ASTROTHUNDER         ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/travis_scott/astroworld/11-astrothunder.flac" },
+{ name: " 12. YOSEMITE             ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/travis_scott/astroworld/12-yosemite.flac" },
+{ name: " 13. CAN'T SAY            ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/travis_scott/astroworld/13-cant_say.flac" },
+{ name: " 14. WHO? WHAT!           ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/travis_scott/astroworld/14-who_what.flac" },
+{ name: " 15. BUTTERFLY EFFECT     ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/travis_scott/astroworld/15-butterfly_effect.flac" },
+{ name: " 16. HOUSTONFORNICATION   ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/travis_scott/astroworld/16-houstonfornication.flac" },
+{ name: " 17. COFFEE BEAN          ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/travis_scott/astroworld/17-coffee_bean.flac" }
 ]
 },
 
