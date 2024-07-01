@@ -1535,6 +1535,32 @@ tracks: [
 ]
 },
 
+// Album - METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE
+{
+cover: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/metro_boomin/spiderman_across_the_spiderverse/00-album_cover.jpg",
+name: "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE",
+artist: "Metro Boomin",
+releaseDate: "02-06-2023",
+quality: "24-Bit / 96 kHz",
+format: "FLAC",
+label: " © 2023 Republic Records, a division of UMG Recordings, Inc. ℗ 2023 Republic Records, a division of UMG Recordings, Inc.",
+tracks: [
+{ name: " 01. Annihilate              ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/metro_boomin/spiderman_across_the_spiderverse/01-annihilate.flac" },
+{ name: " 02. Am I Dreaming           ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/metro_boomin/spiderman_across_the_spiderverse/02-am_i_dreaming.flac" },
+{ name: " 03. All The Way Live        ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/metro_boomin/spiderman_across_the_spiderverse/03-all_the_way_live.flac" },
+{ name: " 04. Danger (Spider)         ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/metro_boomin/spiderman_across_the_spiderverse/04-danger_spider.flac" },
+{ name: " 05. Hummingbird             ", src: "https://media.githubusercontent.com/media/SoundGalaxy/SoundGalaxy/main/music/artists/metro_boomin/spiderman_across_the_spiderverse/05-hummingbird.flac" },
+{ name: " 06. Calling                 ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/metro_boomin/spiderman_across_the_spiderverse/06-calling.flac" },
+{ name: " 07. Silk And Cologne        ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/metro_boomin/spiderman_across_the_spiderverse/07-silk_and_cologne.flac" },
+{ name: " 08. Link Up                 ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/metro_boomin/spiderman_across_the_spiderverse/08-link_up.flac" },
+{ name: " 09. Self Love               ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/metro_boomin/spiderman_across_the_spiderverse/09-self_love.flac" },
+{ name: " 10. Home                    ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/metro_boomin/spiderman_across_the_spiderverse/10-home.flac" },
+{ name: " 11. Nonviolent Communication", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/metro_boomin/spiderman_across_the_spiderverse/11-nonviolent_communication.flac" },
+{ name: " 12. Givin' Up (Not The One) ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/metro_boomin/spiderman_across_the_spiderverse/12-givin_up_not_the_one.flac" },
+{ name: " 13. Nas Morales             ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/metro_boomin/spiderman_across_the_spiderverse/13-nas_morales.flac" }
+]
+},
+
 // Album - HEROES & VILLAINS
 {
 cover: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/metro_boomin/heroes_&_villains/00-album_cover.jpg",
@@ -2346,6 +2372,20 @@ tracks: [
 ]
 },
 
+// Album - The London (feat. J. Cole & Travis Scott)
+{
+cover: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/travis_scott/the_london/00-album_cover.jpg",
+name: "The London (feat. J. Cole & Travis Scott)",
+artist: "Travis Scott, Young Thug & J. Cole",
+releaseDate: "23-05-2019",
+quality: "16-Bit / 44.1 kHz",
+format: "FLAC",
+label: " © 2019 300 Entertainment / Atlantic Recording Corporation ℗ 2019 300 Entertainment / Atlantic Recording Corporation",
+tracks: [
+{ name: " 01. The London (feat. J. Cole & Travis Scott)", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/travis_scott/the_london/the_london.flac" }
+]
+},
+
 // Album - ASTROWORLD
 {
 cover: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/travis_scott/astroworld/00-album_cover.jpg",
@@ -2377,6 +2417,33 @@ tracks: [
 ]
 },
 
+// Album - Birds In The Trap Sing McKnight
+{
+cover: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/travis_scott/birds_in_the_trap_sing_mcknight/00-album_cover.jpg",
+name: "Birds In The Trap Sing McKnight",
+artist: "Travis Scott",
+releaseDate: "03-09-2016",
+quality: "24-Bit / 44.1 kHz",
+format: "FLAC",
+label: " ℗ 2016 Cactus Jack Records, LLC under exclusive license to Epic Records, a division of Sony Music Entertainment",
+tracks: [
+{ name: " 01. the ends                       ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/travis_scott/birds_in_the_trap_sing_mcknight/01-the_ends.flac" },
+{ name: " 02. way back                       ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/travis_scott/birds_in_the_trap_sing_mcknight/02-way_back.flac" },
+{ name: " 03. coordinate                     ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/travis_scott/birds_in_the_trap_sing_mcknight/03-coordinate.flac" },
+{ name: " 04. through the late night         ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/travis_scott/birds_in_the_trap_sing_mcknight/04-through_the_late_night.flac" },
+{ name: " 05. beibs in the traps             ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/travis_scott/birds_in_the_trap_sing_mcknight/05-beibs_in_the_traps.flac" },
+{ name: " 06. sdp interlude                  ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/travis_scott/birds_in_the_trap_sing_mcknight/06-sdp_interlude.flac" },
+{ name: " 07. sweet sweet                    ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/travis_scott/birds_in_the_trap_sing_mcknight/07-sweet_sweet.flac" },
+{ name: " 08. outside                        ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/travis_scott/birds_in_the_trap_sing_mcknight/08-outside.flac" },
+{ name: " 09. goosebumps (ft. Kendrick Lamar)", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/travis_scott/birds_in_the_trap_sing_mcknight/09-goosebumps.flac" },
+{ name: " 10. first take                     ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/travis_scott/birds_in_the_trap_sing_mcknight/10-first_take.flac" },
+{ name: " 11. pick up the phone              ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/travis_scott/birds_in_the_trap_sing_mcknight/11-pick_up_the_phone.flac" },
+{ name: " 12. lose                           ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/travis_scott/birds_in_the_trap_sing_mcknight/12-lose.flac" },
+{ name: " 13. guidance                       ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/travis_scott/birds_in_the_trap_sing_mcknight/13-guidance.flac" },
+{ name: " 14. wonderful                      ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/travis_scott/birds_in_the_trap_sing_mcknight/14-wonderful.flac" }
+]
+},
+
 // PLACEHOLDER - DO NOT MODIFY THE BELOW LINE ( ALBUM TAGS )
 ]
 },
@@ -2387,6 +2454,17 @@ tracks: [
 // PLACEHOLDER - DO NOT MODIFY THE BELOW LINE ( ARTIST TAGS )
 ];
 // PLACEHOLDER - DO NOT MODIFY THE ABOVE LINE ( ARTIST TAGS )
+
+// ----------------------------------------------------------------------------
+// Upcoming Updates Information:
+// ----------------------------------------------------------------------------
+//
+// [FIX] Album Cover Should Be Displayed According To It's Album Only.
+// [NEW] Add Option Of Displaying All Tracks.
+// [NEW] Add An Option To Display Whether Is The Track Explicit Or Not.
+// [NEW] Add An Option Of Showing All Total Listening Time Of The Album.
+//
+// ---------------------------------------------------------------------------- 
 
 
     const artistList = document.getElementById('artist-list');
@@ -2406,7 +2484,7 @@ tracks: [
     let isPlaying = false;
     let currentAlbum = [];
     let currentTrackIndex = 0;
-
+	
     // Function to display artists in the sidebar and albums in the album grid
     const displayArtistsAndAlbums = () => {
         artists.forEach((artist, index) => {
