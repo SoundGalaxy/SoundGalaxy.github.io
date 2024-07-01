@@ -601,6 +601,77 @@ tracks: [
 {
 // PLACEHOLDER - DO NOT MODIFY THE ABOVE LINE ( ALBUM TAGS )
 
+name: "21 Savage",
+albums: [
+
+// Album - american dream
+{
+cover: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/21_savage/american_dream/",
+name: "american dream",
+artist: "21 Savage",
+releaseDate: "12-01-2024",
+quality: "24-Bit / 48 kHz",
+format: "FLAC",
+label: " ℗ 2024 Slaughter Gang, LLC under exclusive license to Epic Records, a division of Sony Music Entertainment",
+tracks: [
+{ name: " 01. american dream         ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/21_savage/american_dream/01-american_dream.flac" },
+{ name: " 02. all of me              ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/21_savage/american_dream/02-all_of_me.flac" },
+{ name: " 03. redrum                 ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/21_savage/american_dream/03-redrum.flac" },
+{ name: " 04. n.h.i.e.               ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/21_savage/american_dream/04-nhie.flac" },
+{ name: " 05. sneaky                 ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/21_savage/american_dream/05-sneaky.flac" },
+{ name: " 06. pop ur shit            ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/21_savage/american_dream/06-pop_ur_shit.flac" },
+{ name: " 07. letter to my brudda    ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/21_savage/american_dream/07-letter_to_my_brudda.flac" },
+{ name: " 08. dangerous              ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/21_savage/american_dream/08-dangerous.flac" },
+{ name: " 09. née-nah                ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/21_savage/american_dream/09-nee_nah.flac" },
+{ name: " 10. see the real           ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/21_savage/american_dream/10-see_the_real.flac" },
+{ name: " 11. prove it               ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/21_savage/american_dream/11-prove_it.flac" },
+{ name: " 12. should've wore a bonnet", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/21_savage/american_dream/12-shouldve_wore_a_bonnet.flac" },
+{ name: " 13. just like me           ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/21_savage/american_dream/13-just_like_me.flac" },
+{ name: " 14. red sky                ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/21_savage/american_dream/14-red_sky.flac" },
+{ name: " 15. dark days              ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/21_savage/american_dream/15-dark_days.flac" }
+]
+},
+
+// Album - Her Loss
+{
+cover: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/21_savage/her_loss/00-album_cover.jpg",
+name: "Her Loss",
+artist: "Drake, 21 Savage",
+releaseDate: "28-10-2022",
+quality: "24-Bit / 48 kHz",
+format: "FLAC",
+label: " ℗ 2022 OVO © 2022 OVO",
+tracks: [
+{ name: " 01. Rich Flex            ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/21_savage/her_loss/01-rich_flex.flac" },
+{ name: " 02. Major Distribution   ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/21_savage/her_loss/02-major_distribution.flac" },
+{ name: " 03. On BS                ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/21_savage/her_loss/03-on_bs.flac" },
+{ name: " 04. BackOutsideBoyz      ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/21_savage/her_loss/04-backoutsideboyz.flac" },
+{ name: " 05. Privileged Rappers   ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/21_savage/her_loss/05-privileged_rappers.flac" },
+{ name: " 06. Spin Bout U          ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/21_savage/her_loss/06-spin_bout_u.flac" },
+{ name: " 07. Hours In Silence     ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/21_savage/her_loss/07-hours_in_silence.flac" },
+{ name: " 08. Treacherous Twins    ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/21_savage/her_loss/08-treacherous_twins.flac" },
+{ name: " 09. Circo Loco           ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/21_savage/her_loss/09-circo_loco.flac" },
+{ name: " 10. Pussy & Millions     ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/21_savage/her_loss/10-pussy_&_millions.flac" },
+{ name: " 11. Broke Boys           ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/21_savage/her_loss/11-broke_boys.flac" },
+{ name: " 12. Middle of the Ocean  ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/21_savage/her_loss/12-middle_of_the_ocean.flac" },
+{ name: " 13. Jumbotron Shit Poppin", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/21_savage/her_loss/13-jumbotron_shit_poppin.flac" },
+{ name: " 14. More M's             ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/21_savage/her_loss/14-more_ms.flac" },
+{ name: " 15. 3AM on Glenwood      ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/21_savage/her_loss/15-3am_on_glenwood.flac" },
+{ name: " 16. I Guess It's Fuck Me ", src: "https://raw.githubusercontent.com/SoundGalaxy/SoundGalaxy/main/music/artists/21_savage/her_loss/16-i_guess_its_fuck_me.flac" }
+]
+},
+
+// PLACEHOLDER - DO NOT MODIFY THE BELOW LINE ( ALBUM TAGS )
+]
+},
+// PLACEHOLDER - DO NOT MODIFY THE ABOVE LINE ( ALBUM TAGS )
+
+
+
+// PLACEHOLDER - DO NOT MODIFY THE BELOW LINE ( ALBUM TAGS )
+{
+// PLACEHOLDER - DO NOT MODIFY THE ABOVE LINE ( ALBUM TAGS )
+
 name: "Arijit Singh",
 albums: [
 
